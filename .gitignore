@@ -1,0 +1,13 @@
+# Output and data files
+submission.json
+submission.csv
+/out/
+*.out
+
+# Transcripts
+transcript*.jsonl
+transcripts.tar.gz
+
+# Python cache
+__pycache__/
+*.py[cod]
