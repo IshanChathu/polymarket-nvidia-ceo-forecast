@@ -1,124 +1,147 @@
 """
-Main Orchestration Script for Polymarket NVIDIA CEO Forecasting Bounty.
-Executes data ingestion, feature extraction, multi-step probability forecasting,
-constraint validation, and outputs ready-to-submit artifacts.
+Polymarket Next NVIDIA CEO Minute-by-Minute Forecaster
+Competition: polymarket-nvidia-ceo-forecast-01
+
+Reads input cases from MAKEFUN_INPUT_DIR (or /input),
+computes calibrated per-market volatility and decaying drift from recent prices,
+and generates quantile forecasts [0.05, 0.25, 0.5, 0.75, 0.95] for 240 forward minutes.
+Writes output forecasts to MAKEFUN_OUTPUT_DIR (or /output).
 """
 
-import argparse
-import csv
 import json
+import math
 import os
 import sys
-from datetime import datetime, timezone
+from typing import Dict, List, Any
 
-from polymarket_client import PolymarketClient
-from data_pipeline import DataPipeline
-from forecasting_engine import MultiStepForecaster
-from evaluator import ForecastEvaluator
+INPUT_DIR = os.environ.get("MAKEFUN_INPUT_DIR", "/input")
+OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
+
+# Quantile levels and corresponding standard normal critical values
+QUANTILES = [0.05, 0.25, 0.5, 0.75, 0.95]
+Z = [-1.644854, -0.674490, 0.0, 0.674490, 1.644854]
+
+# Baseline volatility prior (per square-root minute)
+BASE_SIGMA = 0.0025
 
 
-def run_pipeline(output_dir: str = ".") -> int:
-    print("=" * 70)
-    print(" Polymarket NVIDIA CEO Forecasting Pipeline (make.fun bounty)")
-    print(" Target: 240-minute (4 hours) minute-by-minute price forecast")
-    print("=" * 70)
+def clamp_price6(x: float) -> float:
+    """Clamp value to [0, 1] and round to 6 decimal places (0.0, never -0.0)."""
+    val = round(min(1.0, max(0.0, x)), 6)
+    return 0.0 if val == -0.0 else val
 
-    # 1. Ingestion
-    print("\n[1/5] Fetching candidate market series from Polymarket...")
-    client = PolymarketClient(offline_fallback=True)
-    meta = client.fetch_market_meta("nvidia-next-ceo")
-    print(f"      Market: {meta.get('title')}")
-    print(f"      Resolution Date: {meta.get('resolutionDate')}")
-    
-    raw_histories = client.fetch_all_candidate_series(lookback_minutes=1440)
-    for cand, hist in raw_histories.items():
-        latest_price = hist[-1]["price"] if hist else 0.0
-        print(f"      - {cand:<18}: {len(hist)} minute bars | Latest: {latest_price:.4f}")
 
-    # 2. Feature Engineering
-    print("\n[2/5] Engineering rolling features (VWAP, EMA, Momentum, Realized Vol)...")
-    pipeline = DataPipeline()
-    features_by_candidate = {}
-    for cand, hist in raw_histories.items():
-        feats = pipeline.compute_features(hist)
-        features_by_candidate[cand] = feats
+def compute_market_stats(prices: List[float]) -> tuple[float, float]:
+    """
+    Computes per-minute volatility (sigma) and decaying drift from recent price history.
+    """
+    if len(prices) < 2:
+        return BASE_SIGMA, 0.0
 
-    # 3. Multi-Step Probability Forecasting
-    print("\n[3/5] Generating 240-minute forward trajectory with log-odds projection...")
-    forecaster = MultiStepForecaster(horizon_minutes=240)
-    forecasts = forecaster.forecast_joint_candidates(features_by_candidate)
+    # Use recent window (up to 120 minutes) for volatility estimation
+    w_vol = min(len(prices), 120)
+    recent_prices = prices[-w_vol:]
 
-    # 4. Constraint Validation
-    print("\n[4/5] Validating competition rules & probabilistic consistency...")
-    is_valid, validation_errors = ForecastEvaluator.validate_constraints(forecasts)
-    if is_valid:
-        print("      ✓ ALL CHECKS PASSED:")
-        print("        - Exactly 240 forward minute steps generated per candidate.")
-        print("        - Probability bounds [0, 1] strictly maintained.")
-        print("        - Sum-to-one constraint satisfied at every minute step.")
-    else:
-        print("      ✗ Validation errors detected:")
-        for err in validation_errors[:5]:
-            print(f"        - {err}")
-        return 1
+    diffs = [recent_prices[i] - recent_prices[i - 1] for i in range(1, len(recent_prices))]
+    if not diffs:
+        return BASE_SIGMA, 0.0
 
-    # 5. Export Submission Artifacts
-    print("\n[5/5] Exporting submission artifacts...")
-    os.makedirs(output_dir, exist_ok=True)
-    json_path = os.path.join(output_dir, "submission.json")
-    csv_path = os.path.join(output_dir, "submission.csv")
+    # Mean squared difference per minute
+    msd = sum(d * d for d in diffs) / len(diffs)
+    empirical_sigma = math.sqrt(msd)
 
-    # JSON Structure
-    submission_payload = {
-        "bounty_id": "polymarket-nvidia-ceo-forecast-01",
-        "market": "nvidia-next-ceo",
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "horizon_minutes": 240,
-        "candidates": list(forecasts.keys()),
-        "forecasts": forecasts,
-    }
+    # Shrinkage toward prior BASE_SIGMA to avoid overfitting to flat stretches
+    # (Empirical Bayes weighting: 60% empirical, 40% prior)
+    sigma = 0.6 * empirical_sigma + 0.4 * BASE_SIGMA
+    # Bound sigma in sensible range [0.0005, 0.025]
+    sigma = max(0.0005, min(0.025, sigma))
 
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(submission_payload, f, indent=2)
-    print(f"      ✓ Saved JSON submission: {json_path}")
+    # Compute short-term drift (from last 15-30 minutes)
+    w_drift = min(len(prices), 30)
+    p_now = prices[-1]
+    p_past = prices[-w_drift]
+    # Drift per minute
+    raw_drift = (p_now - p_past) / float(w_drift)
+    # Bound drift per minute (equivalent to max +/- 5% per hour)
+    drift = max(-0.0008, min(0.0008, raw_drift))
 
-    # CSV Structure: minute, candidate, timestamp, forecast_price, lower_90, upper_90
-    with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow(["step", "timestamp_utc", "candidate", "forecast_probability", "lower_90", "upper_90"])
-        for step_idx in range(240):
-            for cand in forecasts:
-                item = forecasts[cand][step_idx]
-                ts_str = datetime.fromtimestamp(item["t"], tz=timezone.utc).isoformat()
-                writer.writerow([
-                    item["step"],
-                    ts_str,
-                    cand,
-                    item["forecast_price"],
-                    item["lower_90"],
-                    item["upper_90"],
-                ])
-    print(f"      ✓ Saved CSV submission:  {csv_path}")
+    return sigma, drift
 
-    # Preview key steps: t+15m, t+60m, t+120m, t+240m
-    print("\n" + "=" * 70)
-    print(" PREVIEW: Forecasted Probability Trajectory")
-    print("=" * 70)
-    print(f"{'Candidate':<18} | {'t+15m':<8} | {'t+60m':<8} | {'t+120m':<8} | {'t+240m':<8}")
-    print("-" * 70)
-    for cand in forecasts:
-        p15 = forecasts[cand][14]["forecast_price"]
-        p60 = forecasts[cand][59]["forecast_price"]
-        p120 = forecasts[cand][119]["forecast_price"]
-        p240 = forecasts[cand][239]["forecast_price"]
-        print(f"{cand:<18} | {p15:.4f}   | {p60:.4f}   | {p120:.4f}   | {p240:.4f}")
-    print("-" * 70)
-    print("Pipeline run complete.")
-    return 0
+
+def forecast_market(market: Dict[str, Any], horizon: int) -> List[List[float]]:
+    """
+    Produces horizon rows of the 5 quantiles for a single market.
+    """
+    prices = market.get("prices", [])
+    if not prices:
+        raise ValueError(f"Market {market.get('id')} has no prices")
+
+    x0 = prices[-1]
+    sigma, drift = compute_market_stats(prices)
+
+    # Drift half-life: 45 minutes (momentum fades into mean-reversion)
+    decay_rate = math.exp(-math.log(2.0) / 45.0)
+
+    rows: List[List[float]] = []
+    current_drift_accum = 0.0
+    active_drift = drift
+
+    for h in range(1, horizon + 1):
+        current_drift_accum += active_drift
+        active_drift *= decay_rate
+
+        expected_mid = x0 + current_drift_accum
+        spread = sigma * math.sqrt(h)
+
+        row = []
+        for z_val in Z:
+            q_val = clamp_price6(expected_mid + z_val * spread)
+            row.append(q_val)
+
+        # Ensure monotonicity: q_0 <= q_1 <= q_2 <= q_3 <= q_4
+        for i in range(1, 5):
+            if row[i] < row[i - 1]:
+                row[i] = row[i - 1]
+
+        rows.append(row)
+
+    return rows
+
+
+def main() -> None:
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+    if not os.path.isdir(INPUT_DIR):
+        print(f"Input directory {INPUT_DIR} does not exist.", file=sys.stderr)
+        sys.exit(1)
+
+    input_files = sorted([f for f in os.listdir(INPUT_DIR) if f.endswith(".in")])
+    if not input_files:
+        print(f"No .in files found in {INPUT_DIR}", file=sys.stderr)
+        sys.exit(0)
+
+    for file_name in input_files:
+        case_id = file_name[:-3] # Strip '.in'
+        input_path = os.path.join(INPUT_DIR, file_name)
+
+        with open(input_path, "r", encoding="utf-8") as f:
+            case_data = json.load(f)
+
+        horizon = case_data.get("horizon_minutes", 240)
+        markets = case_data.get("markets", [])
+
+        forecasts = []
+        for m in markets:
+            q_rows = forecast_market(m, horizon)
+            forecasts.append({"id": m["id"], "q": q_rows})
+
+        output_path = os.path.join(OUTPUT_DIR, f"{case_id}.out")
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump({"forecasts": forecasts}, f, separators=(",", ":"))
+            f.write("\n")
+
+    print(f"Successfully processed {len(input_files)} cases into {OUTPUT_DIR}")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Polymarket NVIDIA CEO Forecaster")
-    parser.add_argument("--output-dir", default=".", help="Directory to save submission files")
-    args = parser.parse_args()
-    sys.exit(run_pipeline(args.output_dir))
+    main()
