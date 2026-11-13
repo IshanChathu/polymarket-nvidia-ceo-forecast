@@ -1,0 +1,8425 @@
+{
+  "bounty_id": "polymarket-nvidia-ceo-forecast-01",
+  "market": "nvidia-next-ceo",
+  "generated_at": "2026-11-13T16:32:02.501653+00:00",
+  "horizon_minutes": 240,
+  "candidates": [
+    "Ian Buck",
+    "Colette Kress",
+    "Rene Haas",
+    "Madison Huang",
+    "Other / External"
+  ],
+  "forecasts": {
+    "Ian Buck": [
+      {
+        "step": 1,
+        "t": 1794587582,
+        "forecast_price": 0.3425,
+        "lower_90": 0.3363,
+        "upper_90": 0.3487
+      },
+      {
+        "step": 2,
+        "t": 1794587642,
+        "forecast_price": 0.3423,
+        "lower_90": 0.3335,
+        "upper_90": 0.351
+      },
+      {
+        "step": 3,
+        "t": 1794587702,
+        "forecast_price": 0.3421,
+        "lower_90": 0.3313,
+        "upper_90": 0.3528
+      },
+      {
+        "step": 4,
+        "t": 1794587762,
+        "forecast_price": 0.3419,
+        "lower_90": 0.3295,
+        "upper_90": 0.3543
+      },
+      {
+        "step": 5,
+        "t": 1794587822,
+        "forecast_price": 0.3417,
+        "lower_90": 0.3278,
+        "upper_90": 0.3556
+      },
+      {
+        "step": 6,
+        "t": 1794587882,
+        "forecast_price": 0.3415,
+        "lower_90": 0.3264,
+        "upper_90": 0.3567
+      },
+      {
+        "step": 7,
+        "t": 1794587942,
+        "forecast_price": 0.3414,
+        "lower_90": 0.325,
+        "upper_90": 0.3578
+      },
+      {
+        "step": 8,
+        "t": 1794588002,
+        "forecast_price": 0.3412,
+        "lower_90": 0.3237,
+        "upper_90": 0.3587
+      },
+      {
+        "step": 9,
+        "t": 1794588062,
+        "forecast_price": 0.3411,
+        "lower_90": 0.3225,
+        "upper_90": 0.3597
+      },
+      {
+        "step": 10,
+        "t": 1794588122,
+        "forecast_price": 0.3409,
+        "lower_90": 0.3213,
+        "upper_90": 0.3605
+      },
+      {
+        "step": 11,
+        "t": 1794588182,
+        "forecast_price": 0.3408,
+        "lower_90": 0.3203,
+        "upper_90": 0.3613
+      },
+      {
+        "step": 12,
+        "t": 1794588242,
+        "forecast_price": 0.3407,
+        "lower_90": 0.3192,
+        "upper_90": 0.3621
+      },
+      {
+        "step": 13,
+        "t": 1794588302,
+        "forecast_price": 0.3406,
+        "lower_90": 0.3182,
+        "upper_90": 0.3629
+      },
+      {
+        "step": 14,
+        "t": 1794588362,
+        "forecast_price": 0.3404,
+        "lower_90": 0.3173,
+        "upper_90": 0.3636
+      },
+      {
+        "step": 15,
+        "t": 1794588422,
+        "forecast_price": 0.3403,
+        "lower_90": 0.3164,
+        "upper_90": 0.3643
+      },
+      {
+        "step": 16,
+        "t": 1794588482,
+        "forecast_price": 0.3402,
+        "lower_90": 0.3155,
+        "upper_90": 0.365
+      },
+      {
+        "step": 17,
+        "t": 1794588542,
+        "forecast_price": 0.3401,
+        "lower_90": 0.3146,
+        "upper_90": 0.3656
+      },
+      {
+        "step": 18,
+        "t": 1794588602,
+        "forecast_price": 0.34,
+        "lower_90": 0.3138,
+        "upper_90": 0.3663
+      },
+      {
+        "step": 19,
+        "t": 1794588662,
+        "forecast_price": 0.3399,
+        "lower_90": 0.313,
+        "upper_90": 0.3669
+      },
+      {
+        "step": 20,
+        "t": 1794588722,
+        "forecast_price": 0.3398,
+        "lower_90": 0.3122,
+        "upper_90": 0.3675
+      },
+      {
+        "step": 21,
+        "t": 1794588782,
+        "forecast_price": 0.3398,
+        "lower_90": 0.3114,
+        "upper_90": 0.3681
+      },
+      {
+        "step": 22,
+        "t": 1794588842,
+        "forecast_price": 0.3397,
+        "lower_90": 0.3107,
+        "upper_90": 0.3687
+      },
+      {
+        "step": 23,
+        "t": 1794588902,
+        "forecast_price": 0.3396,
+        "lower_90": 0.31,
+        "upper_90": 0.3693
+      },
+      {
+        "step": 24,
+        "t": 1794588962,
+        "forecast_price": 0.3395,
+        "lower_90": 0.3093,
+        "upper_90": 0.3698
+      },
+      {
+        "step": 25,
+        "t": 1794589022,
+        "forecast_price": 0.3395,
+        "lower_90": 0.3086,
+        "upper_90": 0.3704
+      },
+      {
+        "step": 26,
+        "t": 1794589082,
+        "forecast_price": 0.3394,
+        "lower_90": 0.3079,
+        "upper_90": 0.3709
+      },
+      {
+        "step": 27,
+        "t": 1794589142,
+        "forecast_price": 0.3394,
+        "lower_90": 0.3072,
+        "upper_90": 0.3715
+      },
+      {
+        "step": 28,
+        "t": 1794589202,
+        "forecast_price": 0.3393,
+        "lower_90": 0.3066,
+        "upper_90": 0.372
+      },
+      {
+        "step": 29,
+        "t": 1794589262,
+        "forecast_price": 0.3392,
+        "lower_90": 0.306,
+        "upper_90": 0.3725
+      },
+      {
+        "step": 30,
+        "t": 1794589322,
+        "forecast_price": 0.3392,
+        "lower_90": 0.3054,
+        "upper_90": 0.373
+      },
+      {
+        "step": 31,
+        "t": 1794589382,
+        "forecast_price": 0.3391,
+        "lower_90": 0.3047,
+        "upper_90": 0.3735
+      },
+      {
+        "step": 32,
+        "t": 1794589442,
+        "forecast_price": 0.3391,
+        "lower_90": 0.3042,
+        "upper_90": 0.374
+      },
+      {
+        "step": 33,
+        "t": 1794589502,
+        "forecast_price": 0.3391,
+        "lower_90": 0.3036,
+        "upper_90": 0.3745
+      },
+      {
+        "step": 34,
+        "t": 1794589562,
+        "forecast_price": 0.339,
+        "lower_90": 0.303,
+        "upper_90": 0.375
+      },
+      {
+        "step": 35,
+        "t": 1794589622,
+        "forecast_price": 0.339,
+        "lower_90": 0.3024,
+        "upper_90": 0.3755
+      },
+      {
+        "step": 36,
+        "t": 1794589682,
+        "forecast_price": 0.3389,
+        "lower_90": 0.3019,
+        "upper_90": 0.376
+      },
+      {
+        "step": 37,
+        "t": 1794589742,
+        "forecast_price": 0.3389,
+        "lower_90": 0.3013,
+        "upper_90": 0.3765
+      },
+      {
+        "step": 38,
+        "t": 1794589802,
+        "forecast_price": 0.3389,
+        "lower_90": 0.3008,
+        "upper_90": 0.3769
+      },
+      {
+        "step": 39,
+        "t": 1794589862,
+        "forecast_price": 0.3389,
+        "lower_90": 0.3003,
+        "upper_90": 0.3774
+      },
+      {
+        "step": 40,
+        "t": 1794589922,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2998,
+        "upper_90": 0.3779
+      },
+      {
+        "step": 41,
+        "t": 1794589982,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2993,
+        "upper_90": 0.3783
+      },
+      {
+        "step": 42,
+        "t": 1794590042,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2988,
+        "upper_90": 0.3788
+      },
+      {
+        "step": 43,
+        "t": 1794590102,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2983,
+        "upper_90": 0.3792
+      },
+      {
+        "step": 44,
+        "t": 1794590162,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2978,
+        "upper_90": 0.3797
+      },
+      {
+        "step": 45,
+        "t": 1794590222,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2973,
+        "upper_90": 0.3801
+      },
+      {
+        "step": 46,
+        "t": 1794590282,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2968,
+        "upper_90": 0.3806
+      },
+      {
+        "step": 47,
+        "t": 1794590342,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2964,
+        "upper_90": 0.381
+      },
+      {
+        "step": 48,
+        "t": 1794590402,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2959,
+        "upper_90": 0.3814
+      },
+      {
+        "step": 49,
+        "t": 1794590462,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2954,
+        "upper_90": 0.3819
+      },
+      {
+        "step": 50,
+        "t": 1794590522,
+        "forecast_price": 0.3386,
+        "lower_90": 0.295,
+        "upper_90": 0.3823
+      },
+      {
+        "step": 51,
+        "t": 1794590582,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2945,
+        "upper_90": 0.3827
+      },
+      {
+        "step": 52,
+        "t": 1794590642,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2941,
+        "upper_90": 0.3831
+      },
+      {
+        "step": 53,
+        "t": 1794590702,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2937,
+        "upper_90": 0.3836
+      },
+      {
+        "step": 54,
+        "t": 1794590762,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2932,
+        "upper_90": 0.384
+      },
+      {
+        "step": 55,
+        "t": 1794590822,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2928,
+        "upper_90": 0.3844
+      },
+      {
+        "step": 56,
+        "t": 1794590882,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2924,
+        "upper_90": 0.3848
+      },
+      {
+        "step": 57,
+        "t": 1794590942,
+        "forecast_price": 0.3386,
+        "lower_90": 0.292,
+        "upper_90": 0.3852
+      },
+      {
+        "step": 58,
+        "t": 1794591002,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2916,
+        "upper_90": 0.3856
+      },
+      {
+        "step": 59,
+        "t": 1794591062,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2912,
+        "upper_90": 0.386
+      },
+      {
+        "step": 60,
+        "t": 1794591122,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2908,
+        "upper_90": 0.3864
+      },
+      {
+        "step": 61,
+        "t": 1794591182,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2904,
+        "upper_90": 0.3868
+      },
+      {
+        "step": 62,
+        "t": 1794591242,
+        "forecast_price": 0.3386,
+        "lower_90": 0.29,
+        "upper_90": 0.3872
+      },
+      {
+        "step": 63,
+        "t": 1794591302,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2896,
+        "upper_90": 0.3876
+      },
+      {
+        "step": 64,
+        "t": 1794591362,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2892,
+        "upper_90": 0.388
+      },
+      {
+        "step": 65,
+        "t": 1794591422,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2888,
+        "upper_90": 0.3884
+      },
+      {
+        "step": 66,
+        "t": 1794591482,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2884,
+        "upper_90": 0.3887
+      },
+      {
+        "step": 67,
+        "t": 1794591542,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2881,
+        "upper_90": 0.3891
+      },
+      {
+        "step": 68,
+        "t": 1794591602,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2877,
+        "upper_90": 0.3895
+      },
+      {
+        "step": 69,
+        "t": 1794591662,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2873,
+        "upper_90": 0.3899
+      },
+      {
+        "step": 70,
+        "t": 1794591722,
+        "forecast_price": 0.3386,
+        "lower_90": 0.287,
+        "upper_90": 0.3903
+      },
+      {
+        "step": 71,
+        "t": 1794591782,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2866,
+        "upper_90": 0.3906
+      },
+      {
+        "step": 72,
+        "t": 1794591842,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2862,
+        "upper_90": 0.391
+      },
+      {
+        "step": 73,
+        "t": 1794591902,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2859,
+        "upper_90": 0.3914
+      },
+      {
+        "step": 74,
+        "t": 1794591962,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2855,
+        "upper_90": 0.3917
+      },
+      {
+        "step": 75,
+        "t": 1794592022,
+        "forecast_price": 0.3386,
+        "lower_90": 0.2852,
+        "upper_90": 0.3921
+      },
+      {
+        "step": 76,
+        "t": 1794592082,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2848,
+        "upper_90": 0.3925
+      },
+      {
+        "step": 77,
+        "t": 1794592142,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2845,
+        "upper_90": 0.3928
+      },
+      {
+        "step": 78,
+        "t": 1794592202,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2841,
+        "upper_90": 0.3932
+      },
+      {
+        "step": 79,
+        "t": 1794592262,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2838,
+        "upper_90": 0.3936
+      },
+      {
+        "step": 80,
+        "t": 1794592322,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2835,
+        "upper_90": 0.3939
+      },
+      {
+        "step": 81,
+        "t": 1794592382,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2831,
+        "upper_90": 0.3943
+      },
+      {
+        "step": 82,
+        "t": 1794592442,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2828,
+        "upper_90": 0.3946
+      },
+      {
+        "step": 83,
+        "t": 1794592502,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2825,
+        "upper_90": 0.395
+      },
+      {
+        "step": 84,
+        "t": 1794592562,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2821,
+        "upper_90": 0.3953
+      },
+      {
+        "step": 85,
+        "t": 1794592622,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2818,
+        "upper_90": 0.3957
+      },
+      {
+        "step": 86,
+        "t": 1794592682,
+        "forecast_price": 0.3387,
+        "lower_90": 0.2815,
+        "upper_90": 0.396
+      },
+      {
+        "step": 87,
+        "t": 1794592742,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2812,
+        "upper_90": 0.3964
+      },
+      {
+        "step": 88,
+        "t": 1794592802,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2808,
+        "upper_90": 0.3967
+      },
+      {
+        "step": 89,
+        "t": 1794592862,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2805,
+        "upper_90": 0.397
+      },
+      {
+        "step": 90,
+        "t": 1794592922,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2802,
+        "upper_90": 0.3974
+      },
+      {
+        "step": 91,
+        "t": 1794592982,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2799,
+        "upper_90": 0.3977
+      },
+      {
+        "step": 92,
+        "t": 1794593042,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2796,
+        "upper_90": 0.3981
+      },
+      {
+        "step": 93,
+        "t": 1794593102,
+        "forecast_price": 0.3388,
+        "lower_90": 0.2793,
+        "upper_90": 0.3984
+      },
+      {
+        "step": 94,
+        "t": 1794593162,
+        "forecast_price": 0.3388,
+        "lower_90": 0.279,
+        "upper_90": 0.3987
+      },
+      {
+        "step": 95,
+        "t": 1794593222,
+        "forecast_price": 0.3389,
+        "lower_90": 0.2787,
+        "upper_90": 0.3991
+      },
+      {
+        "step": 96,
+        "t": 1794593282,
+        "forecast_price": 0.3389,
+        "lower_90": 0.2784,
+        "upper_90": 0.3994
+      },
+      {
+        "step": 97,
+        "t": 1794593342,
+        "forecast_price": 0.3389,
+        "lower_90": 0.2781,
+        "upper_90": 0.3997
+      },
+      {
+        "step": 98,
+        "t": 1794593402,
+        "forecast_price": 0.3389,
+        "lower_90": 0.2778,
+        "upper_90": 0.4
+      },
+      {
+        "step": 99,
+        "t": 1794593462,
+        "forecast_price": 0.3389,
+        "lower_90": 0.2775,
+        "upper_90": 0.4004
+      },
+      {
+        "step": 100,
+        "t": 1794593522,
+        "forecast_price": 0.3389,
+        "lower_90": 0.2772,
+        "upper_90": 0.4007
+      },
+      {
+        "step": 101,
+        "t": 1794593582,
+        "forecast_price": 0.3389,
+        "lower_90": 0.2769,
+        "upper_90": 0.401
+      },
+      {
+        "step": 102,
+        "t": 1794593642,
+        "forecast_price": 0.339,
+        "lower_90": 0.2766,
+        "upper_90": 0.4013
+      },
+      {
+        "step": 103,
+        "t": 1794593702,
+        "forecast_price": 0.339,
+        "lower_90": 0.2763,
+        "upper_90": 0.4017
+      },
+      {
+        "step": 104,
+        "t": 1794593762,
+        "forecast_price": 0.339,
+        "lower_90": 0.276,
+        "upper_90": 0.402
+      },
+      {
+        "step": 105,
+        "t": 1794593822,
+        "forecast_price": 0.339,
+        "lower_90": 0.2757,
+        "upper_90": 0.4023
+      },
+      {
+        "step": 106,
+        "t": 1794593882,
+        "forecast_price": 0.339,
+        "lower_90": 0.2754,
+        "upper_90": 0.4026
+      },
+      {
+        "step": 107,
+        "t": 1794593942,
+        "forecast_price": 0.339,
+        "lower_90": 0.2751,
+        "upper_90": 0.4029
+      },
+      {
+        "step": 108,
+        "t": 1794594002,
+        "forecast_price": 0.339,
+        "lower_90": 0.2748,
+        "upper_90": 0.4032
+      },
+      {
+        "step": 109,
+        "t": 1794594062,
+        "forecast_price": 0.3391,
+        "lower_90": 0.2746,
+        "upper_90": 0.4036
+      },
+      {
+        "step": 110,
+        "t": 1794594122,
+        "forecast_price": 0.3391,
+        "lower_90": 0.2743,
+        "upper_90": 0.4039
+      },
+      {
+        "step": 111,
+        "t": 1794594182,
+        "forecast_price": 0.3391,
+        "lower_90": 0.274,
+        "upper_90": 0.4042
+      },
+      {
+        "step": 112,
+        "t": 1794594242,
+        "forecast_price": 0.3391,
+        "lower_90": 0.2737,
+        "upper_90": 0.4045
+      },
+      {
+        "step": 113,
+        "t": 1794594302,
+        "forecast_price": 0.3391,
+        "lower_90": 0.2734,
+        "upper_90": 0.4048
+      },
+      {
+        "step": 114,
+        "t": 1794594362,
+        "forecast_price": 0.3391,
+        "lower_90": 0.2732,
+        "upper_90": 0.4051
+      },
+      {
+        "step": 115,
+        "t": 1794594422,
+        "forecast_price": 0.3391,
+        "lower_90": 0.2729,
+        "upper_90": 0.4054
+      },
+      {
+        "step": 116,
+        "t": 1794594482,
+        "forecast_price": 0.3392,
+        "lower_90": 0.2726,
+        "upper_90": 0.4057
+      },
+      {
+        "step": 117,
+        "t": 1794594542,
+        "forecast_price": 0.3392,
+        "lower_90": 0.2723,
+        "upper_90": 0.406
+      },
+      {
+        "step": 118,
+        "t": 1794594602,
+        "forecast_price": 0.3392,
+        "lower_90": 0.2721,
+        "upper_90": 0.4063
+      },
+      {
+        "step": 119,
+        "t": 1794594662,
+        "forecast_price": 0.3392,
+        "lower_90": 0.2718,
+        "upper_90": 0.4066
+      },
+      {
+        "step": 120,
+        "t": 1794594722,
+        "forecast_price": 0.3392,
+        "lower_90": 0.2715,
+        "upper_90": 0.4069
+      },
+      {
+        "step": 121,
+        "t": 1794594782,
+        "forecast_price": 0.3392,
+        "lower_90": 0.2713,
+        "upper_90": 0.4072
+      },
+      {
+        "step": 122,
+        "t": 1794594842,
+        "forecast_price": 0.3393,
+        "lower_90": 0.271,
+        "upper_90": 0.4075
+      },
+      {
+        "step": 123,
+        "t": 1794594902,
+        "forecast_price": 0.3393,
+        "lower_90": 0.2707,
+        "upper_90": 0.4078
+      },
+      {
+        "step": 124,
+        "t": 1794594962,
+        "forecast_price": 0.3393,
+        "lower_90": 0.2705,
+        "upper_90": 0.4081
+      },
+      {
+        "step": 125,
+        "t": 1794595022,
+        "forecast_price": 0.3393,
+        "lower_90": 0.2702,
+        "upper_90": 0.4084
+      },
+      {
+        "step": 126,
+        "t": 1794595082,
+        "forecast_price": 0.3393,
+        "lower_90": 0.2699,
+        "upper_90": 0.4087
+      },
+      {
+        "step": 127,
+        "t": 1794595142,
+        "forecast_price": 0.3393,
+        "lower_90": 0.2697,
+        "upper_90": 0.409
+      },
+      {
+        "step": 128,
+        "t": 1794595202,
+        "forecast_price": 0.3393,
+        "lower_90": 0.2694,
+        "upper_90": 0.4093
+      },
+      {
+        "step": 129,
+        "t": 1794595262,
+        "forecast_price": 0.3394,
+        "lower_90": 0.2692,
+        "upper_90": 0.4096
+      },
+      {
+        "step": 130,
+        "t": 1794595322,
+        "forecast_price": 0.3394,
+        "lower_90": 0.2689,
+        "upper_90": 0.4098
+      },
+      {
+        "step": 131,
+        "t": 1794595382,
+        "forecast_price": 0.3394,
+        "lower_90": 0.2687,
+        "upper_90": 0.4101
+      },
+      {
+        "step": 132,
+        "t": 1794595442,
+        "forecast_price": 0.3394,
+        "lower_90": 0.2684,
+        "upper_90": 0.4104
+      },
+      {
+        "step": 133,
+        "t": 1794595502,
+        "forecast_price": 0.3394,
+        "lower_90": 0.2681,
+        "upper_90": 0.4107
+      },
+      {
+        "step": 134,
+        "t": 1794595562,
+        "forecast_price": 0.3394,
+        "lower_90": 0.2679,
+        "upper_90": 0.411
+      },
+      {
+        "step": 135,
+        "t": 1794595622,
+        "forecast_price": 0.3395,
+        "lower_90": 0.2676,
+        "upper_90": 0.4113
+      },
+      {
+        "step": 136,
+        "t": 1794595682,
+        "forecast_price": 0.3395,
+        "lower_90": 0.2674,
+        "upper_90": 0.4116
+      },
+      {
+        "step": 137,
+        "t": 1794595742,
+        "forecast_price": 0.3395,
+        "lower_90": 0.2671,
+        "upper_90": 0.4118
+      },
+      {
+        "step": 138,
+        "t": 1794595802,
+        "forecast_price": 0.3395,
+        "lower_90": 0.2669,
+        "upper_90": 0.4121
+      },
+      {
+        "step": 139,
+        "t": 1794595862,
+        "forecast_price": 0.3395,
+        "lower_90": 0.2666,
+        "upper_90": 0.4124
+      },
+      {
+        "step": 140,
+        "t": 1794595922,
+        "forecast_price": 0.3395,
+        "lower_90": 0.2664,
+        "upper_90": 0.4127
+      },
+      {
+        "step": 141,
+        "t": 1794595982,
+        "forecast_price": 0.3395,
+        "lower_90": 0.2661,
+        "upper_90": 0.413
+      },
+      {
+        "step": 142,
+        "t": 1794596042,
+        "forecast_price": 0.3396,
+        "lower_90": 0.2659,
+        "upper_90": 0.4132
+      },
+      {
+        "step": 143,
+        "t": 1794596102,
+        "forecast_price": 0.3396,
+        "lower_90": 0.2657,
+        "upper_90": 0.4135
+      },
+      {
+        "step": 144,
+        "t": 1794596162,
+        "forecast_price": 0.3396,
+        "lower_90": 0.2654,
+        "upper_90": 0.4138
+      },
+      {
+        "step": 145,
+        "t": 1794596222,
+        "forecast_price": 0.3396,
+        "lower_90": 0.2652,
+        "upper_90": 0.4141
+      },
+      {
+        "step": 146,
+        "t": 1794596282,
+        "forecast_price": 0.3396,
+        "lower_90": 0.2649,
+        "upper_90": 0.4143
+      },
+      {
+        "step": 147,
+        "t": 1794596342,
+        "forecast_price": 0.3396,
+        "lower_90": 0.2647,
+        "upper_90": 0.4146
+      },
+      {
+        "step": 148,
+        "t": 1794596402,
+        "forecast_price": 0.3397,
+        "lower_90": 0.2644,
+        "upper_90": 0.4149
+      },
+      {
+        "step": 149,
+        "t": 1794596462,
+        "forecast_price": 0.3397,
+        "lower_90": 0.2642,
+        "upper_90": 0.4151
+      },
+      {
+        "step": 150,
+        "t": 1794596522,
+        "forecast_price": 0.3397,
+        "lower_90": 0.264,
+        "upper_90": 0.4154
+      },
+      {
+        "step": 151,
+        "t": 1794596582,
+        "forecast_price": 0.3397,
+        "lower_90": 0.2637,
+        "upper_90": 0.4157
+      },
+      {
+        "step": 152,
+        "t": 1794596642,
+        "forecast_price": 0.3397,
+        "lower_90": 0.2635,
+        "upper_90": 0.416
+      },
+      {
+        "step": 153,
+        "t": 1794596702,
+        "forecast_price": 0.3397,
+        "lower_90": 0.2633,
+        "upper_90": 0.4162
+      },
+      {
+        "step": 154,
+        "t": 1794596762,
+        "forecast_price": 0.3398,
+        "lower_90": 0.263,
+        "upper_90": 0.4165
+      },
+      {
+        "step": 155,
+        "t": 1794596822,
+        "forecast_price": 0.3398,
+        "lower_90": 0.2628,
+        "upper_90": 0.4168
+      },
+      {
+        "step": 156,
+        "t": 1794596882,
+        "forecast_price": 0.3398,
+        "lower_90": 0.2625,
+        "upper_90": 0.417
+      },
+      {
+        "step": 157,
+        "t": 1794596942,
+        "forecast_price": 0.3398,
+        "lower_90": 0.2623,
+        "upper_90": 0.4173
+      },
+      {
+        "step": 158,
+        "t": 1794597002,
+        "forecast_price": 0.3398,
+        "lower_90": 0.2621,
+        "upper_90": 0.4175
+      },
+      {
+        "step": 159,
+        "t": 1794597062,
+        "forecast_price": 0.3398,
+        "lower_90": 0.2618,
+        "upper_90": 0.4178
+      },
+      {
+        "step": 160,
+        "t": 1794597122,
+        "forecast_price": 0.3398,
+        "lower_90": 0.2616,
+        "upper_90": 0.4181
+      },
+      {
+        "step": 161,
+        "t": 1794597182,
+        "forecast_price": 0.3399,
+        "lower_90": 0.2614,
+        "upper_90": 0.4183
+      },
+      {
+        "step": 162,
+        "t": 1794597242,
+        "forecast_price": 0.3399,
+        "lower_90": 0.2612,
+        "upper_90": 0.4186
+      },
+      {
+        "step": 163,
+        "t": 1794597302,
+        "forecast_price": 0.3399,
+        "lower_90": 0.2609,
+        "upper_90": 0.4188
+      },
+      {
+        "step": 164,
+        "t": 1794597362,
+        "forecast_price": 0.3399,
+        "lower_90": 0.2607,
+        "upper_90": 0.4191
+      },
+      {
+        "step": 165,
+        "t": 1794597422,
+        "forecast_price": 0.3399,
+        "lower_90": 0.2605,
+        "upper_90": 0.4194
+      },
+      {
+        "step": 166,
+        "t": 1794597482,
+        "forecast_price": 0.3399,
+        "lower_90": 0.2602,
+        "upper_90": 0.4196
+      },
+      {
+        "step": 167,
+        "t": 1794597542,
+        "forecast_price": 0.3399,
+        "lower_90": 0.26,
+        "upper_90": 0.4199
+      },
+      {
+        "step": 168,
+        "t": 1794597602,
+        "forecast_price": 0.34,
+        "lower_90": 0.2598,
+        "upper_90": 0.4201
+      },
+      {
+        "step": 169,
+        "t": 1794597662,
+        "forecast_price": 0.34,
+        "lower_90": 0.2596,
+        "upper_90": 0.4204
+      },
+      {
+        "step": 170,
+        "t": 1794597722,
+        "forecast_price": 0.34,
+        "lower_90": 0.2593,
+        "upper_90": 0.4206
+      },
+      {
+        "step": 171,
+        "t": 1794597782,
+        "forecast_price": 0.34,
+        "lower_90": 0.2591,
+        "upper_90": 0.4209
+      },
+      {
+        "step": 172,
+        "t": 1794597842,
+        "forecast_price": 0.34,
+        "lower_90": 0.2589,
+        "upper_90": 0.4212
+      },
+      {
+        "step": 173,
+        "t": 1794597902,
+        "forecast_price": 0.34,
+        "lower_90": 0.2587,
+        "upper_90": 0.4214
+      },
+      {
+        "step": 174,
+        "t": 1794597962,
+        "forecast_price": 0.3401,
+        "lower_90": 0.2585,
+        "upper_90": 0.4217
+      },
+      {
+        "step": 175,
+        "t": 1794598022,
+        "forecast_price": 0.3401,
+        "lower_90": 0.2582,
+        "upper_90": 0.4219
+      },
+      {
+        "step": 176,
+        "t": 1794598082,
+        "forecast_price": 0.3401,
+        "lower_90": 0.258,
+        "upper_90": 0.4222
+      },
+      {
+        "step": 177,
+        "t": 1794598142,
+        "forecast_price": 0.3401,
+        "lower_90": 0.2578,
+        "upper_90": 0.4224
+      },
+      {
+        "step": 178,
+        "t": 1794598202,
+        "forecast_price": 0.3401,
+        "lower_90": 0.2576,
+        "upper_90": 0.4227
+      },
+      {
+        "step": 179,
+        "t": 1794598262,
+        "forecast_price": 0.3401,
+        "lower_90": 0.2574,
+        "upper_90": 0.4229
+      },
+      {
+        "step": 180,
+        "t": 1794598322,
+        "forecast_price": 0.3401,
+        "lower_90": 0.2571,
+        "upper_90": 0.4232
+      },
+      {
+        "step": 181,
+        "t": 1794598382,
+        "forecast_price": 0.3402,
+        "lower_90": 0.2569,
+        "upper_90": 0.4234
+      },
+      {
+        "step": 182,
+        "t": 1794598442,
+        "forecast_price": 0.3402,
+        "lower_90": 0.2567,
+        "upper_90": 0.4236
+      },
+      {
+        "step": 183,
+        "t": 1794598502,
+        "forecast_price": 0.3402,
+        "lower_90": 0.2565,
+        "upper_90": 0.4239
+      },
+      {
+        "step": 184,
+        "t": 1794598562,
+        "forecast_price": 0.3402,
+        "lower_90": 0.2563,
+        "upper_90": 0.4241
+      },
+      {
+        "step": 185,
+        "t": 1794598622,
+        "forecast_price": 0.3402,
+        "lower_90": 0.2561,
+        "upper_90": 0.4244
+      },
+      {
+        "step": 186,
+        "t": 1794598682,
+        "forecast_price": 0.3402,
+        "lower_90": 0.2558,
+        "upper_90": 0.4246
+      },
+      {
+        "step": 187,
+        "t": 1794598742,
+        "forecast_price": 0.3402,
+        "lower_90": 0.2556,
+        "upper_90": 0.4249
+      },
+      {
+        "step": 188,
+        "t": 1794598802,
+        "forecast_price": 0.3403,
+        "lower_90": 0.2554,
+        "upper_90": 0.4251
+      },
+      {
+        "step": 189,
+        "t": 1794598862,
+        "forecast_price": 0.3403,
+        "lower_90": 0.2552,
+        "upper_90": 0.4254
+      },
+      {
+        "step": 190,
+        "t": 1794598922,
+        "forecast_price": 0.3403,
+        "lower_90": 0.255,
+        "upper_90": 0.4256
+      },
+      {
+        "step": 191,
+        "t": 1794598982,
+        "forecast_price": 0.3403,
+        "lower_90": 0.2548,
+        "upper_90": 0.4258
+      },
+      {
+        "step": 192,
+        "t": 1794599042,
+        "forecast_price": 0.3403,
+        "lower_90": 0.2546,
+        "upper_90": 0.4261
+      },
+      {
+        "step": 193,
+        "t": 1794599102,
+        "forecast_price": 0.3403,
+        "lower_90": 0.2544,
+        "upper_90": 0.4263
+      },
+      {
+        "step": 194,
+        "t": 1794599162,
+        "forecast_price": 0.3404,
+        "lower_90": 0.2542,
+        "upper_90": 0.4265
+      },
+      {
+        "step": 195,
+        "t": 1794599222,
+        "forecast_price": 0.3404,
+        "lower_90": 0.2539,
+        "upper_90": 0.4268
+      },
+      {
+        "step": 196,
+        "t": 1794599282,
+        "forecast_price": 0.3404,
+        "lower_90": 0.2537,
+        "upper_90": 0.427
+      },
+      {
+        "step": 197,
+        "t": 1794599342,
+        "forecast_price": 0.3404,
+        "lower_90": 0.2535,
+        "upper_90": 0.4273
+      },
+      {
+        "step": 198,
+        "t": 1794599402,
+        "forecast_price": 0.3404,
+        "lower_90": 0.2533,
+        "upper_90": 0.4275
+      },
+      {
+        "step": 199,
+        "t": 1794599462,
+        "forecast_price": 0.3404,
+        "lower_90": 0.2531,
+        "upper_90": 0.4277
+      },
+      {
+        "step": 200,
+        "t": 1794599522,
+        "forecast_price": 0.3404,
+        "lower_90": 0.2529,
+        "upper_90": 0.428
+      },
+      {
+        "step": 201,
+        "t": 1794599582,
+        "forecast_price": 0.3405,
+        "lower_90": 0.2527,
+        "upper_90": 0.4282
+      },
+      {
+        "step": 202,
+        "t": 1794599642,
+        "forecast_price": 0.3405,
+        "lower_90": 0.2525,
+        "upper_90": 0.4284
+      },
+      {
+        "step": 203,
+        "t": 1794599702,
+        "forecast_price": 0.3405,
+        "lower_90": 0.2523,
+        "upper_90": 0.4287
+      },
+      {
+        "step": 204,
+        "t": 1794599762,
+        "forecast_price": 0.3405,
+        "lower_90": 0.2521,
+        "upper_90": 0.4289
+      },
+      {
+        "step": 205,
+        "t": 1794599822,
+        "forecast_price": 0.3405,
+        "lower_90": 0.2519,
+        "upper_90": 0.4291
+      },
+      {
+        "step": 206,
+        "t": 1794599882,
+        "forecast_price": 0.3405,
+        "lower_90": 0.2517,
+        "upper_90": 0.4294
+      },
+      {
+        "step": 207,
+        "t": 1794599942,
+        "forecast_price": 0.3405,
+        "lower_90": 0.2515,
+        "upper_90": 0.4296
+      },
+      {
+        "step": 208,
+        "t": 1794600002,
+        "forecast_price": 0.3405,
+        "lower_90": 0.2513,
+        "upper_90": 0.4298
+      },
+      {
+        "step": 209,
+        "t": 1794600062,
+        "forecast_price": 0.3406,
+        "lower_90": 0.2511,
+        "upper_90": 0.4301
+      },
+      {
+        "step": 210,
+        "t": 1794600122,
+        "forecast_price": 0.3406,
+        "lower_90": 0.2509,
+        "upper_90": 0.4303
+      },
+      {
+        "step": 211,
+        "t": 1794600182,
+        "forecast_price": 0.3406,
+        "lower_90": 0.2507,
+        "upper_90": 0.4305
+      },
+      {
+        "step": 212,
+        "t": 1794600242,
+        "forecast_price": 0.3406,
+        "lower_90": 0.2505,
+        "upper_90": 0.4307
+      },
+      {
+        "step": 213,
+        "t": 1794600302,
+        "forecast_price": 0.3406,
+        "lower_90": 0.2503,
+        "upper_90": 0.431
+      },
+      {
+        "step": 214,
+        "t": 1794600362,
+        "forecast_price": 0.3406,
+        "lower_90": 0.2501,
+        "upper_90": 0.4312
+      },
+      {
+        "step": 215,
+        "t": 1794600422,
+        "forecast_price": 0.3406,
+        "lower_90": 0.2499,
+        "upper_90": 0.4314
+      },
+      {
+        "step": 216,
+        "t": 1794600482,
+        "forecast_price": 0.3407,
+        "lower_90": 0.2497,
+        "upper_90": 0.4317
+      },
+      {
+        "step": 217,
+        "t": 1794600542,
+        "forecast_price": 0.3407,
+        "lower_90": 0.2495,
+        "upper_90": 0.4319
+      },
+      {
+        "step": 218,
+        "t": 1794600602,
+        "forecast_price": 0.3407,
+        "lower_90": 0.2493,
+        "upper_90": 0.4321
+      },
+      {
+        "step": 219,
+        "t": 1794600662,
+        "forecast_price": 0.3407,
+        "lower_90": 0.2491,
+        "upper_90": 0.4323
+      },
+      {
+        "step": 220,
+        "t": 1794600722,
+        "forecast_price": 0.3407,
+        "lower_90": 0.2489,
+        "upper_90": 0.4326
+      },
+      {
+        "step": 221,
+        "t": 1794600782,
+        "forecast_price": 0.3407,
+        "lower_90": 0.2487,
+        "upper_90": 0.4328
+      },
+      {
+        "step": 222,
+        "t": 1794600842,
+        "forecast_price": 0.3407,
+        "lower_90": 0.2485,
+        "upper_90": 0.433
+      },
+      {
+        "step": 223,
+        "t": 1794600902,
+        "forecast_price": 0.3408,
+        "lower_90": 0.2483,
+        "upper_90": 0.4332
+      },
+      {
+        "step": 224,
+        "t": 1794600962,
+        "forecast_price": 0.3408,
+        "lower_90": 0.2481,
+        "upper_90": 0.4335
+      },
+      {
+        "step": 225,
+        "t": 1794601022,
+        "forecast_price": 0.3408,
+        "lower_90": 0.2479,
+        "upper_90": 0.4337
+      },
+      {
+        "step": 226,
+        "t": 1794601082,
+        "forecast_price": 0.3408,
+        "lower_90": 0.2477,
+        "upper_90": 0.4339
+      },
+      {
+        "step": 227,
+        "t": 1794601142,
+        "forecast_price": 0.3408,
+        "lower_90": 0.2475,
+        "upper_90": 0.4341
+      },
+      {
+        "step": 228,
+        "t": 1794601202,
+        "forecast_price": 0.3408,
+        "lower_90": 0.2473,
+        "upper_90": 0.4343
+      },
+      {
+        "step": 229,
+        "t": 1794601262,
+        "forecast_price": 0.3408,
+        "lower_90": 0.2471,
+        "upper_90": 0.4346
+      },
+      {
+        "step": 230,
+        "t": 1794601322,
+        "forecast_price": 0.3409,
+        "lower_90": 0.2469,
+        "upper_90": 0.4348
+      },
+      {
+        "step": 231,
+        "t": 1794601382,
+        "forecast_price": 0.3409,
+        "lower_90": 0.2467,
+        "upper_90": 0.435
+      },
+      {
+        "step": 232,
+        "t": 1794601442,
+        "forecast_price": 0.3409,
+        "lower_90": 0.2465,
+        "upper_90": 0.4352
+      },
+      {
+        "step": 233,
+        "t": 1794601502,
+        "forecast_price": 0.3409,
+        "lower_90": 0.2464,
+        "upper_90": 0.4354
+      },
+      {
+        "step": 234,
+        "t": 1794601562,
+        "forecast_price": 0.3409,
+        "lower_90": 0.2462,
+        "upper_90": 0.4357
+      },
+      {
+        "step": 235,
+        "t": 1794601622,
+        "forecast_price": 0.3409,
+        "lower_90": 0.246,
+        "upper_90": 0.4359
+      },
+      {
+        "step": 236,
+        "t": 1794601682,
+        "forecast_price": 0.3409,
+        "lower_90": 0.2458,
+        "upper_90": 0.4361
+      },
+      {
+        "step": 237,
+        "t": 1794601742,
+        "forecast_price": 0.3409,
+        "lower_90": 0.2456,
+        "upper_90": 0.4363
+      },
+      {
+        "step": 238,
+        "t": 1794601802,
+        "forecast_price": 0.341,
+        "lower_90": 0.2454,
+        "upper_90": 0.4365
+      },
+      {
+        "step": 239,
+        "t": 1794601862,
+        "forecast_price": 0.341,
+        "lower_90": 0.2452,
+        "upper_90": 0.4367
+      },
+      {
+        "step": 240,
+        "t": 1794601922,
+        "forecast_price": 0.341,
+        "lower_90": 0.245,
+        "upper_90": 0.4369
+      }
+    ],
+    "Colette Kress": [
+      {
+        "step": 1,
+        "t": 1794587582,
+        "forecast_price": 0.2789,
+        "lower_90": 0.273,
+        "upper_90": 0.2847
+      },
+      {
+        "step": 2,
+        "t": 1794587642,
+        "forecast_price": 0.279,
+        "lower_90": 0.2706,
+        "upper_90": 0.2873
+      },
+      {
+        "step": 3,
+        "t": 1794587702,
+        "forecast_price": 0.2791,
+        "lower_90": 0.2689,
+        "upper_90": 0.2892
+      },
+      {
+        "step": 4,
+        "t": 1794587762,
+        "forecast_price": 0.2792,
+        "lower_90": 0.2674,
+        "upper_90": 0.2909
+      },
+      {
+        "step": 5,
+        "t": 1794587822,
+        "forecast_price": 0.2792,
+        "lower_90": 0.2661,
+        "upper_90": 0.2924
+      },
+      {
+        "step": 6,
+        "t": 1794587882,
+        "forecast_price": 0.2793,
+        "lower_90": 0.2649,
+        "upper_90": 0.2937
+      },
+      {
+        "step": 7,
+        "t": 1794587942,
+        "forecast_price": 0.2794,
+        "lower_90": 0.2639,
+        "upper_90": 0.295
+      },
+      {
+        "step": 8,
+        "t": 1794588002,
+        "forecast_price": 0.2795,
+        "lower_90": 0.2629,
+        "upper_90": 0.2962
+      },
+      {
+        "step": 9,
+        "t": 1794588062,
+        "forecast_price": 0.2796,
+        "lower_90": 0.2619,
+        "upper_90": 0.2973
+      },
+      {
+        "step": 10,
+        "t": 1794588122,
+        "forecast_price": 0.2797,
+        "lower_90": 0.2611,
+        "upper_90": 0.2983
+      },
+      {
+        "step": 11,
+        "t": 1794588182,
+        "forecast_price": 0.2798,
+        "lower_90": 0.2602,
+        "upper_90": 0.2993
+      },
+      {
+        "step": 12,
+        "t": 1794588242,
+        "forecast_price": 0.2798,
+        "lower_90": 0.2594,
+        "upper_90": 0.3002
+      },
+      {
+        "step": 13,
+        "t": 1794588302,
+        "forecast_price": 0.2799,
+        "lower_90": 0.2587,
+        "upper_90": 0.3011
+      },
+      {
+        "step": 14,
+        "t": 1794588362,
+        "forecast_price": 0.28,
+        "lower_90": 0.258,
+        "upper_90": 0.302
+      },
+      {
+        "step": 15,
+        "t": 1794588422,
+        "forecast_price": 0.2801,
+        "lower_90": 0.2572,
+        "upper_90": 0.3029
+      },
+      {
+        "step": 16,
+        "t": 1794588482,
+        "forecast_price": 0.2801,
+        "lower_90": 0.2566,
+        "upper_90": 0.3037
+      },
+      {
+        "step": 17,
+        "t": 1794588542,
+        "forecast_price": 0.2802,
+        "lower_90": 0.2559,
+        "upper_90": 0.3045
+      },
+      {
+        "step": 18,
+        "t": 1794588602,
+        "forecast_price": 0.2803,
+        "lower_90": 0.2553,
+        "upper_90": 0.3053
+      },
+      {
+        "step": 19,
+        "t": 1794588662,
+        "forecast_price": 0.2803,
+        "lower_90": 0.2546,
+        "upper_90": 0.306
+      },
+      {
+        "step": 20,
+        "t": 1794588722,
+        "forecast_price": 0.2804,
+        "lower_90": 0.254,
+        "upper_90": 0.3068
+      },
+      {
+        "step": 21,
+        "t": 1794588782,
+        "forecast_price": 0.2805,
+        "lower_90": 0.2534,
+        "upper_90": 0.3075
+      },
+      {
+        "step": 22,
+        "t": 1794588842,
+        "forecast_price": 0.2805,
+        "lower_90": 0.2529,
+        "upper_90": 0.3082
+      },
+      {
+        "step": 23,
+        "t": 1794588902,
+        "forecast_price": 0.2806,
+        "lower_90": 0.2523,
+        "upper_90": 0.3089
+      },
+      {
+        "step": 24,
+        "t": 1794588962,
+        "forecast_price": 0.2806,
+        "lower_90": 0.2518,
+        "upper_90": 0.3095
+      },
+      {
+        "step": 25,
+        "t": 1794589022,
+        "forecast_price": 0.2807,
+        "lower_90": 0.2512,
+        "upper_90": 0.3102
+      },
+      {
+        "step": 26,
+        "t": 1794589082,
+        "forecast_price": 0.2808,
+        "lower_90": 0.2507,
+        "upper_90": 0.3108
+      },
+      {
+        "step": 27,
+        "t": 1794589142,
+        "forecast_price": 0.2808,
+        "lower_90": 0.2502,
+        "upper_90": 0.3115
+      },
+      {
+        "step": 28,
+        "t": 1794589202,
+        "forecast_price": 0.2809,
+        "lower_90": 0.2496,
+        "upper_90": 0.3121
+      },
+      {
+        "step": 29,
+        "t": 1794589262,
+        "forecast_price": 0.2809,
+        "lower_90": 0.2491,
+        "upper_90": 0.3127
+      },
+      {
+        "step": 30,
+        "t": 1794589322,
+        "forecast_price": 0.281,
+        "lower_90": 0.2487,
+        "upper_90": 0.3133
+      },
+      {
+        "step": 31,
+        "t": 1794589382,
+        "forecast_price": 0.281,
+        "lower_90": 0.2482,
+        "upper_90": 0.3139
+      },
+      {
+        "step": 32,
+        "t": 1794589442,
+        "forecast_price": 0.2811,
+        "lower_90": 0.2477,
+        "upper_90": 0.3145
+      },
+      {
+        "step": 33,
+        "t": 1794589502,
+        "forecast_price": 0.2811,
+        "lower_90": 0.2472,
+        "upper_90": 0.315
+      },
+      {
+        "step": 34,
+        "t": 1794589562,
+        "forecast_price": 0.2812,
+        "lower_90": 0.2467,
+        "upper_90": 0.3156
+      },
+      {
+        "step": 35,
+        "t": 1794589622,
+        "forecast_price": 0.2812,
+        "lower_90": 0.2463,
+        "upper_90": 0.3162
+      },
+      {
+        "step": 36,
+        "t": 1794589682,
+        "forecast_price": 0.2813,
+        "lower_90": 0.2458,
+        "upper_90": 0.3167
+      },
+      {
+        "step": 37,
+        "t": 1794589742,
+        "forecast_price": 0.2813,
+        "lower_90": 0.2454,
+        "upper_90": 0.3172
+      },
+      {
+        "step": 38,
+        "t": 1794589802,
+        "forecast_price": 0.2814,
+        "lower_90": 0.245,
+        "upper_90": 0.3178
+      },
+      {
+        "step": 39,
+        "t": 1794589862,
+        "forecast_price": 0.2814,
+        "lower_90": 0.2445,
+        "upper_90": 0.3183
+      },
+      {
+        "step": 40,
+        "t": 1794589922,
+        "forecast_price": 0.2815,
+        "lower_90": 0.2441,
+        "upper_90": 0.3188
+      },
+      {
+        "step": 41,
+        "t": 1794589982,
+        "forecast_price": 0.2815,
+        "lower_90": 0.2437,
+        "upper_90": 0.3193
+      },
+      {
+        "step": 42,
+        "t": 1794590042,
+        "forecast_price": 0.2815,
+        "lower_90": 0.2433,
+        "upper_90": 0.3198
+      },
+      {
+        "step": 43,
+        "t": 1794590102,
+        "forecast_price": 0.2816,
+        "lower_90": 0.2428,
+        "upper_90": 0.3203
+      },
+      {
+        "step": 44,
+        "t": 1794590162,
+        "forecast_price": 0.2816,
+        "lower_90": 0.2424,
+        "upper_90": 0.3208
+      },
+      {
+        "step": 45,
+        "t": 1794590222,
+        "forecast_price": 0.2817,
+        "lower_90": 0.242,
+        "upper_90": 0.3213
+      },
+      {
+        "step": 46,
+        "t": 1794590282,
+        "forecast_price": 0.2817,
+        "lower_90": 0.2416,
+        "upper_90": 0.3218
+      },
+      {
+        "step": 47,
+        "t": 1794590342,
+        "forecast_price": 0.2818,
+        "lower_90": 0.2412,
+        "upper_90": 0.3223
+      },
+      {
+        "step": 48,
+        "t": 1794590402,
+        "forecast_price": 0.2818,
+        "lower_90": 0.2408,
+        "upper_90": 0.3228
+      },
+      {
+        "step": 49,
+        "t": 1794590462,
+        "forecast_price": 0.2818,
+        "lower_90": 0.2404,
+        "upper_90": 0.3232
+      },
+      {
+        "step": 50,
+        "t": 1794590522,
+        "forecast_price": 0.2819,
+        "lower_90": 0.2401,
+        "upper_90": 0.3237
+      },
+      {
+        "step": 51,
+        "t": 1794590582,
+        "forecast_price": 0.2819,
+        "lower_90": 0.2397,
+        "upper_90": 0.3241
+      },
+      {
+        "step": 52,
+        "t": 1794590642,
+        "forecast_price": 0.282,
+        "lower_90": 0.2393,
+        "upper_90": 0.3246
+      },
+      {
+        "step": 53,
+        "t": 1794590702,
+        "forecast_price": 0.282,
+        "lower_90": 0.2389,
+        "upper_90": 0.3251
+      },
+      {
+        "step": 54,
+        "t": 1794590762,
+        "forecast_price": 0.282,
+        "lower_90": 0.2386,
+        "upper_90": 0.3255
+      },
+      {
+        "step": 55,
+        "t": 1794590822,
+        "forecast_price": 0.2821,
+        "lower_90": 0.2382,
+        "upper_90": 0.3259
+      },
+      {
+        "step": 56,
+        "t": 1794590882,
+        "forecast_price": 0.2821,
+        "lower_90": 0.2378,
+        "upper_90": 0.3264
+      },
+      {
+        "step": 57,
+        "t": 1794590942,
+        "forecast_price": 0.2821,
+        "lower_90": 0.2375,
+        "upper_90": 0.3268
+      },
+      {
+        "step": 58,
+        "t": 1794591002,
+        "forecast_price": 0.2822,
+        "lower_90": 0.2371,
+        "upper_90": 0.3272
+      },
+      {
+        "step": 59,
+        "t": 1794591062,
+        "forecast_price": 0.2822,
+        "lower_90": 0.2368,
+        "upper_90": 0.3277
+      },
+      {
+        "step": 60,
+        "t": 1794591122,
+        "forecast_price": 0.2822,
+        "lower_90": 0.2364,
+        "upper_90": 0.3281
+      },
+      {
+        "step": 61,
+        "t": 1794591182,
+        "forecast_price": 0.2823,
+        "lower_90": 0.2361,
+        "upper_90": 0.3285
+      },
+      {
+        "step": 62,
+        "t": 1794591242,
+        "forecast_price": 0.2823,
+        "lower_90": 0.2357,
+        "upper_90": 0.3289
+      },
+      {
+        "step": 63,
+        "t": 1794591302,
+        "forecast_price": 0.2824,
+        "lower_90": 0.2354,
+        "upper_90": 0.3293
+      },
+      {
+        "step": 64,
+        "t": 1794591362,
+        "forecast_price": 0.2824,
+        "lower_90": 0.235,
+        "upper_90": 0.3297
+      },
+      {
+        "step": 65,
+        "t": 1794591422,
+        "forecast_price": 0.2824,
+        "lower_90": 0.2347,
+        "upper_90": 0.3302
+      },
+      {
+        "step": 66,
+        "t": 1794591482,
+        "forecast_price": 0.2825,
+        "lower_90": 0.2344,
+        "upper_90": 0.3306
+      },
+      {
+        "step": 67,
+        "t": 1794591542,
+        "forecast_price": 0.2825,
+        "lower_90": 0.234,
+        "upper_90": 0.331
+      },
+      {
+        "step": 68,
+        "t": 1794591602,
+        "forecast_price": 0.2825,
+        "lower_90": 0.2337,
+        "upper_90": 0.3314
+      },
+      {
+        "step": 69,
+        "t": 1794591662,
+        "forecast_price": 0.2826,
+        "lower_90": 0.2334,
+        "upper_90": 0.3317
+      },
+      {
+        "step": 70,
+        "t": 1794591722,
+        "forecast_price": 0.2826,
+        "lower_90": 0.233,
+        "upper_90": 0.3321
+      },
+      {
+        "step": 71,
+        "t": 1794591782,
+        "forecast_price": 0.2826,
+        "lower_90": 0.2327,
+        "upper_90": 0.3325
+      },
+      {
+        "step": 72,
+        "t": 1794591842,
+        "forecast_price": 0.2827,
+        "lower_90": 0.2324,
+        "upper_90": 0.3329
+      },
+      {
+        "step": 73,
+        "t": 1794591902,
+        "forecast_price": 0.2827,
+        "lower_90": 0.2321,
+        "upper_90": 0.3333
+      },
+      {
+        "step": 74,
+        "t": 1794591962,
+        "forecast_price": 0.2827,
+        "lower_90": 0.2318,
+        "upper_90": 0.3337
+      },
+      {
+        "step": 75,
+        "t": 1794592022,
+        "forecast_price": 0.2828,
+        "lower_90": 0.2314,
+        "upper_90": 0.3341
+      },
+      {
+        "step": 76,
+        "t": 1794592082,
+        "forecast_price": 0.2828,
+        "lower_90": 0.2311,
+        "upper_90": 0.3344
+      },
+      {
+        "step": 77,
+        "t": 1794592142,
+        "forecast_price": 0.2828,
+        "lower_90": 0.2308,
+        "upper_90": 0.3348
+      },
+      {
+        "step": 78,
+        "t": 1794592202,
+        "forecast_price": 0.2828,
+        "lower_90": 0.2305,
+        "upper_90": 0.3352
+      },
+      {
+        "step": 79,
+        "t": 1794592262,
+        "forecast_price": 0.2829,
+        "lower_90": 0.2302,
+        "upper_90": 0.3355
+      },
+      {
+        "step": 80,
+        "t": 1794592322,
+        "forecast_price": 0.2829,
+        "lower_90": 0.2299,
+        "upper_90": 0.3359
+      },
+      {
+        "step": 81,
+        "t": 1794592382,
+        "forecast_price": 0.2829,
+        "lower_90": 0.2296,
+        "upper_90": 0.3363
+      },
+      {
+        "step": 82,
+        "t": 1794592442,
+        "forecast_price": 0.283,
+        "lower_90": 0.2293,
+        "upper_90": 0.3366
+      },
+      {
+        "step": 83,
+        "t": 1794592502,
+        "forecast_price": 0.283,
+        "lower_90": 0.229,
+        "upper_90": 0.337
+      },
+      {
+        "step": 84,
+        "t": 1794592562,
+        "forecast_price": 0.283,
+        "lower_90": 0.2287,
+        "upper_90": 0.3374
+      },
+      {
+        "step": 85,
+        "t": 1794592622,
+        "forecast_price": 0.2831,
+        "lower_90": 0.2284,
+        "upper_90": 0.3377
+      },
+      {
+        "step": 86,
+        "t": 1794592682,
+        "forecast_price": 0.2831,
+        "lower_90": 0.2281,
+        "upper_90": 0.3381
+      },
+      {
+        "step": 87,
+        "t": 1794592742,
+        "forecast_price": 0.2831,
+        "lower_90": 0.2278,
+        "upper_90": 0.3384
+      },
+      {
+        "step": 88,
+        "t": 1794592802,
+        "forecast_price": 0.2831,
+        "lower_90": 0.2275,
+        "upper_90": 0.3388
+      },
+      {
+        "step": 89,
+        "t": 1794592862,
+        "forecast_price": 0.2832,
+        "lower_90": 0.2272,
+        "upper_90": 0.3391
+      },
+      {
+        "step": 90,
+        "t": 1794592922,
+        "forecast_price": 0.2832,
+        "lower_90": 0.2269,
+        "upper_90": 0.3395
+      },
+      {
+        "step": 91,
+        "t": 1794592982,
+        "forecast_price": 0.2832,
+        "lower_90": 0.2267,
+        "upper_90": 0.3398
+      },
+      {
+        "step": 92,
+        "t": 1794593042,
+        "forecast_price": 0.2833,
+        "lower_90": 0.2264,
+        "upper_90": 0.3402
+      },
+      {
+        "step": 93,
+        "t": 1794593102,
+        "forecast_price": 0.2833,
+        "lower_90": 0.2261,
+        "upper_90": 0.3405
+      },
+      {
+        "step": 94,
+        "t": 1794593162,
+        "forecast_price": 0.2833,
+        "lower_90": 0.2258,
+        "upper_90": 0.3408
+      },
+      {
+        "step": 95,
+        "t": 1794593222,
+        "forecast_price": 0.2834,
+        "lower_90": 0.2255,
+        "upper_90": 0.3412
+      },
+      {
+        "step": 96,
+        "t": 1794593282,
+        "forecast_price": 0.2834,
+        "lower_90": 0.2253,
+        "upper_90": 0.3415
+      },
+      {
+        "step": 97,
+        "t": 1794593342,
+        "forecast_price": 0.2834,
+        "lower_90": 0.225,
+        "upper_90": 0.3418
+      },
+      {
+        "step": 98,
+        "t": 1794593402,
+        "forecast_price": 0.2834,
+        "lower_90": 0.2247,
+        "upper_90": 0.3422
+      },
+      {
+        "step": 99,
+        "t": 1794593462,
+        "forecast_price": 0.2835,
+        "lower_90": 0.2244,
+        "upper_90": 0.3425
+      },
+      {
+        "step": 100,
+        "t": 1794593522,
+        "forecast_price": 0.2835,
+        "lower_90": 0.2242,
+        "upper_90": 0.3428
+      },
+      {
+        "step": 101,
+        "t": 1794593582,
+        "forecast_price": 0.2835,
+        "lower_90": 0.2239,
+        "upper_90": 0.3432
+      },
+      {
+        "step": 102,
+        "t": 1794593642,
+        "forecast_price": 0.2836,
+        "lower_90": 0.2236,
+        "upper_90": 0.3435
+      },
+      {
+        "step": 103,
+        "t": 1794593702,
+        "forecast_price": 0.2836,
+        "lower_90": 0.2233,
+        "upper_90": 0.3438
+      },
+      {
+        "step": 104,
+        "t": 1794593762,
+        "forecast_price": 0.2836,
+        "lower_90": 0.2231,
+        "upper_90": 0.3441
+      },
+      {
+        "step": 105,
+        "t": 1794593822,
+        "forecast_price": 0.2836,
+        "lower_90": 0.2228,
+        "upper_90": 0.3445
+      },
+      {
+        "step": 106,
+        "t": 1794593882,
+        "forecast_price": 0.2837,
+        "lower_90": 0.2225,
+        "upper_90": 0.3448
+      },
+      {
+        "step": 107,
+        "t": 1794593942,
+        "forecast_price": 0.2837,
+        "lower_90": 0.2223,
+        "upper_90": 0.3451
+      },
+      {
+        "step": 108,
+        "t": 1794594002,
+        "forecast_price": 0.2837,
+        "lower_90": 0.222,
+        "upper_90": 0.3454
+      },
+      {
+        "step": 109,
+        "t": 1794594062,
+        "forecast_price": 0.2837,
+        "lower_90": 0.2218,
+        "upper_90": 0.3457
+      },
+      {
+        "step": 110,
+        "t": 1794594122,
+        "forecast_price": 0.2838,
+        "lower_90": 0.2215,
+        "upper_90": 0.346
+      },
+      {
+        "step": 111,
+        "t": 1794594182,
+        "forecast_price": 0.2838,
+        "lower_90": 0.2212,
+        "upper_90": 0.3464
+      },
+      {
+        "step": 112,
+        "t": 1794594242,
+        "forecast_price": 0.2838,
+        "lower_90": 0.221,
+        "upper_90": 0.3467
+      },
+      {
+        "step": 113,
+        "t": 1794594302,
+        "forecast_price": 0.2839,
+        "lower_90": 0.2207,
+        "upper_90": 0.347
+      },
+      {
+        "step": 114,
+        "t": 1794594362,
+        "forecast_price": 0.2839,
+        "lower_90": 0.2205,
+        "upper_90": 0.3473
+      },
+      {
+        "step": 115,
+        "t": 1794594422,
+        "forecast_price": 0.2839,
+        "lower_90": 0.2202,
+        "upper_90": 0.3476
+      },
+      {
+        "step": 116,
+        "t": 1794594482,
+        "forecast_price": 0.2839,
+        "lower_90": 0.22,
+        "upper_90": 0.3479
+      },
+      {
+        "step": 117,
+        "t": 1794594542,
+        "forecast_price": 0.284,
+        "lower_90": 0.2197,
+        "upper_90": 0.3482
+      },
+      {
+        "step": 118,
+        "t": 1794594602,
+        "forecast_price": 0.284,
+        "lower_90": 0.2195,
+        "upper_90": 0.3485
+      },
+      {
+        "step": 119,
+        "t": 1794594662,
+        "forecast_price": 0.284,
+        "lower_90": 0.2192,
+        "upper_90": 0.3488
+      },
+      {
+        "step": 120,
+        "t": 1794594722,
+        "forecast_price": 0.284,
+        "lower_90": 0.219,
+        "upper_90": 0.3491
+      },
+      {
+        "step": 121,
+        "t": 1794594782,
+        "forecast_price": 0.2841,
+        "lower_90": 0.2187,
+        "upper_90": 0.3494
+      },
+      {
+        "step": 122,
+        "t": 1794594842,
+        "forecast_price": 0.2841,
+        "lower_90": 0.2185,
+        "upper_90": 0.3497
+      },
+      {
+        "step": 123,
+        "t": 1794594902,
+        "forecast_price": 0.2841,
+        "lower_90": 0.2182,
+        "upper_90": 0.35
+      },
+      {
+        "step": 124,
+        "t": 1794594962,
+        "forecast_price": 0.2841,
+        "lower_90": 0.218,
+        "upper_90": 0.3503
+      },
+      {
+        "step": 125,
+        "t": 1794595022,
+        "forecast_price": 0.2842,
+        "lower_90": 0.2177,
+        "upper_90": 0.3506
+      },
+      {
+        "step": 126,
+        "t": 1794595082,
+        "forecast_price": 0.2842,
+        "lower_90": 0.2175,
+        "upper_90": 0.3509
+      },
+      {
+        "step": 127,
+        "t": 1794595142,
+        "forecast_price": 0.2842,
+        "lower_90": 0.2172,
+        "upper_90": 0.3512
+      },
+      {
+        "step": 128,
+        "t": 1794595202,
+        "forecast_price": 0.2842,
+        "lower_90": 0.217,
+        "upper_90": 0.3515
+      },
+      {
+        "step": 129,
+        "t": 1794595262,
+        "forecast_price": 0.2843,
+        "lower_90": 0.2168,
+        "upper_90": 0.3518
+      },
+      {
+        "step": 130,
+        "t": 1794595322,
+        "forecast_price": 0.2843,
+        "lower_90": 0.2165,
+        "upper_90": 0.3521
+      },
+      {
+        "step": 131,
+        "t": 1794595382,
+        "forecast_price": 0.2843,
+        "lower_90": 0.2163,
+        "upper_90": 0.3524
+      },
+      {
+        "step": 132,
+        "t": 1794595442,
+        "forecast_price": 0.2844,
+        "lower_90": 0.2161,
+        "upper_90": 0.3527
+      },
+      {
+        "step": 133,
+        "t": 1794595502,
+        "forecast_price": 0.2844,
+        "lower_90": 0.2158,
+        "upper_90": 0.3529
+      },
+      {
+        "step": 134,
+        "t": 1794595562,
+        "forecast_price": 0.2844,
+        "lower_90": 0.2156,
+        "upper_90": 0.3532
+      },
+      {
+        "step": 135,
+        "t": 1794595622,
+        "forecast_price": 0.2844,
+        "lower_90": 0.2153,
+        "upper_90": 0.3535
+      },
+      {
+        "step": 136,
+        "t": 1794595682,
+        "forecast_price": 0.2845,
+        "lower_90": 0.2151,
+        "upper_90": 0.3538
+      },
+      {
+        "step": 137,
+        "t": 1794595742,
+        "forecast_price": 0.2845,
+        "lower_90": 0.2149,
+        "upper_90": 0.3541
+      },
+      {
+        "step": 138,
+        "t": 1794595802,
+        "forecast_price": 0.2845,
+        "lower_90": 0.2146,
+        "upper_90": 0.3544
+      },
+      {
+        "step": 139,
+        "t": 1794595862,
+        "forecast_price": 0.2845,
+        "lower_90": 0.2144,
+        "upper_90": 0.3546
+      },
+      {
+        "step": 140,
+        "t": 1794595922,
+        "forecast_price": 0.2846,
+        "lower_90": 0.2142,
+        "upper_90": 0.3549
+      },
+      {
+        "step": 141,
+        "t": 1794595982,
+        "forecast_price": 0.2846,
+        "lower_90": 0.214,
+        "upper_90": 0.3552
+      },
+      {
+        "step": 142,
+        "t": 1794596042,
+        "forecast_price": 0.2846,
+        "lower_90": 0.2137,
+        "upper_90": 0.3555
+      },
+      {
+        "step": 143,
+        "t": 1794596102,
+        "forecast_price": 0.2846,
+        "lower_90": 0.2135,
+        "upper_90": 0.3558
+      },
+      {
+        "step": 144,
+        "t": 1794596162,
+        "forecast_price": 0.2847,
+        "lower_90": 0.2133,
+        "upper_90": 0.356
+      },
+      {
+        "step": 145,
+        "t": 1794596222,
+        "forecast_price": 0.2847,
+        "lower_90": 0.213,
+        "upper_90": 0.3563
+      },
+      {
+        "step": 146,
+        "t": 1794596282,
+        "forecast_price": 0.2847,
+        "lower_90": 0.2128,
+        "upper_90": 0.3566
+      },
+      {
+        "step": 147,
+        "t": 1794596342,
+        "forecast_price": 0.2847,
+        "lower_90": 0.2126,
+        "upper_90": 0.3569
+      },
+      {
+        "step": 148,
+        "t": 1794596402,
+        "forecast_price": 0.2848,
+        "lower_90": 0.2124,
+        "upper_90": 0.3571
+      },
+      {
+        "step": 149,
+        "t": 1794596462,
+        "forecast_price": 0.2848,
+        "lower_90": 0.2121,
+        "upper_90": 0.3574
+      },
+      {
+        "step": 150,
+        "t": 1794596522,
+        "forecast_price": 0.2848,
+        "lower_90": 0.2119,
+        "upper_90": 0.3577
+      },
+      {
+        "step": 151,
+        "t": 1794596582,
+        "forecast_price": 0.2848,
+        "lower_90": 0.2117,
+        "upper_90": 0.358
+      },
+      {
+        "step": 152,
+        "t": 1794596642,
+        "forecast_price": 0.2849,
+        "lower_90": 0.2115,
+        "upper_90": 0.3582
+      },
+      {
+        "step": 153,
+        "t": 1794596702,
+        "forecast_price": 0.2849,
+        "lower_90": 0.2113,
+        "upper_90": 0.3585
+      },
+      {
+        "step": 154,
+        "t": 1794596762,
+        "forecast_price": 0.2849,
+        "lower_90": 0.211,
+        "upper_90": 0.3588
+      },
+      {
+        "step": 155,
+        "t": 1794596822,
+        "forecast_price": 0.2849,
+        "lower_90": 0.2108,
+        "upper_90": 0.359
+      },
+      {
+        "step": 156,
+        "t": 1794596882,
+        "forecast_price": 0.2849,
+        "lower_90": 0.2106,
+        "upper_90": 0.3593
+      },
+      {
+        "step": 157,
+        "t": 1794596942,
+        "forecast_price": 0.285,
+        "lower_90": 0.2104,
+        "upper_90": 0.3596
+      },
+      {
+        "step": 158,
+        "t": 1794597002,
+        "forecast_price": 0.285,
+        "lower_90": 0.2102,
+        "upper_90": 0.3598
+      },
+      {
+        "step": 159,
+        "t": 1794597062,
+        "forecast_price": 0.285,
+        "lower_90": 0.21,
+        "upper_90": 0.3601
+      },
+      {
+        "step": 160,
+        "t": 1794597122,
+        "forecast_price": 0.285,
+        "lower_90": 0.2097,
+        "upper_90": 0.3604
+      },
+      {
+        "step": 161,
+        "t": 1794597182,
+        "forecast_price": 0.2851,
+        "lower_90": 0.2095,
+        "upper_90": 0.3606
+      },
+      {
+        "step": 162,
+        "t": 1794597242,
+        "forecast_price": 0.2851,
+        "lower_90": 0.2093,
+        "upper_90": 0.3609
+      },
+      {
+        "step": 163,
+        "t": 1794597302,
+        "forecast_price": 0.2851,
+        "lower_90": 0.2091,
+        "upper_90": 0.3611
+      },
+      {
+        "step": 164,
+        "t": 1794597362,
+        "forecast_price": 0.2851,
+        "lower_90": 0.2089,
+        "upper_90": 0.3614
+      },
+      {
+        "step": 165,
+        "t": 1794597422,
+        "forecast_price": 0.2852,
+        "lower_90": 0.2087,
+        "upper_90": 0.3617
+      },
+      {
+        "step": 166,
+        "t": 1794597482,
+        "forecast_price": 0.2852,
+        "lower_90": 0.2085,
+        "upper_90": 0.3619
+      },
+      {
+        "step": 167,
+        "t": 1794597542,
+        "forecast_price": 0.2852,
+        "lower_90": 0.2082,
+        "upper_90": 0.3622
+      },
+      {
+        "step": 168,
+        "t": 1794597602,
+        "forecast_price": 0.2852,
+        "lower_90": 0.208,
+        "upper_90": 0.3624
+      },
+      {
+        "step": 169,
+        "t": 1794597662,
+        "forecast_price": 0.2853,
+        "lower_90": 0.2078,
+        "upper_90": 0.3627
+      },
+      {
+        "step": 170,
+        "t": 1794597722,
+        "forecast_price": 0.2853,
+        "lower_90": 0.2076,
+        "upper_90": 0.3629
+      },
+      {
+        "step": 171,
+        "t": 1794597782,
+        "forecast_price": 0.2853,
+        "lower_90": 0.2074,
+        "upper_90": 0.3632
+      },
+      {
+        "step": 172,
+        "t": 1794597842,
+        "forecast_price": 0.2853,
+        "lower_90": 0.2072,
+        "upper_90": 0.3635
+      },
+      {
+        "step": 173,
+        "t": 1794597902,
+        "forecast_price": 0.2854,
+        "lower_90": 0.207,
+        "upper_90": 0.3637
+      },
+      {
+        "step": 174,
+        "t": 1794597962,
+        "forecast_price": 0.2854,
+        "lower_90": 0.2068,
+        "upper_90": 0.364
+      },
+      {
+        "step": 175,
+        "t": 1794598022,
+        "forecast_price": 0.2854,
+        "lower_90": 0.2066,
+        "upper_90": 0.3642
+      },
+      {
+        "step": 176,
+        "t": 1794598082,
+        "forecast_price": 0.2854,
+        "lower_90": 0.2064,
+        "upper_90": 0.3645
+      },
+      {
+        "step": 177,
+        "t": 1794598142,
+        "forecast_price": 0.2854,
+        "lower_90": 0.2062,
+        "upper_90": 0.3647
+      },
+      {
+        "step": 178,
+        "t": 1794598202,
+        "forecast_price": 0.2855,
+        "lower_90": 0.206,
+        "upper_90": 0.365
+      },
+      {
+        "step": 179,
+        "t": 1794598262,
+        "forecast_price": 0.2855,
+        "lower_90": 0.2058,
+        "upper_90": 0.3652
+      },
+      {
+        "step": 180,
+        "t": 1794598322,
+        "forecast_price": 0.2855,
+        "lower_90": 0.2056,
+        "upper_90": 0.3655
+      },
+      {
+        "step": 181,
+        "t": 1794598382,
+        "forecast_price": 0.2855,
+        "lower_90": 0.2054,
+        "upper_90": 0.3657
+      },
+      {
+        "step": 182,
+        "t": 1794598442,
+        "forecast_price": 0.2856,
+        "lower_90": 0.2052,
+        "upper_90": 0.366
+      },
+      {
+        "step": 183,
+        "t": 1794598502,
+        "forecast_price": 0.2856,
+        "lower_90": 0.205,
+        "upper_90": 0.3662
+      },
+      {
+        "step": 184,
+        "t": 1794598562,
+        "forecast_price": 0.2856,
+        "lower_90": 0.2048,
+        "upper_90": 0.3665
+      },
+      {
+        "step": 185,
+        "t": 1794598622,
+        "forecast_price": 0.2856,
+        "lower_90": 0.2046,
+        "upper_90": 0.3667
+      },
+      {
+        "step": 186,
+        "t": 1794598682,
+        "forecast_price": 0.2857,
+        "lower_90": 0.2044,
+        "upper_90": 0.367
+      },
+      {
+        "step": 187,
+        "t": 1794598742,
+        "forecast_price": 0.2857,
+        "lower_90": 0.2042,
+        "upper_90": 0.3672
+      },
+      {
+        "step": 188,
+        "t": 1794598802,
+        "forecast_price": 0.2857,
+        "lower_90": 0.204,
+        "upper_90": 0.3674
+      },
+      {
+        "step": 189,
+        "t": 1794598862,
+        "forecast_price": 0.2857,
+        "lower_90": 0.2038,
+        "upper_90": 0.3677
+      },
+      {
+        "step": 190,
+        "t": 1794598922,
+        "forecast_price": 0.2857,
+        "lower_90": 0.2036,
+        "upper_90": 0.3679
+      },
+      {
+        "step": 191,
+        "t": 1794598982,
+        "forecast_price": 0.2858,
+        "lower_90": 0.2034,
+        "upper_90": 0.3682
+      },
+      {
+        "step": 192,
+        "t": 1794599042,
+        "forecast_price": 0.2858,
+        "lower_90": 0.2032,
+        "upper_90": 0.3684
+      },
+      {
+        "step": 193,
+        "t": 1794599102,
+        "forecast_price": 0.2858,
+        "lower_90": 0.203,
+        "upper_90": 0.3687
+      },
+      {
+        "step": 194,
+        "t": 1794599162,
+        "forecast_price": 0.2858,
+        "lower_90": 0.2028,
+        "upper_90": 0.3689
+      },
+      {
+        "step": 195,
+        "t": 1794599222,
+        "forecast_price": 0.2859,
+        "lower_90": 0.2026,
+        "upper_90": 0.3691
+      },
+      {
+        "step": 196,
+        "t": 1794599282,
+        "forecast_price": 0.2859,
+        "lower_90": 0.2024,
+        "upper_90": 0.3694
+      },
+      {
+        "step": 197,
+        "t": 1794599342,
+        "forecast_price": 0.2859,
+        "lower_90": 0.2022,
+        "upper_90": 0.3696
+      },
+      {
+        "step": 198,
+        "t": 1794599402,
+        "forecast_price": 0.2859,
+        "lower_90": 0.202,
+        "upper_90": 0.3698
+      },
+      {
+        "step": 199,
+        "t": 1794599462,
+        "forecast_price": 0.2859,
+        "lower_90": 0.2018,
+        "upper_90": 0.3701
+      },
+      {
+        "step": 200,
+        "t": 1794599522,
+        "forecast_price": 0.286,
+        "lower_90": 0.2016,
+        "upper_90": 0.3703
+      },
+      {
+        "step": 201,
+        "t": 1794599582,
+        "forecast_price": 0.286,
+        "lower_90": 0.2014,
+        "upper_90": 0.3706
+      },
+      {
+        "step": 202,
+        "t": 1794599642,
+        "forecast_price": 0.286,
+        "lower_90": 0.2012,
+        "upper_90": 0.3708
+      },
+      {
+        "step": 203,
+        "t": 1794599702,
+        "forecast_price": 0.286,
+        "lower_90": 0.201,
+        "upper_90": 0.371
+      },
+      {
+        "step": 204,
+        "t": 1794599762,
+        "forecast_price": 0.2861,
+        "lower_90": 0.2008,
+        "upper_90": 0.3713
+      },
+      {
+        "step": 205,
+        "t": 1794599822,
+        "forecast_price": 0.2861,
+        "lower_90": 0.2006,
+        "upper_90": 0.3715
+      },
+      {
+        "step": 206,
+        "t": 1794599882,
+        "forecast_price": 0.2861,
+        "lower_90": 0.2005,
+        "upper_90": 0.3717
+      },
+      {
+        "step": 207,
+        "t": 1794599942,
+        "forecast_price": 0.2861,
+        "lower_90": 0.2003,
+        "upper_90": 0.372
+      },
+      {
+        "step": 208,
+        "t": 1794600002,
+        "forecast_price": 0.2861,
+        "lower_90": 0.2001,
+        "upper_90": 0.3722
+      },
+      {
+        "step": 209,
+        "t": 1794600062,
+        "forecast_price": 0.2862,
+        "lower_90": 0.1999,
+        "upper_90": 0.3724
+      },
+      {
+        "step": 210,
+        "t": 1794600122,
+        "forecast_price": 0.2862,
+        "lower_90": 0.1997,
+        "upper_90": 0.3727
+      },
+      {
+        "step": 211,
+        "t": 1794600182,
+        "forecast_price": 0.2862,
+        "lower_90": 0.1995,
+        "upper_90": 0.3729
+      },
+      {
+        "step": 212,
+        "t": 1794600242,
+        "forecast_price": 0.2862,
+        "lower_90": 0.1993,
+        "upper_90": 0.3731
+      },
+      {
+        "step": 213,
+        "t": 1794600302,
+        "forecast_price": 0.2862,
+        "lower_90": 0.1991,
+        "upper_90": 0.3734
+      },
+      {
+        "step": 214,
+        "t": 1794600362,
+        "forecast_price": 0.2863,
+        "lower_90": 0.199,
+        "upper_90": 0.3736
+      },
+      {
+        "step": 215,
+        "t": 1794600422,
+        "forecast_price": 0.2863,
+        "lower_90": 0.1988,
+        "upper_90": 0.3738
+      },
+      {
+        "step": 216,
+        "t": 1794600482,
+        "forecast_price": 0.2863,
+        "lower_90": 0.1986,
+        "upper_90": 0.374
+      },
+      {
+        "step": 217,
+        "t": 1794600542,
+        "forecast_price": 0.2863,
+        "lower_90": 0.1984,
+        "upper_90": 0.3743
+      },
+      {
+        "step": 218,
+        "t": 1794600602,
+        "forecast_price": 0.2864,
+        "lower_90": 0.1982,
+        "upper_90": 0.3745
+      },
+      {
+        "step": 219,
+        "t": 1794600662,
+        "forecast_price": 0.2864,
+        "lower_90": 0.198,
+        "upper_90": 0.3747
+      },
+      {
+        "step": 220,
+        "t": 1794600722,
+        "forecast_price": 0.2864,
+        "lower_90": 0.1978,
+        "upper_90": 0.375
+      },
+      {
+        "step": 221,
+        "t": 1794600782,
+        "forecast_price": 0.2864,
+        "lower_90": 0.1977,
+        "upper_90": 0.3752
+      },
+      {
+        "step": 222,
+        "t": 1794600842,
+        "forecast_price": 0.2864,
+        "lower_90": 0.1975,
+        "upper_90": 0.3754
+      },
+      {
+        "step": 223,
+        "t": 1794600902,
+        "forecast_price": 0.2865,
+        "lower_90": 0.1973,
+        "upper_90": 0.3756
+      },
+      {
+        "step": 224,
+        "t": 1794600962,
+        "forecast_price": 0.2865,
+        "lower_90": 0.1971,
+        "upper_90": 0.3759
+      },
+      {
+        "step": 225,
+        "t": 1794601022,
+        "forecast_price": 0.2865,
+        "lower_90": 0.1969,
+        "upper_90": 0.3761
+      },
+      {
+        "step": 226,
+        "t": 1794601082,
+        "forecast_price": 0.2865,
+        "lower_90": 0.1967,
+        "upper_90": 0.3763
+      },
+      {
+        "step": 227,
+        "t": 1794601142,
+        "forecast_price": 0.2865,
+        "lower_90": 0.1966,
+        "upper_90": 0.3765
+      },
+      {
+        "step": 228,
+        "t": 1794601202,
+        "forecast_price": 0.2866,
+        "lower_90": 0.1964,
+        "upper_90": 0.3767
+      },
+      {
+        "step": 229,
+        "t": 1794601262,
+        "forecast_price": 0.2866,
+        "lower_90": 0.1962,
+        "upper_90": 0.377
+      },
+      {
+        "step": 230,
+        "t": 1794601322,
+        "forecast_price": 0.2866,
+        "lower_90": 0.196,
+        "upper_90": 0.3772
+      },
+      {
+        "step": 231,
+        "t": 1794601382,
+        "forecast_price": 0.2866,
+        "lower_90": 0.1958,
+        "upper_90": 0.3774
+      },
+      {
+        "step": 232,
+        "t": 1794601442,
+        "forecast_price": 0.2866,
+        "lower_90": 0.1957,
+        "upper_90": 0.3776
+      },
+      {
+        "step": 233,
+        "t": 1794601502,
+        "forecast_price": 0.2867,
+        "lower_90": 0.1955,
+        "upper_90": 0.3779
+      },
+      {
+        "step": 234,
+        "t": 1794601562,
+        "forecast_price": 0.2867,
+        "lower_90": 0.1953,
+        "upper_90": 0.3781
+      },
+      {
+        "step": 235,
+        "t": 1794601622,
+        "forecast_price": 0.2867,
+        "lower_90": 0.1951,
+        "upper_90": 0.3783
+      },
+      {
+        "step": 236,
+        "t": 1794601682,
+        "forecast_price": 0.2867,
+        "lower_90": 0.1949,
+        "upper_90": 0.3785
+      },
+      {
+        "step": 237,
+        "t": 1794601742,
+        "forecast_price": 0.2868,
+        "lower_90": 0.1948,
+        "upper_90": 0.3787
+      },
+      {
+        "step": 238,
+        "t": 1794601802,
+        "forecast_price": 0.2868,
+        "lower_90": 0.1946,
+        "upper_90": 0.379
+      },
+      {
+        "step": 239,
+        "t": 1794601862,
+        "forecast_price": 0.2868,
+        "lower_90": 0.1944,
+        "upper_90": 0.3792
+      },
+      {
+        "step": 240,
+        "t": 1794601922,
+        "forecast_price": 0.2868,
+        "lower_90": 0.1942,
+        "upper_90": 0.3794
+      }
+    ],
+    "Rene Haas": [
+      {
+        "step": 1,
+        "t": 1794587582,
+        "forecast_price": 0.1491,
+        "lower_90": 0.1405,
+        "upper_90": 0.1578
+      },
+      {
+        "step": 2,
+        "t": 1794587642,
+        "forecast_price": 0.1491,
+        "lower_90": 0.1368,
+        "upper_90": 0.1614
+      },
+      {
+        "step": 3,
+        "t": 1794587702,
+        "forecast_price": 0.1491,
+        "lower_90": 0.134,
+        "upper_90": 0.1641
+      },
+      {
+        "step": 4,
+        "t": 1794587762,
+        "forecast_price": 0.149,
+        "lower_90": 0.1317,
+        "upper_90": 0.1664
+      },
+      {
+        "step": 5,
+        "t": 1794587822,
+        "forecast_price": 0.149,
+        "lower_90": 0.1296,
+        "upper_90": 0.1684
+      },
+      {
+        "step": 6,
+        "t": 1794587882,
+        "forecast_price": 0.149,
+        "lower_90": 0.1277,
+        "upper_90": 0.1702
+      },
+      {
+        "step": 7,
+        "t": 1794587942,
+        "forecast_price": 0.1489,
+        "lower_90": 0.126,
+        "upper_90": 0.1719
+      },
+      {
+        "step": 8,
+        "t": 1794588002,
+        "forecast_price": 0.1489,
+        "lower_90": 0.1244,
+        "upper_90": 0.1734
+      },
+      {
+        "step": 9,
+        "t": 1794588062,
+        "forecast_price": 0.1489,
+        "lower_90": 0.1229,
+        "upper_90": 0.1749
+      },
+      {
+        "step": 10,
+        "t": 1794588122,
+        "forecast_price": 0.1488,
+        "lower_90": 0.1215,
+        "upper_90": 0.1762
+      },
+      {
+        "step": 11,
+        "t": 1794588182,
+        "forecast_price": 0.1488,
+        "lower_90": 0.1201,
+        "upper_90": 0.1775
+      },
+      {
+        "step": 12,
+        "t": 1794588242,
+        "forecast_price": 0.1488,
+        "lower_90": 0.1188,
+        "upper_90": 0.1788
+      },
+      {
+        "step": 13,
+        "t": 1794588302,
+        "forecast_price": 0.1488,
+        "lower_90": 0.1176,
+        "upper_90": 0.18
+      },
+      {
+        "step": 14,
+        "t": 1794588362,
+        "forecast_price": 0.1488,
+        "lower_90": 0.1164,
+        "upper_90": 0.1811
+      },
+      {
+        "step": 15,
+        "t": 1794588422,
+        "forecast_price": 0.1487,
+        "lower_90": 0.1152,
+        "upper_90": 0.1823
+      },
+      {
+        "step": 16,
+        "t": 1794588482,
+        "forecast_price": 0.1487,
+        "lower_90": 0.1141,
+        "upper_90": 0.1833
+      },
+      {
+        "step": 17,
+        "t": 1794588542,
+        "forecast_price": 0.1487,
+        "lower_90": 0.113,
+        "upper_90": 0.1844
+      },
+      {
+        "step": 18,
+        "t": 1794588602,
+        "forecast_price": 0.1487,
+        "lower_90": 0.112,
+        "upper_90": 0.1854
+      },
+      {
+        "step": 19,
+        "t": 1794588662,
+        "forecast_price": 0.1487,
+        "lower_90": 0.111,
+        "upper_90": 0.1864
+      },
+      {
+        "step": 20,
+        "t": 1794588722,
+        "forecast_price": 0.1486,
+        "lower_90": 0.11,
+        "upper_90": 0.1873
+      },
+      {
+        "step": 21,
+        "t": 1794588782,
+        "forecast_price": 0.1486,
+        "lower_90": 0.109,
+        "upper_90": 0.1883
+      },
+      {
+        "step": 22,
+        "t": 1794588842,
+        "forecast_price": 0.1486,
+        "lower_90": 0.1081,
+        "upper_90": 0.1892
+      },
+      {
+        "step": 23,
+        "t": 1794588902,
+        "forecast_price": 0.1486,
+        "lower_90": 0.1071,
+        "upper_90": 0.1901
+      },
+      {
+        "step": 24,
+        "t": 1794588962,
+        "forecast_price": 0.1486,
+        "lower_90": 0.1062,
+        "upper_90": 0.191
+      },
+      {
+        "step": 25,
+        "t": 1794589022,
+        "forecast_price": 0.1486,
+        "lower_90": 0.1053,
+        "upper_90": 0.1918
+      },
+      {
+        "step": 26,
+        "t": 1794589082,
+        "forecast_price": 0.1486,
+        "lower_90": 0.1045,
+        "upper_90": 0.1927
+      },
+      {
+        "step": 27,
+        "t": 1794589142,
+        "forecast_price": 0.1486,
+        "lower_90": 0.1036,
+        "upper_90": 0.1935
+      },
+      {
+        "step": 28,
+        "t": 1794589202,
+        "forecast_price": 0.1486,
+        "lower_90": 0.1028,
+        "upper_90": 0.1943
+      },
+      {
+        "step": 29,
+        "t": 1794589262,
+        "forecast_price": 0.1486,
+        "lower_90": 0.102,
+        "upper_90": 0.1951
+      },
+      {
+        "step": 30,
+        "t": 1794589322,
+        "forecast_price": 0.1485,
+        "lower_90": 0.1012,
+        "upper_90": 0.1959
+      },
+      {
+        "step": 31,
+        "t": 1794589382,
+        "forecast_price": 0.1485,
+        "lower_90": 0.1004,
+        "upper_90": 0.1967
+      },
+      {
+        "step": 32,
+        "t": 1794589442,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0996,
+        "upper_90": 0.1974
+      },
+      {
+        "step": 33,
+        "t": 1794589502,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0989,
+        "upper_90": 0.1982
+      },
+      {
+        "step": 34,
+        "t": 1794589562,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0981,
+        "upper_90": 0.1989
+      },
+      {
+        "step": 35,
+        "t": 1794589622,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0974,
+        "upper_90": 0.1997
+      },
+      {
+        "step": 36,
+        "t": 1794589682,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0966,
+        "upper_90": 0.2004
+      },
+      {
+        "step": 37,
+        "t": 1794589742,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0959,
+        "upper_90": 0.2011
+      },
+      {
+        "step": 38,
+        "t": 1794589802,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0952,
+        "upper_90": 0.2018
+      },
+      {
+        "step": 39,
+        "t": 1794589862,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0945,
+        "upper_90": 0.2025
+      },
+      {
+        "step": 40,
+        "t": 1794589922,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0938,
+        "upper_90": 0.2032
+      },
+      {
+        "step": 41,
+        "t": 1794589982,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0932,
+        "upper_90": 0.2039
+      },
+      {
+        "step": 42,
+        "t": 1794590042,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0925,
+        "upper_90": 0.2045
+      },
+      {
+        "step": 43,
+        "t": 1794590102,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0918,
+        "upper_90": 0.2052
+      },
+      {
+        "step": 44,
+        "t": 1794590162,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0912,
+        "upper_90": 0.2058
+      },
+      {
+        "step": 45,
+        "t": 1794590222,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0905,
+        "upper_90": 0.2065
+      },
+      {
+        "step": 46,
+        "t": 1794590282,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0899,
+        "upper_90": 0.2071
+      },
+      {
+        "step": 47,
+        "t": 1794590342,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0892,
+        "upper_90": 0.2078
+      },
+      {
+        "step": 48,
+        "t": 1794590402,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0886,
+        "upper_90": 0.2084
+      },
+      {
+        "step": 49,
+        "t": 1794590462,
+        "forecast_price": 0.1485,
+        "lower_90": 0.088,
+        "upper_90": 0.209
+      },
+      {
+        "step": 50,
+        "t": 1794590522,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0874,
+        "upper_90": 0.2096
+      },
+      {
+        "step": 51,
+        "t": 1794590582,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0868,
+        "upper_90": 0.2102
+      },
+      {
+        "step": 52,
+        "t": 1794590642,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0862,
+        "upper_90": 0.2108
+      },
+      {
+        "step": 53,
+        "t": 1794590702,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0856,
+        "upper_90": 0.2114
+      },
+      {
+        "step": 54,
+        "t": 1794590762,
+        "forecast_price": 0.1485,
+        "lower_90": 0.085,
+        "upper_90": 0.212
+      },
+      {
+        "step": 55,
+        "t": 1794590822,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0844,
+        "upper_90": 0.2126
+      },
+      {
+        "step": 56,
+        "t": 1794590882,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0838,
+        "upper_90": 0.2132
+      },
+      {
+        "step": 57,
+        "t": 1794590942,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0833,
+        "upper_90": 0.2138
+      },
+      {
+        "step": 58,
+        "t": 1794591002,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0827,
+        "upper_90": 0.2144
+      },
+      {
+        "step": 59,
+        "t": 1794591062,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0821,
+        "upper_90": 0.2149
+      },
+      {
+        "step": 60,
+        "t": 1794591122,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0816,
+        "upper_90": 0.2155
+      },
+      {
+        "step": 61,
+        "t": 1794591182,
+        "forecast_price": 0.1485,
+        "lower_90": 0.081,
+        "upper_90": 0.2161
+      },
+      {
+        "step": 62,
+        "t": 1794591242,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0805,
+        "upper_90": 0.2166
+      },
+      {
+        "step": 63,
+        "t": 1794591302,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0799,
+        "upper_90": 0.2172
+      },
+      {
+        "step": 64,
+        "t": 1794591362,
+        "forecast_price": 0.1485,
+        "lower_90": 0.0794,
+        "upper_90": 0.2177
+      },
+      {
+        "step": 65,
+        "t": 1794591422,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0788,
+        "upper_90": 0.2183
+      },
+      {
+        "step": 66,
+        "t": 1794591482,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0783,
+        "upper_90": 0.2188
+      },
+      {
+        "step": 67,
+        "t": 1794591542,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0778,
+        "upper_90": 0.2193
+      },
+      {
+        "step": 68,
+        "t": 1794591602,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0773,
+        "upper_90": 0.2199
+      },
+      {
+        "step": 69,
+        "t": 1794591662,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0767,
+        "upper_90": 0.2204
+      },
+      {
+        "step": 70,
+        "t": 1794591722,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0762,
+        "upper_90": 0.2209
+      },
+      {
+        "step": 71,
+        "t": 1794591782,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0757,
+        "upper_90": 0.2214
+      },
+      {
+        "step": 72,
+        "t": 1794591842,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0752,
+        "upper_90": 0.222
+      },
+      {
+        "step": 73,
+        "t": 1794591902,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0747,
+        "upper_90": 0.2225
+      },
+      {
+        "step": 74,
+        "t": 1794591962,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0742,
+        "upper_90": 0.223
+      },
+      {
+        "step": 75,
+        "t": 1794592022,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0737,
+        "upper_90": 0.2235
+      },
+      {
+        "step": 76,
+        "t": 1794592082,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0732,
+        "upper_90": 0.224
+      },
+      {
+        "step": 77,
+        "t": 1794592142,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0727,
+        "upper_90": 0.2245
+      },
+      {
+        "step": 78,
+        "t": 1794592202,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0722,
+        "upper_90": 0.225
+      },
+      {
+        "step": 79,
+        "t": 1794592262,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0717,
+        "upper_90": 0.2255
+      },
+      {
+        "step": 80,
+        "t": 1794592322,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0713,
+        "upper_90": 0.226
+      },
+      {
+        "step": 81,
+        "t": 1794592382,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0708,
+        "upper_90": 0.2265
+      },
+      {
+        "step": 82,
+        "t": 1794592442,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0703,
+        "upper_90": 0.227
+      },
+      {
+        "step": 83,
+        "t": 1794592502,
+        "forecast_price": 0.1486,
+        "lower_90": 0.0698,
+        "upper_90": 0.2275
+      },
+      {
+        "step": 84,
+        "t": 1794592562,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0694,
+        "upper_90": 0.2279
+      },
+      {
+        "step": 85,
+        "t": 1794592622,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0689,
+        "upper_90": 0.2284
+      },
+      {
+        "step": 86,
+        "t": 1794592682,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0684,
+        "upper_90": 0.2289
+      },
+      {
+        "step": 87,
+        "t": 1794592742,
+        "forecast_price": 0.1487,
+        "lower_90": 0.068,
+        "upper_90": 0.2294
+      },
+      {
+        "step": 88,
+        "t": 1794592802,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0675,
+        "upper_90": 0.2298
+      },
+      {
+        "step": 89,
+        "t": 1794592862,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0671,
+        "upper_90": 0.2303
+      },
+      {
+        "step": 90,
+        "t": 1794592922,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0666,
+        "upper_90": 0.2308
+      },
+      {
+        "step": 91,
+        "t": 1794592982,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0662,
+        "upper_90": 0.2312
+      },
+      {
+        "step": 92,
+        "t": 1794593042,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0657,
+        "upper_90": 0.2317
+      },
+      {
+        "step": 93,
+        "t": 1794593102,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0653,
+        "upper_90": 0.2322
+      },
+      {
+        "step": 94,
+        "t": 1794593162,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0648,
+        "upper_90": 0.2326
+      },
+      {
+        "step": 95,
+        "t": 1794593222,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0644,
+        "upper_90": 0.2331
+      },
+      {
+        "step": 96,
+        "t": 1794593282,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0639,
+        "upper_90": 0.2335
+      },
+      {
+        "step": 97,
+        "t": 1794593342,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0635,
+        "upper_90": 0.234
+      },
+      {
+        "step": 98,
+        "t": 1794593402,
+        "forecast_price": 0.1487,
+        "lower_90": 0.0631,
+        "upper_90": 0.2344
+      },
+      {
+        "step": 99,
+        "t": 1794593462,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0626,
+        "upper_90": 0.2349
+      },
+      {
+        "step": 100,
+        "t": 1794593522,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0622,
+        "upper_90": 0.2353
+      },
+      {
+        "step": 101,
+        "t": 1794593582,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0618,
+        "upper_90": 0.2358
+      },
+      {
+        "step": 102,
+        "t": 1794593642,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0613,
+        "upper_90": 0.2362
+      },
+      {
+        "step": 103,
+        "t": 1794593702,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0609,
+        "upper_90": 0.2366
+      },
+      {
+        "step": 104,
+        "t": 1794593762,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0605,
+        "upper_90": 0.2371
+      },
+      {
+        "step": 105,
+        "t": 1794593822,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0601,
+        "upper_90": 0.2375
+      },
+      {
+        "step": 106,
+        "t": 1794593882,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0597,
+        "upper_90": 0.2379
+      },
+      {
+        "step": 107,
+        "t": 1794593942,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0592,
+        "upper_90": 0.2384
+      },
+      {
+        "step": 108,
+        "t": 1794594002,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0588,
+        "upper_90": 0.2388
+      },
+      {
+        "step": 109,
+        "t": 1794594062,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0584,
+        "upper_90": 0.2392
+      },
+      {
+        "step": 110,
+        "t": 1794594122,
+        "forecast_price": 0.1488,
+        "lower_90": 0.058,
+        "upper_90": 0.2396
+      },
+      {
+        "step": 111,
+        "t": 1794594182,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0576,
+        "upper_90": 0.2401
+      },
+      {
+        "step": 112,
+        "t": 1794594242,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0572,
+        "upper_90": 0.2405
+      },
+      {
+        "step": 113,
+        "t": 1794594302,
+        "forecast_price": 0.1488,
+        "lower_90": 0.0568,
+        "upper_90": 0.2409
+      },
+      {
+        "step": 114,
+        "t": 1794594362,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0564,
+        "upper_90": 0.2413
+      },
+      {
+        "step": 115,
+        "t": 1794594422,
+        "forecast_price": 0.1489,
+        "lower_90": 0.056,
+        "upper_90": 0.2417
+      },
+      {
+        "step": 116,
+        "t": 1794594482,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0556,
+        "upper_90": 0.2422
+      },
+      {
+        "step": 117,
+        "t": 1794594542,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0552,
+        "upper_90": 0.2426
+      },
+      {
+        "step": 118,
+        "t": 1794594602,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0548,
+        "upper_90": 0.243
+      },
+      {
+        "step": 119,
+        "t": 1794594662,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0544,
+        "upper_90": 0.2434
+      },
+      {
+        "step": 120,
+        "t": 1794594722,
+        "forecast_price": 0.1489,
+        "lower_90": 0.054,
+        "upper_90": 0.2438
+      },
+      {
+        "step": 121,
+        "t": 1794594782,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0536,
+        "upper_90": 0.2442
+      },
+      {
+        "step": 122,
+        "t": 1794594842,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0532,
+        "upper_90": 0.2446
+      },
+      {
+        "step": 123,
+        "t": 1794594902,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0528,
+        "upper_90": 0.245
+      },
+      {
+        "step": 124,
+        "t": 1794594962,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0524,
+        "upper_90": 0.2454
+      },
+      {
+        "step": 125,
+        "t": 1794595022,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0521,
+        "upper_90": 0.2458
+      },
+      {
+        "step": 126,
+        "t": 1794595082,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0517,
+        "upper_90": 0.2462
+      },
+      {
+        "step": 127,
+        "t": 1794595142,
+        "forecast_price": 0.1489,
+        "lower_90": 0.0513,
+        "upper_90": 0.2466
+      },
+      {
+        "step": 128,
+        "t": 1794595202,
+        "forecast_price": 0.149,
+        "lower_90": 0.0509,
+        "upper_90": 0.247
+      },
+      {
+        "step": 129,
+        "t": 1794595262,
+        "forecast_price": 0.149,
+        "lower_90": 0.0505,
+        "upper_90": 0.2474
+      },
+      {
+        "step": 130,
+        "t": 1794595322,
+        "forecast_price": 0.149,
+        "lower_90": 0.0502,
+        "upper_90": 0.2478
+      },
+      {
+        "step": 131,
+        "t": 1794595382,
+        "forecast_price": 0.149,
+        "lower_90": 0.0498,
+        "upper_90": 0.2482
+      },
+      {
+        "step": 132,
+        "t": 1794595442,
+        "forecast_price": 0.149,
+        "lower_90": 0.0494,
+        "upper_90": 0.2486
+      },
+      {
+        "step": 133,
+        "t": 1794595502,
+        "forecast_price": 0.149,
+        "lower_90": 0.049,
+        "upper_90": 0.2489
+      },
+      {
+        "step": 134,
+        "t": 1794595562,
+        "forecast_price": 0.149,
+        "lower_90": 0.0487,
+        "upper_90": 0.2493
+      },
+      {
+        "step": 135,
+        "t": 1794595622,
+        "forecast_price": 0.149,
+        "lower_90": 0.0483,
+        "upper_90": 0.2497
+      },
+      {
+        "step": 136,
+        "t": 1794595682,
+        "forecast_price": 0.149,
+        "lower_90": 0.0479,
+        "upper_90": 0.2501
+      },
+      {
+        "step": 137,
+        "t": 1794595742,
+        "forecast_price": 0.149,
+        "lower_90": 0.0476,
+        "upper_90": 0.2505
+      },
+      {
+        "step": 138,
+        "t": 1794595802,
+        "forecast_price": 0.149,
+        "lower_90": 0.0472,
+        "upper_90": 0.2509
+      },
+      {
+        "step": 139,
+        "t": 1794595862,
+        "forecast_price": 0.149,
+        "lower_90": 0.0468,
+        "upper_90": 0.2512
+      },
+      {
+        "step": 140,
+        "t": 1794595922,
+        "forecast_price": 0.149,
+        "lower_90": 0.0465,
+        "upper_90": 0.2516
+      },
+      {
+        "step": 141,
+        "t": 1794595982,
+        "forecast_price": 0.149,
+        "lower_90": 0.0461,
+        "upper_90": 0.252
+      },
+      {
+        "step": 142,
+        "t": 1794596042,
+        "forecast_price": 0.149,
+        "lower_90": 0.0457,
+        "upper_90": 0.2524
+      },
+      {
+        "step": 143,
+        "t": 1794596102,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0454,
+        "upper_90": 0.2527
+      },
+      {
+        "step": 144,
+        "t": 1794596162,
+        "forecast_price": 0.1491,
+        "lower_90": 0.045,
+        "upper_90": 0.2531
+      },
+      {
+        "step": 145,
+        "t": 1794596222,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0447,
+        "upper_90": 0.2535
+      },
+      {
+        "step": 146,
+        "t": 1794596282,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0443,
+        "upper_90": 0.2539
+      },
+      {
+        "step": 147,
+        "t": 1794596342,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0439,
+        "upper_90": 0.2542
+      },
+      {
+        "step": 148,
+        "t": 1794596402,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0436,
+        "upper_90": 0.2546
+      },
+      {
+        "step": 149,
+        "t": 1794596462,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0432,
+        "upper_90": 0.255
+      },
+      {
+        "step": 150,
+        "t": 1794596522,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0429,
+        "upper_90": 0.2553
+      },
+      {
+        "step": 151,
+        "t": 1794596582,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0425,
+        "upper_90": 0.2557
+      },
+      {
+        "step": 152,
+        "t": 1794596642,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0422,
+        "upper_90": 0.256
+      },
+      {
+        "step": 153,
+        "t": 1794596702,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0418,
+        "upper_90": 0.2564
+      },
+      {
+        "step": 154,
+        "t": 1794596762,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0415,
+        "upper_90": 0.2568
+      },
+      {
+        "step": 155,
+        "t": 1794596822,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0411,
+        "upper_90": 0.2571
+      },
+      {
+        "step": 156,
+        "t": 1794596882,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0408,
+        "upper_90": 0.2575
+      },
+      {
+        "step": 157,
+        "t": 1794596942,
+        "forecast_price": 0.1491,
+        "lower_90": 0.0405,
+        "upper_90": 0.2578
+      },
+      {
+        "step": 158,
+        "t": 1794597002,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0401,
+        "upper_90": 0.2582
+      },
+      {
+        "step": 159,
+        "t": 1794597062,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0398,
+        "upper_90": 0.2586
+      },
+      {
+        "step": 160,
+        "t": 1794597122,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0394,
+        "upper_90": 0.2589
+      },
+      {
+        "step": 161,
+        "t": 1794597182,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0391,
+        "upper_90": 0.2593
+      },
+      {
+        "step": 162,
+        "t": 1794597242,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0387,
+        "upper_90": 0.2596
+      },
+      {
+        "step": 163,
+        "t": 1794597302,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0384,
+        "upper_90": 0.26
+      },
+      {
+        "step": 164,
+        "t": 1794597362,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0381,
+        "upper_90": 0.2603
+      },
+      {
+        "step": 165,
+        "t": 1794597422,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0377,
+        "upper_90": 0.2607
+      },
+      {
+        "step": 166,
+        "t": 1794597482,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0374,
+        "upper_90": 0.261
+      },
+      {
+        "step": 167,
+        "t": 1794597542,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0371,
+        "upper_90": 0.2614
+      },
+      {
+        "step": 168,
+        "t": 1794597602,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0367,
+        "upper_90": 0.2617
+      },
+      {
+        "step": 169,
+        "t": 1794597662,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0364,
+        "upper_90": 0.2621
+      },
+      {
+        "step": 170,
+        "t": 1794597722,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0361,
+        "upper_90": 0.2624
+      },
+      {
+        "step": 171,
+        "t": 1794597782,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0357,
+        "upper_90": 0.2627
+      },
+      {
+        "step": 172,
+        "t": 1794597842,
+        "forecast_price": 0.1492,
+        "lower_90": 0.0354,
+        "upper_90": 0.2631
+      },
+      {
+        "step": 173,
+        "t": 1794597902,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0351,
+        "upper_90": 0.2634
+      },
+      {
+        "step": 174,
+        "t": 1794597962,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0348,
+        "upper_90": 0.2638
+      },
+      {
+        "step": 175,
+        "t": 1794598022,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0344,
+        "upper_90": 0.2641
+      },
+      {
+        "step": 176,
+        "t": 1794598082,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0341,
+        "upper_90": 0.2644
+      },
+      {
+        "step": 177,
+        "t": 1794598142,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0338,
+        "upper_90": 0.2648
+      },
+      {
+        "step": 178,
+        "t": 1794598202,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0335,
+        "upper_90": 0.2651
+      },
+      {
+        "step": 179,
+        "t": 1794598262,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0331,
+        "upper_90": 0.2654
+      },
+      {
+        "step": 180,
+        "t": 1794598322,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0328,
+        "upper_90": 0.2658
+      },
+      {
+        "step": 181,
+        "t": 1794598382,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0325,
+        "upper_90": 0.2661
+      },
+      {
+        "step": 182,
+        "t": 1794598442,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0322,
+        "upper_90": 0.2664
+      },
+      {
+        "step": 183,
+        "t": 1794598502,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0319,
+        "upper_90": 0.2668
+      },
+      {
+        "step": 184,
+        "t": 1794598562,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0315,
+        "upper_90": 0.2671
+      },
+      {
+        "step": 185,
+        "t": 1794598622,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0312,
+        "upper_90": 0.2674
+      },
+      {
+        "step": 186,
+        "t": 1794598682,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0309,
+        "upper_90": 0.2678
+      },
+      {
+        "step": 187,
+        "t": 1794598742,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0306,
+        "upper_90": 0.2681
+      },
+      {
+        "step": 188,
+        "t": 1794598802,
+        "forecast_price": 0.1493,
+        "lower_90": 0.0303,
+        "upper_90": 0.2684
+      },
+      {
+        "step": 189,
+        "t": 1794598862,
+        "forecast_price": 0.1494,
+        "lower_90": 0.03,
+        "upper_90": 0.2688
+      },
+      {
+        "step": 190,
+        "t": 1794598922,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0296,
+        "upper_90": 0.2691
+      },
+      {
+        "step": 191,
+        "t": 1794598982,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0293,
+        "upper_90": 0.2694
+      },
+      {
+        "step": 192,
+        "t": 1794599042,
+        "forecast_price": 0.1494,
+        "lower_90": 0.029,
+        "upper_90": 0.2697
+      },
+      {
+        "step": 193,
+        "t": 1794599102,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0287,
+        "upper_90": 0.27
+      },
+      {
+        "step": 194,
+        "t": 1794599162,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0284,
+        "upper_90": 0.2704
+      },
+      {
+        "step": 195,
+        "t": 1794599222,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0281,
+        "upper_90": 0.2707
+      },
+      {
+        "step": 196,
+        "t": 1794599282,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0278,
+        "upper_90": 0.271
+      },
+      {
+        "step": 197,
+        "t": 1794599342,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0275,
+        "upper_90": 0.2713
+      },
+      {
+        "step": 198,
+        "t": 1794599402,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0272,
+        "upper_90": 0.2717
+      },
+      {
+        "step": 199,
+        "t": 1794599462,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0269,
+        "upper_90": 0.272
+      },
+      {
+        "step": 200,
+        "t": 1794599522,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0266,
+        "upper_90": 0.2723
+      },
+      {
+        "step": 201,
+        "t": 1794599582,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0262,
+        "upper_90": 0.2726
+      },
+      {
+        "step": 202,
+        "t": 1794599642,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0259,
+        "upper_90": 0.2729
+      },
+      {
+        "step": 203,
+        "t": 1794599702,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0256,
+        "upper_90": 0.2732
+      },
+      {
+        "step": 204,
+        "t": 1794599762,
+        "forecast_price": 0.1494,
+        "lower_90": 0.0253,
+        "upper_90": 0.2736
+      },
+      {
+        "step": 205,
+        "t": 1794599822,
+        "forecast_price": 0.1495,
+        "lower_90": 0.025,
+        "upper_90": 0.2739
+      },
+      {
+        "step": 206,
+        "t": 1794599882,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0247,
+        "upper_90": 0.2742
+      },
+      {
+        "step": 207,
+        "t": 1794599942,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0244,
+        "upper_90": 0.2745
+      },
+      {
+        "step": 208,
+        "t": 1794600002,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0241,
+        "upper_90": 0.2748
+      },
+      {
+        "step": 209,
+        "t": 1794600062,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0238,
+        "upper_90": 0.2751
+      },
+      {
+        "step": 210,
+        "t": 1794600122,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0235,
+        "upper_90": 0.2754
+      },
+      {
+        "step": 211,
+        "t": 1794600182,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0232,
+        "upper_90": 0.2757
+      },
+      {
+        "step": 212,
+        "t": 1794600242,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0229,
+        "upper_90": 0.276
+      },
+      {
+        "step": 213,
+        "t": 1794600302,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0226,
+        "upper_90": 0.2764
+      },
+      {
+        "step": 214,
+        "t": 1794600362,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0224,
+        "upper_90": 0.2767
+      },
+      {
+        "step": 215,
+        "t": 1794600422,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0221,
+        "upper_90": 0.277
+      },
+      {
+        "step": 216,
+        "t": 1794600482,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0218,
+        "upper_90": 0.2773
+      },
+      {
+        "step": 217,
+        "t": 1794600542,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0215,
+        "upper_90": 0.2776
+      },
+      {
+        "step": 218,
+        "t": 1794600602,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0212,
+        "upper_90": 0.2779
+      },
+      {
+        "step": 219,
+        "t": 1794600662,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0209,
+        "upper_90": 0.2782
+      },
+      {
+        "step": 220,
+        "t": 1794600722,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0206,
+        "upper_90": 0.2785
+      },
+      {
+        "step": 221,
+        "t": 1794600782,
+        "forecast_price": 0.1495,
+        "lower_90": 0.0203,
+        "upper_90": 0.2788
+      },
+      {
+        "step": 222,
+        "t": 1794600842,
+        "forecast_price": 0.1496,
+        "lower_90": 0.02,
+        "upper_90": 0.2791
+      },
+      {
+        "step": 223,
+        "t": 1794600902,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0197,
+        "upper_90": 0.2794
+      },
+      {
+        "step": 224,
+        "t": 1794600962,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0194,
+        "upper_90": 0.2797
+      },
+      {
+        "step": 225,
+        "t": 1794601022,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0191,
+        "upper_90": 0.28
+      },
+      {
+        "step": 226,
+        "t": 1794601082,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0189,
+        "upper_90": 0.2803
+      },
+      {
+        "step": 227,
+        "t": 1794601142,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0186,
+        "upper_90": 0.2806
+      },
+      {
+        "step": 228,
+        "t": 1794601202,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0183,
+        "upper_90": 0.2809
+      },
+      {
+        "step": 229,
+        "t": 1794601262,
+        "forecast_price": 0.1496,
+        "lower_90": 0.018,
+        "upper_90": 0.2812
+      },
+      {
+        "step": 230,
+        "t": 1794601322,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0177,
+        "upper_90": 0.2815
+      },
+      {
+        "step": 231,
+        "t": 1794601382,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0174,
+        "upper_90": 0.2818
+      },
+      {
+        "step": 232,
+        "t": 1794601442,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0171,
+        "upper_90": 0.2821
+      },
+      {
+        "step": 233,
+        "t": 1794601502,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0169,
+        "upper_90": 0.2824
+      },
+      {
+        "step": 234,
+        "t": 1794601562,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0166,
+        "upper_90": 0.2827
+      },
+      {
+        "step": 235,
+        "t": 1794601622,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0163,
+        "upper_90": 0.283
+      },
+      {
+        "step": 236,
+        "t": 1794601682,
+        "forecast_price": 0.1496,
+        "lower_90": 0.016,
+        "upper_90": 0.2833
+      },
+      {
+        "step": 237,
+        "t": 1794601742,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0157,
+        "upper_90": 0.2836
+      },
+      {
+        "step": 238,
+        "t": 1794601802,
+        "forecast_price": 0.1496,
+        "lower_90": 0.0154,
+        "upper_90": 0.2838
+      },
+      {
+        "step": 239,
+        "t": 1794601862,
+        "forecast_price": 0.1497,
+        "lower_90": 0.0152,
+        "upper_90": 0.2841
+      },
+      {
+        "step": 240,
+        "t": 1794601922,
+        "forecast_price": 0.1497,
+        "lower_90": 0.0149,
+        "upper_90": 0.2844
+      }
+    ],
+    "Madison Huang": [
+      {
+        "step": 1,
+        "t": 1794587582,
+        "forecast_price": 0.0861,
+        "lower_90": 0.0787,
+        "upper_90": 0.0934
+      },
+      {
+        "step": 2,
+        "t": 1794587642,
+        "forecast_price": 0.086,
+        "lower_90": 0.0756,
+        "upper_90": 0.0965
+      },
+      {
+        "step": 3,
+        "t": 1794587702,
+        "forecast_price": 0.086,
+        "lower_90": 0.0733,
+        "upper_90": 0.0988
+      },
+      {
+        "step": 4,
+        "t": 1794587762,
+        "forecast_price": 0.086,
+        "lower_90": 0.0713,
+        "upper_90": 0.1007
+      },
+      {
+        "step": 5,
+        "t": 1794587822,
+        "forecast_price": 0.086,
+        "lower_90": 0.0695,
+        "upper_90": 0.1025
+      },
+      {
+        "step": 6,
+        "t": 1794587882,
+        "forecast_price": 0.086,
+        "lower_90": 0.0679,
+        "upper_90": 0.104
+      },
+      {
+        "step": 7,
+        "t": 1794587942,
+        "forecast_price": 0.086,
+        "lower_90": 0.0665,
+        "upper_90": 0.1054
+      },
+      {
+        "step": 8,
+        "t": 1794588002,
+        "forecast_price": 0.0859,
+        "lower_90": 0.0651,
+        "upper_90": 0.1068
+      },
+      {
+        "step": 9,
+        "t": 1794588062,
+        "forecast_price": 0.0859,
+        "lower_90": 0.0639,
+        "upper_90": 0.108
+      },
+      {
+        "step": 10,
+        "t": 1794588122,
+        "forecast_price": 0.0859,
+        "lower_90": 0.0626,
+        "upper_90": 0.1092
+      },
+      {
+        "step": 11,
+        "t": 1794588182,
+        "forecast_price": 0.0859,
+        "lower_90": 0.0615,
+        "upper_90": 0.1103
+      },
+      {
+        "step": 12,
+        "t": 1794588242,
+        "forecast_price": 0.0859,
+        "lower_90": 0.0604,
+        "upper_90": 0.1113
+      },
+      {
+        "step": 13,
+        "t": 1794588302,
+        "forecast_price": 0.0858,
+        "lower_90": 0.0593,
+        "upper_90": 0.1124
+      },
+      {
+        "step": 14,
+        "t": 1794588362,
+        "forecast_price": 0.0858,
+        "lower_90": 0.0583,
+        "upper_90": 0.1133
+      },
+      {
+        "step": 15,
+        "t": 1794588422,
+        "forecast_price": 0.0858,
+        "lower_90": 0.0573,
+        "upper_90": 0.1143
+      },
+      {
+        "step": 16,
+        "t": 1794588482,
+        "forecast_price": 0.0858,
+        "lower_90": 0.0564,
+        "upper_90": 0.1152
+      },
+      {
+        "step": 17,
+        "t": 1794588542,
+        "forecast_price": 0.0858,
+        "lower_90": 0.0555,
+        "upper_90": 0.116
+      },
+      {
+        "step": 18,
+        "t": 1794588602,
+        "forecast_price": 0.0857,
+        "lower_90": 0.0546,
+        "upper_90": 0.1169
+      },
+      {
+        "step": 19,
+        "t": 1794588662,
+        "forecast_price": 0.0857,
+        "lower_90": 0.0537,
+        "upper_90": 0.1177
+      },
+      {
+        "step": 20,
+        "t": 1794588722,
+        "forecast_price": 0.0857,
+        "lower_90": 0.0529,
+        "upper_90": 0.1185
+      },
+      {
+        "step": 21,
+        "t": 1794588782,
+        "forecast_price": 0.0857,
+        "lower_90": 0.052,
+        "upper_90": 0.1193
+      },
+      {
+        "step": 22,
+        "t": 1794588842,
+        "forecast_price": 0.0856,
+        "lower_90": 0.0512,
+        "upper_90": 0.1201
+      },
+      {
+        "step": 23,
+        "t": 1794588902,
+        "forecast_price": 0.0856,
+        "lower_90": 0.0504,
+        "upper_90": 0.1208
+      },
+      {
+        "step": 24,
+        "t": 1794588962,
+        "forecast_price": 0.0856,
+        "lower_90": 0.0497,
+        "upper_90": 0.1215
+      },
+      {
+        "step": 25,
+        "t": 1794589022,
+        "forecast_price": 0.0856,
+        "lower_90": 0.0489,
+        "upper_90": 0.1222
+      },
+      {
+        "step": 26,
+        "t": 1794589082,
+        "forecast_price": 0.0855,
+        "lower_90": 0.0482,
+        "upper_90": 0.1229
+      },
+      {
+        "step": 27,
+        "t": 1794589142,
+        "forecast_price": 0.0855,
+        "lower_90": 0.0475,
+        "upper_90": 0.1236
+      },
+      {
+        "step": 28,
+        "t": 1794589202,
+        "forecast_price": 0.0855,
+        "lower_90": 0.0467,
+        "upper_90": 0.1243
+      },
+      {
+        "step": 29,
+        "t": 1794589262,
+        "forecast_price": 0.0855,
+        "lower_90": 0.046,
+        "upper_90": 0.1249
+      },
+      {
+        "step": 30,
+        "t": 1794589322,
+        "forecast_price": 0.0854,
+        "lower_90": 0.0453,
+        "upper_90": 0.1255
+      },
+      {
+        "step": 31,
+        "t": 1794589382,
+        "forecast_price": 0.0854,
+        "lower_90": 0.0447,
+        "upper_90": 0.1262
+      },
+      {
+        "step": 32,
+        "t": 1794589442,
+        "forecast_price": 0.0854,
+        "lower_90": 0.044,
+        "upper_90": 0.1268
+      },
+      {
+        "step": 33,
+        "t": 1794589502,
+        "forecast_price": 0.0854,
+        "lower_90": 0.0433,
+        "upper_90": 0.1274
+      },
+      {
+        "step": 34,
+        "t": 1794589562,
+        "forecast_price": 0.0853,
+        "lower_90": 0.0427,
+        "upper_90": 0.128
+      },
+      {
+        "step": 35,
+        "t": 1794589622,
+        "forecast_price": 0.0853,
+        "lower_90": 0.0421,
+        "upper_90": 0.1286
+      },
+      {
+        "step": 36,
+        "t": 1794589682,
+        "forecast_price": 0.0853,
+        "lower_90": 0.0414,
+        "upper_90": 0.1291
+      },
+      {
+        "step": 37,
+        "t": 1794589742,
+        "forecast_price": 0.0853,
+        "lower_90": 0.0408,
+        "upper_90": 0.1297
+      },
+      {
+        "step": 38,
+        "t": 1794589802,
+        "forecast_price": 0.0852,
+        "lower_90": 0.0402,
+        "upper_90": 0.1303
+      },
+      {
+        "step": 39,
+        "t": 1794589862,
+        "forecast_price": 0.0852,
+        "lower_90": 0.0396,
+        "upper_90": 0.1308
+      },
+      {
+        "step": 40,
+        "t": 1794589922,
+        "forecast_price": 0.0852,
+        "lower_90": 0.039,
+        "upper_90": 0.1313
+      },
+      {
+        "step": 41,
+        "t": 1794589982,
+        "forecast_price": 0.0852,
+        "lower_90": 0.0384,
+        "upper_90": 0.1319
+      },
+      {
+        "step": 42,
+        "t": 1794590042,
+        "forecast_price": 0.0851,
+        "lower_90": 0.0378,
+        "upper_90": 0.1324
+      },
+      {
+        "step": 43,
+        "t": 1794590102,
+        "forecast_price": 0.0851,
+        "lower_90": 0.0373,
+        "upper_90": 0.1329
+      },
+      {
+        "step": 44,
+        "t": 1794590162,
+        "forecast_price": 0.0851,
+        "lower_90": 0.0367,
+        "upper_90": 0.1334
+      },
+      {
+        "step": 45,
+        "t": 1794590222,
+        "forecast_price": 0.085,
+        "lower_90": 0.0361,
+        "upper_90": 0.1339
+      },
+      {
+        "step": 46,
+        "t": 1794590282,
+        "forecast_price": 0.085,
+        "lower_90": 0.0356,
+        "upper_90": 0.1344
+      },
+      {
+        "step": 47,
+        "t": 1794590342,
+        "forecast_price": 0.085,
+        "lower_90": 0.035,
+        "upper_90": 0.1349
+      },
+      {
+        "step": 48,
+        "t": 1794590402,
+        "forecast_price": 0.085,
+        "lower_90": 0.0345,
+        "upper_90": 0.1354
+      },
+      {
+        "step": 49,
+        "t": 1794590462,
+        "forecast_price": 0.0849,
+        "lower_90": 0.034,
+        "upper_90": 0.1359
+      },
+      {
+        "step": 50,
+        "t": 1794590522,
+        "forecast_price": 0.0849,
+        "lower_90": 0.0334,
+        "upper_90": 0.1364
+      },
+      {
+        "step": 51,
+        "t": 1794590582,
+        "forecast_price": 0.0849,
+        "lower_90": 0.0329,
+        "upper_90": 0.1368
+      },
+      {
+        "step": 52,
+        "t": 1794590642,
+        "forecast_price": 0.0848,
+        "lower_90": 0.0324,
+        "upper_90": 0.1373
+      },
+      {
+        "step": 53,
+        "t": 1794590702,
+        "forecast_price": 0.0848,
+        "lower_90": 0.0319,
+        "upper_90": 0.1378
+      },
+      {
+        "step": 54,
+        "t": 1794590762,
+        "forecast_price": 0.0848,
+        "lower_90": 0.0314,
+        "upper_90": 0.1382
+      },
+      {
+        "step": 55,
+        "t": 1794590822,
+        "forecast_price": 0.0848,
+        "lower_90": 0.0309,
+        "upper_90": 0.1387
+      },
+      {
+        "step": 56,
+        "t": 1794590882,
+        "forecast_price": 0.0847,
+        "lower_90": 0.0304,
+        "upper_90": 0.1391
+      },
+      {
+        "step": 57,
+        "t": 1794590942,
+        "forecast_price": 0.0847,
+        "lower_90": 0.0299,
+        "upper_90": 0.1395
+      },
+      {
+        "step": 58,
+        "t": 1794591002,
+        "forecast_price": 0.0847,
+        "lower_90": 0.0294,
+        "upper_90": 0.14
+      },
+      {
+        "step": 59,
+        "t": 1794591062,
+        "forecast_price": 0.0847,
+        "lower_90": 0.0289,
+        "upper_90": 0.1404
+      },
+      {
+        "step": 60,
+        "t": 1794591122,
+        "forecast_price": 0.0846,
+        "lower_90": 0.0284,
+        "upper_90": 0.1408
+      },
+      {
+        "step": 61,
+        "t": 1794591182,
+        "forecast_price": 0.0846,
+        "lower_90": 0.0279,
+        "upper_90": 0.1413
+      },
+      {
+        "step": 62,
+        "t": 1794591242,
+        "forecast_price": 0.0846,
+        "lower_90": 0.0275,
+        "upper_90": 0.1417
+      },
+      {
+        "step": 63,
+        "t": 1794591302,
+        "forecast_price": 0.0845,
+        "lower_90": 0.027,
+        "upper_90": 0.1421
+      },
+      {
+        "step": 64,
+        "t": 1794591362,
+        "forecast_price": 0.0845,
+        "lower_90": 0.0265,
+        "upper_90": 0.1425
+      },
+      {
+        "step": 65,
+        "t": 1794591422,
+        "forecast_price": 0.0845,
+        "lower_90": 0.0261,
+        "upper_90": 0.1429
+      },
+      {
+        "step": 66,
+        "t": 1794591482,
+        "forecast_price": 0.0845,
+        "lower_90": 0.0256,
+        "upper_90": 0.1433
+      },
+      {
+        "step": 67,
+        "t": 1794591542,
+        "forecast_price": 0.0844,
+        "lower_90": 0.0252,
+        "upper_90": 0.1437
+      },
+      {
+        "step": 68,
+        "t": 1794591602,
+        "forecast_price": 0.0844,
+        "lower_90": 0.0247,
+        "upper_90": 0.1441
+      },
+      {
+        "step": 69,
+        "t": 1794591662,
+        "forecast_price": 0.0844,
+        "lower_90": 0.0243,
+        "upper_90": 0.1445
+      },
+      {
+        "step": 70,
+        "t": 1794591722,
+        "forecast_price": 0.0843,
+        "lower_90": 0.0238,
+        "upper_90": 0.1449
+      },
+      {
+        "step": 71,
+        "t": 1794591782,
+        "forecast_price": 0.0843,
+        "lower_90": 0.0234,
+        "upper_90": 0.1453
+      },
+      {
+        "step": 72,
+        "t": 1794591842,
+        "forecast_price": 0.0843,
+        "lower_90": 0.0229,
+        "upper_90": 0.1456
+      },
+      {
+        "step": 73,
+        "t": 1794591902,
+        "forecast_price": 0.0843,
+        "lower_90": 0.0225,
+        "upper_90": 0.146
+      },
+      {
+        "step": 74,
+        "t": 1794591962,
+        "forecast_price": 0.0842,
+        "lower_90": 0.0221,
+        "upper_90": 0.1464
+      },
+      {
+        "step": 75,
+        "t": 1794592022,
+        "forecast_price": 0.0842,
+        "lower_90": 0.0216,
+        "upper_90": 0.1468
+      },
+      {
+        "step": 76,
+        "t": 1794592082,
+        "forecast_price": 0.0842,
+        "lower_90": 0.0212,
+        "upper_90": 0.1471
+      },
+      {
+        "step": 77,
+        "t": 1794592142,
+        "forecast_price": 0.0841,
+        "lower_90": 0.0208,
+        "upper_90": 0.1475
+      },
+      {
+        "step": 78,
+        "t": 1794592202,
+        "forecast_price": 0.0841,
+        "lower_90": 0.0204,
+        "upper_90": 0.1479
+      },
+      {
+        "step": 79,
+        "t": 1794592262,
+        "forecast_price": 0.0841,
+        "lower_90": 0.02,
+        "upper_90": 0.1482
+      },
+      {
+        "step": 80,
+        "t": 1794592322,
+        "forecast_price": 0.0841,
+        "lower_90": 0.0195,
+        "upper_90": 0.1486
+      },
+      {
+        "step": 81,
+        "t": 1794592382,
+        "forecast_price": 0.084,
+        "lower_90": 0.0191,
+        "upper_90": 0.1489
+      },
+      {
+        "step": 82,
+        "t": 1794592442,
+        "forecast_price": 0.084,
+        "lower_90": 0.0187,
+        "upper_90": 0.1493
+      },
+      {
+        "step": 83,
+        "t": 1794592502,
+        "forecast_price": 0.084,
+        "lower_90": 0.0183,
+        "upper_90": 0.1496
+      },
+      {
+        "step": 84,
+        "t": 1794592562,
+        "forecast_price": 0.084,
+        "lower_90": 0.0179,
+        "upper_90": 0.15
+      },
+      {
+        "step": 85,
+        "t": 1794592622,
+        "forecast_price": 0.0839,
+        "lower_90": 0.0175,
+        "upper_90": 0.1503
+      },
+      {
+        "step": 86,
+        "t": 1794592682,
+        "forecast_price": 0.0839,
+        "lower_90": 0.0171,
+        "upper_90": 0.1507
+      },
+      {
+        "step": 87,
+        "t": 1794592742,
+        "forecast_price": 0.0839,
+        "lower_90": 0.0167,
+        "upper_90": 0.151
+      },
+      {
+        "step": 88,
+        "t": 1794592802,
+        "forecast_price": 0.0838,
+        "lower_90": 0.0163,
+        "upper_90": 0.1513
+      },
+      {
+        "step": 89,
+        "t": 1794592862,
+        "forecast_price": 0.0838,
+        "lower_90": 0.0159,
+        "upper_90": 0.1517
+      },
+      {
+        "step": 90,
+        "t": 1794592922,
+        "forecast_price": 0.0838,
+        "lower_90": 0.0156,
+        "upper_90": 0.152
+      },
+      {
+        "step": 91,
+        "t": 1794592982,
+        "forecast_price": 0.0838,
+        "lower_90": 0.0152,
+        "upper_90": 0.1523
+      },
+      {
+        "step": 92,
+        "t": 1794593042,
+        "forecast_price": 0.0837,
+        "lower_90": 0.0148,
+        "upper_90": 0.1527
+      },
+      {
+        "step": 93,
+        "t": 1794593102,
+        "forecast_price": 0.0837,
+        "lower_90": 0.0144,
+        "upper_90": 0.153
+      },
+      {
+        "step": 94,
+        "t": 1794593162,
+        "forecast_price": 0.0837,
+        "lower_90": 0.014,
+        "upper_90": 0.1533
+      },
+      {
+        "step": 95,
+        "t": 1794593222,
+        "forecast_price": 0.0837,
+        "lower_90": 0.0137,
+        "upper_90": 0.1536
+      },
+      {
+        "step": 96,
+        "t": 1794593282,
+        "forecast_price": 0.0836,
+        "lower_90": 0.0133,
+        "upper_90": 0.154
+      },
+      {
+        "step": 97,
+        "t": 1794593342,
+        "forecast_price": 0.0836,
+        "lower_90": 0.0129,
+        "upper_90": 0.1543
+      },
+      {
+        "step": 98,
+        "t": 1794593402,
+        "forecast_price": 0.0836,
+        "lower_90": 0.0125,
+        "upper_90": 0.1546
+      },
+      {
+        "step": 99,
+        "t": 1794593462,
+        "forecast_price": 0.0835,
+        "lower_90": 0.0122,
+        "upper_90": 0.1549
+      },
+      {
+        "step": 100,
+        "t": 1794593522,
+        "forecast_price": 0.0835,
+        "lower_90": 0.0118,
+        "upper_90": 0.1552
+      },
+      {
+        "step": 101,
+        "t": 1794593582,
+        "forecast_price": 0.0835,
+        "lower_90": 0.0114,
+        "upper_90": 0.1555
+      },
+      {
+        "step": 102,
+        "t": 1794593642,
+        "forecast_price": 0.0835,
+        "lower_90": 0.0111,
+        "upper_90": 0.1558
+      },
+      {
+        "step": 103,
+        "t": 1794593702,
+        "forecast_price": 0.0834,
+        "lower_90": 0.0107,
+        "upper_90": 0.1561
+      },
+      {
+        "step": 104,
+        "t": 1794593762,
+        "forecast_price": 0.0834,
+        "lower_90": 0.0104,
+        "upper_90": 0.1564
+      },
+      {
+        "step": 105,
+        "t": 1794593822,
+        "forecast_price": 0.0834,
+        "lower_90": 0.01,
+        "upper_90": 0.1567
+      },
+      {
+        "step": 106,
+        "t": 1794593882,
+        "forecast_price": 0.0834,
+        "lower_90": 0.0097,
+        "upper_90": 0.157
+      },
+      {
+        "step": 107,
+        "t": 1794593942,
+        "forecast_price": 0.0833,
+        "lower_90": 0.0093,
+        "upper_90": 0.1573
+      },
+      {
+        "step": 108,
+        "t": 1794594002,
+        "forecast_price": 0.0833,
+        "lower_90": 0.009,
+        "upper_90": 0.1576
+      },
+      {
+        "step": 109,
+        "t": 1794594062,
+        "forecast_price": 0.0833,
+        "lower_90": 0.0086,
+        "upper_90": 0.1579
+      },
+      {
+        "step": 110,
+        "t": 1794594122,
+        "forecast_price": 0.0832,
+        "lower_90": 0.0083,
+        "upper_90": 0.1582
+      },
+      {
+        "step": 111,
+        "t": 1794594182,
+        "forecast_price": 0.0832,
+        "lower_90": 0.0079,
+        "upper_90": 0.1585
+      },
+      {
+        "step": 112,
+        "t": 1794594242,
+        "forecast_price": 0.0832,
+        "lower_90": 0.0076,
+        "upper_90": 0.1588
+      },
+      {
+        "step": 113,
+        "t": 1794594302,
+        "forecast_price": 0.0832,
+        "lower_90": 0.0072,
+        "upper_90": 0.1591
+      },
+      {
+        "step": 114,
+        "t": 1794594362,
+        "forecast_price": 0.0831,
+        "lower_90": 0.0069,
+        "upper_90": 0.1594
+      },
+      {
+        "step": 115,
+        "t": 1794594422,
+        "forecast_price": 0.0831,
+        "lower_90": 0.0066,
+        "upper_90": 0.1597
+      },
+      {
+        "step": 116,
+        "t": 1794594482,
+        "forecast_price": 0.0831,
+        "lower_90": 0.0062,
+        "upper_90": 0.16
+      },
+      {
+        "step": 117,
+        "t": 1794594542,
+        "forecast_price": 0.0831,
+        "lower_90": 0.0059,
+        "upper_90": 0.1602
+      },
+      {
+        "step": 118,
+        "t": 1794594602,
+        "forecast_price": 0.083,
+        "lower_90": 0.0056,
+        "upper_90": 0.1605
+      },
+      {
+        "step": 119,
+        "t": 1794594662,
+        "forecast_price": 0.083,
+        "lower_90": 0.0052,
+        "upper_90": 0.1608
+      },
+      {
+        "step": 120,
+        "t": 1794594722,
+        "forecast_price": 0.083,
+        "lower_90": 0.0049,
+        "upper_90": 0.1611
+      },
+      {
+        "step": 121,
+        "t": 1794594782,
+        "forecast_price": 0.083,
+        "lower_90": 0.0046,
+        "upper_90": 0.1614
+      },
+      {
+        "step": 122,
+        "t": 1794594842,
+        "forecast_price": 0.0829,
+        "lower_90": 0.0042,
+        "upper_90": 0.1616
+      },
+      {
+        "step": 123,
+        "t": 1794594902,
+        "forecast_price": 0.0829,
+        "lower_90": 0.0039,
+        "upper_90": 0.1619
+      },
+      {
+        "step": 124,
+        "t": 1794594962,
+        "forecast_price": 0.0829,
+        "lower_90": 0.0036,
+        "upper_90": 0.1622
+      },
+      {
+        "step": 125,
+        "t": 1794595022,
+        "forecast_price": 0.0829,
+        "lower_90": 0.0033,
+        "upper_90": 0.1624
+      },
+      {
+        "step": 126,
+        "t": 1794595082,
+        "forecast_price": 0.0828,
+        "lower_90": 0.0029,
+        "upper_90": 0.1627
+      },
+      {
+        "step": 127,
+        "t": 1794595142,
+        "forecast_price": 0.0828,
+        "lower_90": 0.0026,
+        "upper_90": 0.163
+      },
+      {
+        "step": 128,
+        "t": 1794595202,
+        "forecast_price": 0.0828,
+        "lower_90": 0.0023,
+        "upper_90": 0.1633
+      },
+      {
+        "step": 129,
+        "t": 1794595262,
+        "forecast_price": 0.0828,
+        "lower_90": 0.002,
+        "upper_90": 0.1635
+      },
+      {
+        "step": 130,
+        "t": 1794595322,
+        "forecast_price": 0.0827,
+        "lower_90": 0.0017,
+        "upper_90": 0.1638
+      },
+      {
+        "step": 131,
+        "t": 1794595382,
+        "forecast_price": 0.0827,
+        "lower_90": 0.0014,
+        "upper_90": 0.164
+      },
+      {
+        "step": 132,
+        "t": 1794595442,
+        "forecast_price": 0.0827,
+        "lower_90": 0.001,
+        "upper_90": 0.1643
+      },
+      {
+        "step": 133,
+        "t": 1794595502,
+        "forecast_price": 0.0827,
+        "lower_90": 0.001,
+        "upper_90": 0.1646
+      },
+      {
+        "step": 134,
+        "t": 1794595562,
+        "forecast_price": 0.0826,
+        "lower_90": 0.001,
+        "upper_90": 0.1648
+      },
+      {
+        "step": 135,
+        "t": 1794595622,
+        "forecast_price": 0.0826,
+        "lower_90": 0.001,
+        "upper_90": 0.1651
+      },
+      {
+        "step": 136,
+        "t": 1794595682,
+        "forecast_price": 0.0826,
+        "lower_90": 0.001,
+        "upper_90": 0.1653
+      },
+      {
+        "step": 137,
+        "t": 1794595742,
+        "forecast_price": 0.0826,
+        "lower_90": 0.001,
+        "upper_90": 0.1656
+      },
+      {
+        "step": 138,
+        "t": 1794595802,
+        "forecast_price": 0.0825,
+        "lower_90": 0.001,
+        "upper_90": 0.1659
+      },
+      {
+        "step": 139,
+        "t": 1794595862,
+        "forecast_price": 0.0825,
+        "lower_90": 0.001,
+        "upper_90": 0.1661
+      },
+      {
+        "step": 140,
+        "t": 1794595922,
+        "forecast_price": 0.0825,
+        "lower_90": 0.001,
+        "upper_90": 0.1664
+      },
+      {
+        "step": 141,
+        "t": 1794595982,
+        "forecast_price": 0.0825,
+        "lower_90": 0.001,
+        "upper_90": 0.1666
+      },
+      {
+        "step": 142,
+        "t": 1794596042,
+        "forecast_price": 0.0824,
+        "lower_90": 0.001,
+        "upper_90": 0.1669
+      },
+      {
+        "step": 143,
+        "t": 1794596102,
+        "forecast_price": 0.0824,
+        "lower_90": 0.001,
+        "upper_90": 0.1671
+      },
+      {
+        "step": 144,
+        "t": 1794596162,
+        "forecast_price": 0.0824,
+        "lower_90": 0.001,
+        "upper_90": 0.1674
+      },
+      {
+        "step": 145,
+        "t": 1794596222,
+        "forecast_price": 0.0824,
+        "lower_90": 0.001,
+        "upper_90": 0.1676
+      },
+      {
+        "step": 146,
+        "t": 1794596282,
+        "forecast_price": 0.0823,
+        "lower_90": 0.001,
+        "upper_90": 0.1678
+      },
+      {
+        "step": 147,
+        "t": 1794596342,
+        "forecast_price": 0.0823,
+        "lower_90": 0.001,
+        "upper_90": 0.1681
+      },
+      {
+        "step": 148,
+        "t": 1794596402,
+        "forecast_price": 0.0823,
+        "lower_90": 0.001,
+        "upper_90": 0.1683
+      },
+      {
+        "step": 149,
+        "t": 1794596462,
+        "forecast_price": 0.0823,
+        "lower_90": 0.001,
+        "upper_90": 0.1686
+      },
+      {
+        "step": 150,
+        "t": 1794596522,
+        "forecast_price": 0.0822,
+        "lower_90": 0.001,
+        "upper_90": 0.1688
+      },
+      {
+        "step": 151,
+        "t": 1794596582,
+        "forecast_price": 0.0822,
+        "lower_90": 0.001,
+        "upper_90": 0.1691
+      },
+      {
+        "step": 152,
+        "t": 1794596642,
+        "forecast_price": 0.0822,
+        "lower_90": 0.001,
+        "upper_90": 0.1693
+      },
+      {
+        "step": 153,
+        "t": 1794596702,
+        "forecast_price": 0.0822,
+        "lower_90": 0.001,
+        "upper_90": 0.1695
+      },
+      {
+        "step": 154,
+        "t": 1794596762,
+        "forecast_price": 0.0821,
+        "lower_90": 0.001,
+        "upper_90": 0.1698
+      },
+      {
+        "step": 155,
+        "t": 1794596822,
+        "forecast_price": 0.0821,
+        "lower_90": 0.001,
+        "upper_90": 0.17
+      },
+      {
+        "step": 156,
+        "t": 1794596882,
+        "forecast_price": 0.0821,
+        "lower_90": 0.001,
+        "upper_90": 0.1702
+      },
+      {
+        "step": 157,
+        "t": 1794596942,
+        "forecast_price": 0.0821,
+        "lower_90": 0.001,
+        "upper_90": 0.1705
+      },
+      {
+        "step": 158,
+        "t": 1794597002,
+        "forecast_price": 0.082,
+        "lower_90": 0.001,
+        "upper_90": 0.1707
+      },
+      {
+        "step": 159,
+        "t": 1794597062,
+        "forecast_price": 0.082,
+        "lower_90": 0.001,
+        "upper_90": 0.1709
+      },
+      {
+        "step": 160,
+        "t": 1794597122,
+        "forecast_price": 0.082,
+        "lower_90": 0.001,
+        "upper_90": 0.1712
+      },
+      {
+        "step": 161,
+        "t": 1794597182,
+        "forecast_price": 0.082,
+        "lower_90": 0.001,
+        "upper_90": 0.1714
+      },
+      {
+        "step": 162,
+        "t": 1794597242,
+        "forecast_price": 0.0819,
+        "lower_90": 0.001,
+        "upper_90": 0.1716
+      },
+      {
+        "step": 163,
+        "t": 1794597302,
+        "forecast_price": 0.0819,
+        "lower_90": 0.001,
+        "upper_90": 0.1719
+      },
+      {
+        "step": 164,
+        "t": 1794597362,
+        "forecast_price": 0.0819,
+        "lower_90": 0.001,
+        "upper_90": 0.1721
+      },
+      {
+        "step": 165,
+        "t": 1794597422,
+        "forecast_price": 0.0819,
+        "lower_90": 0.001,
+        "upper_90": 0.1723
+      },
+      {
+        "step": 166,
+        "t": 1794597482,
+        "forecast_price": 0.0818,
+        "lower_90": 0.001,
+        "upper_90": 0.1725
+      },
+      {
+        "step": 167,
+        "t": 1794597542,
+        "forecast_price": 0.0818,
+        "lower_90": 0.001,
+        "upper_90": 0.1728
+      },
+      {
+        "step": 168,
+        "t": 1794597602,
+        "forecast_price": 0.0818,
+        "lower_90": 0.001,
+        "upper_90": 0.173
+      },
+      {
+        "step": 169,
+        "t": 1794597662,
+        "forecast_price": 0.0818,
+        "lower_90": 0.001,
+        "upper_90": 0.1732
+      },
+      {
+        "step": 170,
+        "t": 1794597722,
+        "forecast_price": 0.0818,
+        "lower_90": 0.001,
+        "upper_90": 0.1734
+      },
+      {
+        "step": 171,
+        "t": 1794597782,
+        "forecast_price": 0.0817,
+        "lower_90": 0.001,
+        "upper_90": 0.1737
+      },
+      {
+        "step": 172,
+        "t": 1794597842,
+        "forecast_price": 0.0817,
+        "lower_90": 0.001,
+        "upper_90": 0.1739
+      },
+      {
+        "step": 173,
+        "t": 1794597902,
+        "forecast_price": 0.0817,
+        "lower_90": 0.001,
+        "upper_90": 0.1741
+      },
+      {
+        "step": 174,
+        "t": 1794597962,
+        "forecast_price": 0.0817,
+        "lower_90": 0.001,
+        "upper_90": 0.1743
+      },
+      {
+        "step": 175,
+        "t": 1794598022,
+        "forecast_price": 0.0816,
+        "lower_90": 0.001,
+        "upper_90": 0.1745
+      },
+      {
+        "step": 176,
+        "t": 1794598082,
+        "forecast_price": 0.0816,
+        "lower_90": 0.001,
+        "upper_90": 0.1748
+      },
+      {
+        "step": 177,
+        "t": 1794598142,
+        "forecast_price": 0.0816,
+        "lower_90": 0.001,
+        "upper_90": 0.175
+      },
+      {
+        "step": 178,
+        "t": 1794598202,
+        "forecast_price": 0.0816,
+        "lower_90": 0.001,
+        "upper_90": 0.1752
+      },
+      {
+        "step": 179,
+        "t": 1794598262,
+        "forecast_price": 0.0815,
+        "lower_90": 0.001,
+        "upper_90": 0.1754
+      },
+      {
+        "step": 180,
+        "t": 1794598322,
+        "forecast_price": 0.0815,
+        "lower_90": 0.001,
+        "upper_90": 0.1756
+      },
+      {
+        "step": 181,
+        "t": 1794598382,
+        "forecast_price": 0.0815,
+        "lower_90": 0.001,
+        "upper_90": 0.1758
+      },
+      {
+        "step": 182,
+        "t": 1794598442,
+        "forecast_price": 0.0815,
+        "lower_90": 0.001,
+        "upper_90": 0.1761
+      },
+      {
+        "step": 183,
+        "t": 1794598502,
+        "forecast_price": 0.0815,
+        "lower_90": 0.001,
+        "upper_90": 0.1763
+      },
+      {
+        "step": 184,
+        "t": 1794598562,
+        "forecast_price": 0.0814,
+        "lower_90": 0.001,
+        "upper_90": 0.1765
+      },
+      {
+        "step": 185,
+        "t": 1794598622,
+        "forecast_price": 0.0814,
+        "lower_90": 0.001,
+        "upper_90": 0.1767
+      },
+      {
+        "step": 186,
+        "t": 1794598682,
+        "forecast_price": 0.0814,
+        "lower_90": 0.001,
+        "upper_90": 0.1769
+      },
+      {
+        "step": 187,
+        "t": 1794598742,
+        "forecast_price": 0.0814,
+        "lower_90": 0.001,
+        "upper_90": 0.1771
+      },
+      {
+        "step": 188,
+        "t": 1794598802,
+        "forecast_price": 0.0813,
+        "lower_90": 0.001,
+        "upper_90": 0.1773
+      },
+      {
+        "step": 189,
+        "t": 1794598862,
+        "forecast_price": 0.0813,
+        "lower_90": 0.001,
+        "upper_90": 0.1775
+      },
+      {
+        "step": 190,
+        "t": 1794598922,
+        "forecast_price": 0.0813,
+        "lower_90": 0.001,
+        "upper_90": 0.1777
+      },
+      {
+        "step": 191,
+        "t": 1794598982,
+        "forecast_price": 0.0813,
+        "lower_90": 0.001,
+        "upper_90": 0.1779
+      },
+      {
+        "step": 192,
+        "t": 1794599042,
+        "forecast_price": 0.0813,
+        "lower_90": 0.001,
+        "upper_90": 0.1781
+      },
+      {
+        "step": 193,
+        "t": 1794599102,
+        "forecast_price": 0.0812,
+        "lower_90": 0.001,
+        "upper_90": 0.1784
+      },
+      {
+        "step": 194,
+        "t": 1794599162,
+        "forecast_price": 0.0812,
+        "lower_90": 0.001,
+        "upper_90": 0.1786
+      },
+      {
+        "step": 195,
+        "t": 1794599222,
+        "forecast_price": 0.0812,
+        "lower_90": 0.001,
+        "upper_90": 0.1788
+      },
+      {
+        "step": 196,
+        "t": 1794599282,
+        "forecast_price": 0.0812,
+        "lower_90": 0.001,
+        "upper_90": 0.179
+      },
+      {
+        "step": 197,
+        "t": 1794599342,
+        "forecast_price": 0.0811,
+        "lower_90": 0.001,
+        "upper_90": 0.1792
+      },
+      {
+        "step": 198,
+        "t": 1794599402,
+        "forecast_price": 0.0811,
+        "lower_90": 0.001,
+        "upper_90": 0.1794
+      },
+      {
+        "step": 199,
+        "t": 1794599462,
+        "forecast_price": 0.0811,
+        "lower_90": 0.001,
+        "upper_90": 0.1796
+      },
+      {
+        "step": 200,
+        "t": 1794599522,
+        "forecast_price": 0.0811,
+        "lower_90": 0.001,
+        "upper_90": 0.1798
+      },
+      {
+        "step": 201,
+        "t": 1794599582,
+        "forecast_price": 0.0811,
+        "lower_90": 0.001,
+        "upper_90": 0.18
+      },
+      {
+        "step": 202,
+        "t": 1794599642,
+        "forecast_price": 0.081,
+        "lower_90": 0.001,
+        "upper_90": 0.1802
+      },
+      {
+        "step": 203,
+        "t": 1794599702,
+        "forecast_price": 0.081,
+        "lower_90": 0.001,
+        "upper_90": 0.1804
+      },
+      {
+        "step": 204,
+        "t": 1794599762,
+        "forecast_price": 0.081,
+        "lower_90": 0.001,
+        "upper_90": 0.1806
+      },
+      {
+        "step": 205,
+        "t": 1794599822,
+        "forecast_price": 0.081,
+        "lower_90": 0.001,
+        "upper_90": 0.1808
+      },
+      {
+        "step": 206,
+        "t": 1794599882,
+        "forecast_price": 0.0809,
+        "lower_90": 0.001,
+        "upper_90": 0.181
+      },
+      {
+        "step": 207,
+        "t": 1794599942,
+        "forecast_price": 0.0809,
+        "lower_90": 0.001,
+        "upper_90": 0.1812
+      },
+      {
+        "step": 208,
+        "t": 1794600002,
+        "forecast_price": 0.0809,
+        "lower_90": 0.001,
+        "upper_90": 0.1814
+      },
+      {
+        "step": 209,
+        "t": 1794600062,
+        "forecast_price": 0.0809,
+        "lower_90": 0.001,
+        "upper_90": 0.1816
+      },
+      {
+        "step": 210,
+        "t": 1794600122,
+        "forecast_price": 0.0809,
+        "lower_90": 0.001,
+        "upper_90": 0.1817
+      },
+      {
+        "step": 211,
+        "t": 1794600182,
+        "forecast_price": 0.0808,
+        "lower_90": 0.001,
+        "upper_90": 0.1819
+      },
+      {
+        "step": 212,
+        "t": 1794600242,
+        "forecast_price": 0.0808,
+        "lower_90": 0.001,
+        "upper_90": 0.1821
+      },
+      {
+        "step": 213,
+        "t": 1794600302,
+        "forecast_price": 0.0808,
+        "lower_90": 0.001,
+        "upper_90": 0.1823
+      },
+      {
+        "step": 214,
+        "t": 1794600362,
+        "forecast_price": 0.0808,
+        "lower_90": 0.001,
+        "upper_90": 0.1825
+      },
+      {
+        "step": 215,
+        "t": 1794600422,
+        "forecast_price": 0.0807,
+        "lower_90": 0.001,
+        "upper_90": 0.1827
+      },
+      {
+        "step": 216,
+        "t": 1794600482,
+        "forecast_price": 0.0807,
+        "lower_90": 0.001,
+        "upper_90": 0.1829
+      },
+      {
+        "step": 217,
+        "t": 1794600542,
+        "forecast_price": 0.0807,
+        "lower_90": 0.001,
+        "upper_90": 0.1831
+      },
+      {
+        "step": 218,
+        "t": 1794600602,
+        "forecast_price": 0.0807,
+        "lower_90": 0.001,
+        "upper_90": 0.1833
+      },
+      {
+        "step": 219,
+        "t": 1794600662,
+        "forecast_price": 0.0807,
+        "lower_90": 0.001,
+        "upper_90": 0.1835
+      },
+      {
+        "step": 220,
+        "t": 1794600722,
+        "forecast_price": 0.0806,
+        "lower_90": 0.001,
+        "upper_90": 0.1837
+      },
+      {
+        "step": 221,
+        "t": 1794600782,
+        "forecast_price": 0.0806,
+        "lower_90": 0.001,
+        "upper_90": 0.1838
+      },
+      {
+        "step": 222,
+        "t": 1794600842,
+        "forecast_price": 0.0806,
+        "lower_90": 0.001,
+        "upper_90": 0.184
+      },
+      {
+        "step": 223,
+        "t": 1794600902,
+        "forecast_price": 0.0806,
+        "lower_90": 0.001,
+        "upper_90": 0.1842
+      },
+      {
+        "step": 224,
+        "t": 1794600962,
+        "forecast_price": 0.0806,
+        "lower_90": 0.001,
+        "upper_90": 0.1844
+      },
+      {
+        "step": 225,
+        "t": 1794601022,
+        "forecast_price": 0.0805,
+        "lower_90": 0.001,
+        "upper_90": 0.1846
+      },
+      {
+        "step": 226,
+        "t": 1794601082,
+        "forecast_price": 0.0805,
+        "lower_90": 0.001,
+        "upper_90": 0.1848
+      },
+      {
+        "step": 227,
+        "t": 1794601142,
+        "forecast_price": 0.0805,
+        "lower_90": 0.001,
+        "upper_90": 0.185
+      },
+      {
+        "step": 228,
+        "t": 1794601202,
+        "forecast_price": 0.0805,
+        "lower_90": 0.001,
+        "upper_90": 0.1852
+      },
+      {
+        "step": 229,
+        "t": 1794601262,
+        "forecast_price": 0.0805,
+        "lower_90": 0.001,
+        "upper_90": 0.1853
+      },
+      {
+        "step": 230,
+        "t": 1794601322,
+        "forecast_price": 0.0804,
+        "lower_90": 0.001,
+        "upper_90": 0.1855
+      },
+      {
+        "step": 231,
+        "t": 1794601382,
+        "forecast_price": 0.0804,
+        "lower_90": 0.001,
+        "upper_90": 0.1857
+      },
+      {
+        "step": 232,
+        "t": 1794601442,
+        "forecast_price": 0.0804,
+        "lower_90": 0.001,
+        "upper_90": 0.1859
+      },
+      {
+        "step": 233,
+        "t": 1794601502,
+        "forecast_price": 0.0804,
+        "lower_90": 0.001,
+        "upper_90": 0.1861
+      },
+      {
+        "step": 234,
+        "t": 1794601562,
+        "forecast_price": 0.0804,
+        "lower_90": 0.001,
+        "upper_90": 0.1863
+      },
+      {
+        "step": 235,
+        "t": 1794601622,
+        "forecast_price": 0.0803,
+        "lower_90": 0.001,
+        "upper_90": 0.1864
+      },
+      {
+        "step": 236,
+        "t": 1794601682,
+        "forecast_price": 0.0803,
+        "lower_90": 0.001,
+        "upper_90": 0.1866
+      },
+      {
+        "step": 237,
+        "t": 1794601742,
+        "forecast_price": 0.0803,
+        "lower_90": 0.001,
+        "upper_90": 0.1868
+      },
+      {
+        "step": 238,
+        "t": 1794601802,
+        "forecast_price": 0.0803,
+        "lower_90": 0.001,
+        "upper_90": 0.187
+      },
+      {
+        "step": 239,
+        "t": 1794601862,
+        "forecast_price": 0.0803,
+        "lower_90": 0.001,
+        "upper_90": 0.1872
+      },
+      {
+        "step": 240,
+        "t": 1794601922,
+        "forecast_price": 0.0802,
+        "lower_90": 0.001,
+        "upper_90": 0.1873
+      }
+    ],
+    "Other / External": [
+      {
+        "step": 1,
+        "t": 1794587582,
+        "forecast_price": 0.1435,
+        "lower_90": 0.1359,
+        "upper_90": 0.151
+      },
+      {
+        "step": 2,
+        "t": 1794587642,
+        "forecast_price": 0.1436,
+        "lower_90": 0.1329,
+        "upper_90": 0.1543
+      },
+      {
+        "step": 3,
+        "t": 1794587702,
+        "forecast_price": 0.1438,
+        "lower_90": 0.1307,
+        "upper_90": 0.1569
+      },
+      {
+        "step": 4,
+        "t": 1794587762,
+        "forecast_price": 0.1439,
+        "lower_90": 0.1287,
+        "upper_90": 0.1591
+      },
+      {
+        "step": 5,
+        "t": 1794587822,
+        "forecast_price": 0.1441,
+        "lower_90": 0.1271,
+        "upper_90": 0.161
+      },
+      {
+        "step": 6,
+        "t": 1794587882,
+        "forecast_price": 0.1442,
+        "lower_90": 0.1256,
+        "upper_90": 0.1628
+      },
+      {
+        "step": 7,
+        "t": 1794587942,
+        "forecast_price": 0.1443,
+        "lower_90": 0.1242,
+        "upper_90": 0.1644
+      },
+      {
+        "step": 8,
+        "t": 1794588002,
+        "forecast_price": 0.1444,
+        "lower_90": 0.1229,
+        "upper_90": 0.1659
+      },
+      {
+        "step": 9,
+        "t": 1794588062,
+        "forecast_price": 0.1445,
+        "lower_90": 0.1217,
+        "upper_90": 0.1674
+      },
+      {
+        "step": 10,
+        "t": 1794588122,
+        "forecast_price": 0.1446,
+        "lower_90": 0.1205,
+        "upper_90": 0.1687
+      },
+      {
+        "step": 11,
+        "t": 1794588182,
+        "forecast_price": 0.1447,
+        "lower_90": 0.1194,
+        "upper_90": 0.17
+      },
+      {
+        "step": 12,
+        "t": 1794588242,
+        "forecast_price": 0.1448,
+        "lower_90": 0.1184,
+        "upper_90": 0.1712
+      },
+      {
+        "step": 13,
+        "t": 1794588302,
+        "forecast_price": 0.1449,
+        "lower_90": 0.1174,
+        "upper_90": 0.1724
+      },
+      {
+        "step": 14,
+        "t": 1794588362,
+        "forecast_price": 0.145,
+        "lower_90": 0.1164,
+        "upper_90": 0.1736
+      },
+      {
+        "step": 15,
+        "t": 1794588422,
+        "forecast_price": 0.1451,
+        "lower_90": 0.1155,
+        "upper_90": 0.1747
+      },
+      {
+        "step": 16,
+        "t": 1794588482,
+        "forecast_price": 0.1452,
+        "lower_90": 0.1146,
+        "upper_90": 0.1757
+      },
+      {
+        "step": 17,
+        "t": 1794588542,
+        "forecast_price": 0.1452,
+        "lower_90": 0.1137,
+        "upper_90": 0.1767
+      },
+      {
+        "step": 18,
+        "t": 1794588602,
+        "forecast_price": 0.1453,
+        "lower_90": 0.1128,
+        "upper_90": 0.1777
+      },
+      {
+        "step": 19,
+        "t": 1794588662,
+        "forecast_price": 0.1454,
+        "lower_90": 0.112,
+        "upper_90": 0.1787
+      },
+      {
+        "step": 20,
+        "t": 1794588722,
+        "forecast_price": 0.1454,
+        "lower_90": 0.1112,
+        "upper_90": 0.1796
+      },
+      {
+        "step": 21,
+        "t": 1794588782,
+        "forecast_price": 0.1455,
+        "lower_90": 0.1104,
+        "upper_90": 0.1806
+      },
+      {
+        "step": 22,
+        "t": 1794588842,
+        "forecast_price": 0.1455,
+        "lower_90": 0.1096,
+        "upper_90": 0.1814
+      },
+      {
+        "step": 23,
+        "t": 1794588902,
+        "forecast_price": 0.1456,
+        "lower_90": 0.1088,
+        "upper_90": 0.1823
+      },
+      {
+        "step": 24,
+        "t": 1794588962,
+        "forecast_price": 0.1456,
+        "lower_90": 0.1081,
+        "upper_90": 0.1832
+      },
+      {
+        "step": 25,
+        "t": 1794589022,
+        "forecast_price": 0.1457,
+        "lower_90": 0.1073,
+        "upper_90": 0.184
+      },
+      {
+        "step": 26,
+        "t": 1794589082,
+        "forecast_price": 0.1457,
+        "lower_90": 0.1066,
+        "upper_90": 0.1848
+      },
+      {
+        "step": 27,
+        "t": 1794589142,
+        "forecast_price": 0.1457,
+        "lower_90": 0.1059,
+        "upper_90": 0.1856
+      },
+      {
+        "step": 28,
+        "t": 1794589202,
+        "forecast_price": 0.1458,
+        "lower_90": 0.1052,
+        "upper_90": 0.1864
+      },
+      {
+        "step": 29,
+        "t": 1794589262,
+        "forecast_price": 0.1458,
+        "lower_90": 0.1045,
+        "upper_90": 0.1871
+      },
+      {
+        "step": 30,
+        "t": 1794589322,
+        "forecast_price": 0.1458,
+        "lower_90": 0.1038,
+        "upper_90": 0.1879
+      },
+      {
+        "step": 31,
+        "t": 1794589382,
+        "forecast_price": 0.1459,
+        "lower_90": 0.1032,
+        "upper_90": 0.1886
+      },
+      {
+        "step": 32,
+        "t": 1794589442,
+        "forecast_price": 0.1459,
+        "lower_90": 0.1025,
+        "upper_90": 0.1893
+      },
+      {
+        "step": 33,
+        "t": 1794589502,
+        "forecast_price": 0.1459,
+        "lower_90": 0.1018,
+        "upper_90": 0.19
+      },
+      {
+        "step": 34,
+        "t": 1794589562,
+        "forecast_price": 0.1459,
+        "lower_90": 0.1012,
+        "upper_90": 0.1907
+      },
+      {
+        "step": 35,
+        "t": 1794589622,
+        "forecast_price": 0.146,
+        "lower_90": 0.1005,
+        "upper_90": 0.1914
+      },
+      {
+        "step": 36,
+        "t": 1794589682,
+        "forecast_price": 0.146,
+        "lower_90": 0.0999,
+        "upper_90": 0.192
+      },
+      {
+        "step": 37,
+        "t": 1794589742,
+        "forecast_price": 0.146,
+        "lower_90": 0.0993,
+        "upper_90": 0.1927
+      },
+      {
+        "step": 38,
+        "t": 1794589802,
+        "forecast_price": 0.146,
+        "lower_90": 0.0987,
+        "upper_90": 0.1933
+      },
+      {
+        "step": 39,
+        "t": 1794589862,
+        "forecast_price": 0.146,
+        "lower_90": 0.0981,
+        "upper_90": 0.194
+      },
+      {
+        "step": 40,
+        "t": 1794589922,
+        "forecast_price": 0.146,
+        "lower_90": 0.0975,
+        "upper_90": 0.1946
+      },
+      {
+        "step": 41,
+        "t": 1794589982,
+        "forecast_price": 0.146,
+        "lower_90": 0.0969,
+        "upper_90": 0.1952
+      },
+      {
+        "step": 42,
+        "t": 1794590042,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0963,
+        "upper_90": 0.1958
+      },
+      {
+        "step": 43,
+        "t": 1794590102,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0957,
+        "upper_90": 0.1964
+      },
+      {
+        "step": 44,
+        "t": 1794590162,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0951,
+        "upper_90": 0.197
+      },
+      {
+        "step": 45,
+        "t": 1794590222,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0945,
+        "upper_90": 0.1976
+      },
+      {
+        "step": 46,
+        "t": 1794590282,
+        "forecast_price": 0.1461,
+        "lower_90": 0.094,
+        "upper_90": 0.1982
+      },
+      {
+        "step": 47,
+        "t": 1794590342,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0934,
+        "upper_90": 0.1987
+      },
+      {
+        "step": 48,
+        "t": 1794590402,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0929,
+        "upper_90": 0.1993
+      },
+      {
+        "step": 49,
+        "t": 1794590462,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0923,
+        "upper_90": 0.1998
+      },
+      {
+        "step": 50,
+        "t": 1794590522,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0918,
+        "upper_90": 0.2004
+      },
+      {
+        "step": 51,
+        "t": 1794590582,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0912,
+        "upper_90": 0.2009
+      },
+      {
+        "step": 52,
+        "t": 1794590642,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0907,
+        "upper_90": 0.2015
+      },
+      {
+        "step": 53,
+        "t": 1794590702,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0901,
+        "upper_90": 0.202
+      },
+      {
+        "step": 54,
+        "t": 1794590762,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0896,
+        "upper_90": 0.2025
+      },
+      {
+        "step": 55,
+        "t": 1794590822,
+        "forecast_price": 0.1461,
+        "lower_90": 0.0891,
+        "upper_90": 0.203
+      },
+      {
+        "step": 56,
+        "t": 1794590882,
+        "forecast_price": 0.146,
+        "lower_90": 0.0886,
+        "upper_90": 0.2035
+      },
+      {
+        "step": 57,
+        "t": 1794590942,
+        "forecast_price": 0.146,
+        "lower_90": 0.0881,
+        "upper_90": 0.204
+      },
+      {
+        "step": 58,
+        "t": 1794591002,
+        "forecast_price": 0.146,
+        "lower_90": 0.0875,
+        "upper_90": 0.2045
+      },
+      {
+        "step": 59,
+        "t": 1794591062,
+        "forecast_price": 0.146,
+        "lower_90": 0.087,
+        "upper_90": 0.205
+      },
+      {
+        "step": 60,
+        "t": 1794591122,
+        "forecast_price": 0.146,
+        "lower_90": 0.0865,
+        "upper_90": 0.2055
+      },
+      {
+        "step": 61,
+        "t": 1794591182,
+        "forecast_price": 0.146,
+        "lower_90": 0.086,
+        "upper_90": 0.206
+      },
+      {
+        "step": 62,
+        "t": 1794591242,
+        "forecast_price": 0.146,
+        "lower_90": 0.0855,
+        "upper_90": 0.2064
+      },
+      {
+        "step": 63,
+        "t": 1794591302,
+        "forecast_price": 0.146,
+        "lower_90": 0.085,
+        "upper_90": 0.2069
+      },
+      {
+        "step": 64,
+        "t": 1794591362,
+        "forecast_price": 0.146,
+        "lower_90": 0.0846,
+        "upper_90": 0.2074
+      },
+      {
+        "step": 65,
+        "t": 1794591422,
+        "forecast_price": 0.146,
+        "lower_90": 0.0841,
+        "upper_90": 0.2078
+      },
+      {
+        "step": 66,
+        "t": 1794591482,
+        "forecast_price": 0.1459,
+        "lower_90": 0.0836,
+        "upper_90": 0.2083
+      },
+      {
+        "step": 67,
+        "t": 1794591542,
+        "forecast_price": 0.1459,
+        "lower_90": 0.0831,
+        "upper_90": 0.2087
+      },
+      {
+        "step": 68,
+        "t": 1794591602,
+        "forecast_price": 0.1459,
+        "lower_90": 0.0826,
+        "upper_90": 0.2092
+      },
+      {
+        "step": 69,
+        "t": 1794591662,
+        "forecast_price": 0.1459,
+        "lower_90": 0.0822,
+        "upper_90": 0.2096
+      },
+      {
+        "step": 70,
+        "t": 1794591722,
+        "forecast_price": 0.1459,
+        "lower_90": 0.0817,
+        "upper_90": 0.2101
+      },
+      {
+        "step": 71,
+        "t": 1794591782,
+        "forecast_price": 0.1459,
+        "lower_90": 0.0812,
+        "upper_90": 0.2105
+      },
+      {
+        "step": 72,
+        "t": 1794591842,
+        "forecast_price": 0.1459,
+        "lower_90": 0.0808,
+        "upper_90": 0.2109
+      },
+      {
+        "step": 73,
+        "t": 1794591902,
+        "forecast_price": 0.1458,
+        "lower_90": 0.0803,
+        "upper_90": 0.2114
+      },
+      {
+        "step": 74,
+        "t": 1794591962,
+        "forecast_price": 0.1458,
+        "lower_90": 0.0798,
+        "upper_90": 0.2118
+      },
+      {
+        "step": 75,
+        "t": 1794592022,
+        "forecast_price": 0.1458,
+        "lower_90": 0.0794,
+        "upper_90": 0.2122
+      },
+      {
+        "step": 76,
+        "t": 1794592082,
+        "forecast_price": 0.1458,
+        "lower_90": 0.0789,
+        "upper_90": 0.2126
+      },
+      {
+        "step": 77,
+        "t": 1794592142,
+        "forecast_price": 0.1458,
+        "lower_90": 0.0785,
+        "upper_90": 0.2131
+      },
+      {
+        "step": 78,
+        "t": 1794592202,
+        "forecast_price": 0.1457,
+        "lower_90": 0.078,
+        "upper_90": 0.2135
+      },
+      {
+        "step": 79,
+        "t": 1794592262,
+        "forecast_price": 0.1457,
+        "lower_90": 0.0776,
+        "upper_90": 0.2139
+      },
+      {
+        "step": 80,
+        "t": 1794592322,
+        "forecast_price": 0.1457,
+        "lower_90": 0.0771,
+        "upper_90": 0.2143
+      },
+      {
+        "step": 81,
+        "t": 1794592382,
+        "forecast_price": 0.1457,
+        "lower_90": 0.0767,
+        "upper_90": 0.2147
+      },
+      {
+        "step": 82,
+        "t": 1794592442,
+        "forecast_price": 0.1457,
+        "lower_90": 0.0763,
+        "upper_90": 0.2151
+      },
+      {
+        "step": 83,
+        "t": 1794592502,
+        "forecast_price": 0.1457,
+        "lower_90": 0.0758,
+        "upper_90": 0.2155
+      },
+      {
+        "step": 84,
+        "t": 1794592562,
+        "forecast_price": 0.1456,
+        "lower_90": 0.0754,
+        "upper_90": 0.2159
+      },
+      {
+        "step": 85,
+        "t": 1794592622,
+        "forecast_price": 0.1456,
+        "lower_90": 0.075,
+        "upper_90": 0.2162
+      },
+      {
+        "step": 86,
+        "t": 1794592682,
+        "forecast_price": 0.1456,
+        "lower_90": 0.0746,
+        "upper_90": 0.2166
+      },
+      {
+        "step": 87,
+        "t": 1794592742,
+        "forecast_price": 0.1456,
+        "lower_90": 0.0741,
+        "upper_90": 0.217
+      },
+      {
+        "step": 88,
+        "t": 1794592802,
+        "forecast_price": 0.1456,
+        "lower_90": 0.0737,
+        "upper_90": 0.2174
+      },
+      {
+        "step": 89,
+        "t": 1794592862,
+        "forecast_price": 0.1455,
+        "lower_90": 0.0733,
+        "upper_90": 0.2178
+      },
+      {
+        "step": 90,
+        "t": 1794592922,
+        "forecast_price": 0.1455,
+        "lower_90": 0.0729,
+        "upper_90": 0.2182
+      },
+      {
+        "step": 91,
+        "t": 1794592982,
+        "forecast_price": 0.1455,
+        "lower_90": 0.0725,
+        "upper_90": 0.2185
+      },
+      {
+        "step": 92,
+        "t": 1794593042,
+        "forecast_price": 0.1455,
+        "lower_90": 0.072,
+        "upper_90": 0.2189
+      },
+      {
+        "step": 93,
+        "t": 1794593102,
+        "forecast_price": 0.1455,
+        "lower_90": 0.0716,
+        "upper_90": 0.2193
+      },
+      {
+        "step": 94,
+        "t": 1794593162,
+        "forecast_price": 0.1454,
+        "lower_90": 0.0712,
+        "upper_90": 0.2196
+      },
+      {
+        "step": 95,
+        "t": 1794593222,
+        "forecast_price": 0.1454,
+        "lower_90": 0.0708,
+        "upper_90": 0.22
+      },
+      {
+        "step": 96,
+        "t": 1794593282,
+        "forecast_price": 0.1454,
+        "lower_90": 0.0704,
+        "upper_90": 0.2204
+      },
+      {
+        "step": 97,
+        "t": 1794593342,
+        "forecast_price": 0.1454,
+        "lower_90": 0.07,
+        "upper_90": 0.2207
+      },
+      {
+        "step": 98,
+        "t": 1794593402,
+        "forecast_price": 0.1453,
+        "lower_90": 0.0696,
+        "upper_90": 0.2211
+      },
+      {
+        "step": 99,
+        "t": 1794593462,
+        "forecast_price": 0.1453,
+        "lower_90": 0.0692,
+        "upper_90": 0.2214
+      },
+      {
+        "step": 100,
+        "t": 1794593522,
+        "forecast_price": 0.1453,
+        "lower_90": 0.0688,
+        "upper_90": 0.2218
+      },
+      {
+        "step": 101,
+        "t": 1794593582,
+        "forecast_price": 0.1453,
+        "lower_90": 0.0684,
+        "upper_90": 0.2221
+      },
+      {
+        "step": 102,
+        "t": 1794593642,
+        "forecast_price": 0.1453,
+        "lower_90": 0.068,
+        "upper_90": 0.2225
+      },
+      {
+        "step": 103,
+        "t": 1794593702,
+        "forecast_price": 0.1452,
+        "lower_90": 0.0677,
+        "upper_90": 0.2228
+      },
+      {
+        "step": 104,
+        "t": 1794593762,
+        "forecast_price": 0.1452,
+        "lower_90": 0.0673,
+        "upper_90": 0.2232
+      },
+      {
+        "step": 105,
+        "t": 1794593822,
+        "forecast_price": 0.1452,
+        "lower_90": 0.0669,
+        "upper_90": 0.2235
+      },
+      {
+        "step": 106,
+        "t": 1794593882,
+        "forecast_price": 0.1452,
+        "lower_90": 0.0665,
+        "upper_90": 0.2238
+      },
+      {
+        "step": 107,
+        "t": 1794593942,
+        "forecast_price": 0.1451,
+        "lower_90": 0.0661,
+        "upper_90": 0.2242
+      },
+      {
+        "step": 108,
+        "t": 1794594002,
+        "forecast_price": 0.1451,
+        "lower_90": 0.0657,
+        "upper_90": 0.2245
+      },
+      {
+        "step": 109,
+        "t": 1794594062,
+        "forecast_price": 0.1451,
+        "lower_90": 0.0654,
+        "upper_90": 0.2249
+      },
+      {
+        "step": 110,
+        "t": 1794594122,
+        "forecast_price": 0.1451,
+        "lower_90": 0.065,
+        "upper_90": 0.2252
+      },
+      {
+        "step": 111,
+        "t": 1794594182,
+        "forecast_price": 0.1451,
+        "lower_90": 0.0646,
+        "upper_90": 0.2255
+      },
+      {
+        "step": 112,
+        "t": 1794594242,
+        "forecast_price": 0.145,
+        "lower_90": 0.0642,
+        "upper_90": 0.2258
+      },
+      {
+        "step": 113,
+        "t": 1794594302,
+        "forecast_price": 0.145,
+        "lower_90": 0.0639,
+        "upper_90": 0.2262
+      },
+      {
+        "step": 114,
+        "t": 1794594362,
+        "forecast_price": 0.145,
+        "lower_90": 0.0635,
+        "upper_90": 0.2265
+      },
+      {
+        "step": 115,
+        "t": 1794594422,
+        "forecast_price": 0.145,
+        "lower_90": 0.0631,
+        "upper_90": 0.2268
+      },
+      {
+        "step": 116,
+        "t": 1794594482,
+        "forecast_price": 0.1449,
+        "lower_90": 0.0627,
+        "upper_90": 0.2271
+      },
+      {
+        "step": 117,
+        "t": 1794594542,
+        "forecast_price": 0.1449,
+        "lower_90": 0.0624,
+        "upper_90": 0.2275
+      },
+      {
+        "step": 118,
+        "t": 1794594602,
+        "forecast_price": 0.1449,
+        "lower_90": 0.062,
+        "upper_90": 0.2278
+      },
+      {
+        "step": 119,
+        "t": 1794594662,
+        "forecast_price": 0.1449,
+        "lower_90": 0.0617,
+        "upper_90": 0.2281
+      },
+      {
+        "step": 120,
+        "t": 1794594722,
+        "forecast_price": 0.1449,
+        "lower_90": 0.0613,
+        "upper_90": 0.2284
+      },
+      {
+        "step": 121,
+        "t": 1794594782,
+        "forecast_price": 0.1448,
+        "lower_90": 0.0609,
+        "upper_90": 0.2287
+      },
+      {
+        "step": 122,
+        "t": 1794594842,
+        "forecast_price": 0.1448,
+        "lower_90": 0.0606,
+        "upper_90": 0.229
+      },
+      {
+        "step": 123,
+        "t": 1794594902,
+        "forecast_price": 0.1448,
+        "lower_90": 0.0602,
+        "upper_90": 0.2294
+      },
+      {
+        "step": 124,
+        "t": 1794594962,
+        "forecast_price": 0.1448,
+        "lower_90": 0.0599,
+        "upper_90": 0.2297
+      },
+      {
+        "step": 125,
+        "t": 1794595022,
+        "forecast_price": 0.1447,
+        "lower_90": 0.0595,
+        "upper_90": 0.23
+      },
+      {
+        "step": 126,
+        "t": 1794595082,
+        "forecast_price": 0.1447,
+        "lower_90": 0.0592,
+        "upper_90": 0.2303
+      },
+      {
+        "step": 127,
+        "t": 1794595142,
+        "forecast_price": 0.1447,
+        "lower_90": 0.0588,
+        "upper_90": 0.2306
+      },
+      {
+        "step": 128,
+        "t": 1794595202,
+        "forecast_price": 0.1447,
+        "lower_90": 0.0585,
+        "upper_90": 0.2309
+      },
+      {
+        "step": 129,
+        "t": 1794595262,
+        "forecast_price": 0.1447,
+        "lower_90": 0.0581,
+        "upper_90": 0.2312
+      },
+      {
+        "step": 130,
+        "t": 1794595322,
+        "forecast_price": 0.1446,
+        "lower_90": 0.0578,
+        "upper_90": 0.2315
+      },
+      {
+        "step": 131,
+        "t": 1794595382,
+        "forecast_price": 0.1446,
+        "lower_90": 0.0574,
+        "upper_90": 0.2318
+      },
+      {
+        "step": 132,
+        "t": 1794595442,
+        "forecast_price": 0.1446,
+        "lower_90": 0.0571,
+        "upper_90": 0.2321
+      },
+      {
+        "step": 133,
+        "t": 1794595502,
+        "forecast_price": 0.1446,
+        "lower_90": 0.0567,
+        "upper_90": 0.2324
+      },
+      {
+        "step": 134,
+        "t": 1794595562,
+        "forecast_price": 0.1445,
+        "lower_90": 0.0564,
+        "upper_90": 0.2327
+      },
+      {
+        "step": 135,
+        "t": 1794595622,
+        "forecast_price": 0.1445,
+        "lower_90": 0.0561,
+        "upper_90": 0.233
+      },
+      {
+        "step": 136,
+        "t": 1794595682,
+        "forecast_price": 0.1445,
+        "lower_90": 0.0557,
+        "upper_90": 0.2333
+      },
+      {
+        "step": 137,
+        "t": 1794595742,
+        "forecast_price": 0.1445,
+        "lower_90": 0.0554,
+        "upper_90": 0.2336
+      },
+      {
+        "step": 138,
+        "t": 1794595802,
+        "forecast_price": 0.1444,
+        "lower_90": 0.055,
+        "upper_90": 0.2338
+      },
+      {
+        "step": 139,
+        "t": 1794595862,
+        "forecast_price": 0.1444,
+        "lower_90": 0.0547,
+        "upper_90": 0.2341
+      },
+      {
+        "step": 140,
+        "t": 1794595922,
+        "forecast_price": 0.1444,
+        "lower_90": 0.0544,
+        "upper_90": 0.2344
+      },
+      {
+        "step": 141,
+        "t": 1794595982,
+        "forecast_price": 0.1444,
+        "lower_90": 0.054,
+        "upper_90": 0.2347
+      },
+      {
+        "step": 142,
+        "t": 1794596042,
+        "forecast_price": 0.1444,
+        "lower_90": 0.0537,
+        "upper_90": 0.235
+      },
+      {
+        "step": 143,
+        "t": 1794596102,
+        "forecast_price": 0.1443,
+        "lower_90": 0.0534,
+        "upper_90": 0.2353
+      },
+      {
+        "step": 144,
+        "t": 1794596162,
+        "forecast_price": 0.1443,
+        "lower_90": 0.0531,
+        "upper_90": 0.2356
+      },
+      {
+        "step": 145,
+        "t": 1794596222,
+        "forecast_price": 0.1443,
+        "lower_90": 0.0527,
+        "upper_90": 0.2358
+      },
+      {
+        "step": 146,
+        "t": 1794596282,
+        "forecast_price": 0.1443,
+        "lower_90": 0.0524,
+        "upper_90": 0.2361
+      },
+      {
+        "step": 147,
+        "t": 1794596342,
+        "forecast_price": 0.1442,
+        "lower_90": 0.0521,
+        "upper_90": 0.2364
+      },
+      {
+        "step": 148,
+        "t": 1794596402,
+        "forecast_price": 0.1442,
+        "lower_90": 0.0518,
+        "upper_90": 0.2367
+      },
+      {
+        "step": 149,
+        "t": 1794596462,
+        "forecast_price": 0.1442,
+        "lower_90": 0.0514,
+        "upper_90": 0.237
+      },
+      {
+        "step": 150,
+        "t": 1794596522,
+        "forecast_price": 0.1442,
+        "lower_90": 0.0511,
+        "upper_90": 0.2372
+      },
+      {
+        "step": 151,
+        "t": 1794596582,
+        "forecast_price": 0.1442,
+        "lower_90": 0.0508,
+        "upper_90": 0.2375
+      },
+      {
+        "step": 152,
+        "t": 1794596642,
+        "forecast_price": 0.1441,
+        "lower_90": 0.0505,
+        "upper_90": 0.2378
+      },
+      {
+        "step": 153,
+        "t": 1794596702,
+        "forecast_price": 0.1441,
+        "lower_90": 0.0502,
+        "upper_90": 0.2381
+      },
+      {
+        "step": 154,
+        "t": 1794596762,
+        "forecast_price": 0.1441,
+        "lower_90": 0.0498,
+        "upper_90": 0.2383
+      },
+      {
+        "step": 155,
+        "t": 1794596822,
+        "forecast_price": 0.1441,
+        "lower_90": 0.0495,
+        "upper_90": 0.2386
+      },
+      {
+        "step": 156,
+        "t": 1794596882,
+        "forecast_price": 0.144,
+        "lower_90": 0.0492,
+        "upper_90": 0.2389
+      },
+      {
+        "step": 157,
+        "t": 1794596942,
+        "forecast_price": 0.144,
+        "lower_90": 0.0489,
+        "upper_90": 0.2391
+      },
+      {
+        "step": 158,
+        "t": 1794597002,
+        "forecast_price": 0.144,
+        "lower_90": 0.0486,
+        "upper_90": 0.2394
+      },
+      {
+        "step": 159,
+        "t": 1794597062,
+        "forecast_price": 0.144,
+        "lower_90": 0.0483,
+        "upper_90": 0.2397
+      },
+      {
+        "step": 160,
+        "t": 1794597122,
+        "forecast_price": 0.144,
+        "lower_90": 0.048,
+        "upper_90": 0.2399
+      },
+      {
+        "step": 161,
+        "t": 1794597182,
+        "forecast_price": 0.1439,
+        "lower_90": 0.0477,
+        "upper_90": 0.2402
+      },
+      {
+        "step": 162,
+        "t": 1794597242,
+        "forecast_price": 0.1439,
+        "lower_90": 0.0473,
+        "upper_90": 0.2405
+      },
+      {
+        "step": 163,
+        "t": 1794597302,
+        "forecast_price": 0.1439,
+        "lower_90": 0.047,
+        "upper_90": 0.2407
+      },
+      {
+        "step": 164,
+        "t": 1794597362,
+        "forecast_price": 0.1439,
+        "lower_90": 0.0467,
+        "upper_90": 0.241
+      },
+      {
+        "step": 165,
+        "t": 1794597422,
+        "forecast_price": 0.1438,
+        "lower_90": 0.0464,
+        "upper_90": 0.2413
+      },
+      {
+        "step": 166,
+        "t": 1794597482,
+        "forecast_price": 0.1438,
+        "lower_90": 0.0461,
+        "upper_90": 0.2415
+      },
+      {
+        "step": 167,
+        "t": 1794597542,
+        "forecast_price": 0.1438,
+        "lower_90": 0.0458,
+        "upper_90": 0.2418
+      },
+      {
+        "step": 168,
+        "t": 1794597602,
+        "forecast_price": 0.1438,
+        "lower_90": 0.0455,
+        "upper_90": 0.242
+      },
+      {
+        "step": 169,
+        "t": 1794597662,
+        "forecast_price": 0.1438,
+        "lower_90": 0.0452,
+        "upper_90": 0.2423
+      },
+      {
+        "step": 170,
+        "t": 1794597722,
+        "forecast_price": 0.1437,
+        "lower_90": 0.0449,
+        "upper_90": 0.2426
+      },
+      {
+        "step": 171,
+        "t": 1794597782,
+        "forecast_price": 0.1437,
+        "lower_90": 0.0446,
+        "upper_90": 0.2428
+      },
+      {
+        "step": 172,
+        "t": 1794597842,
+        "forecast_price": 0.1437,
+        "lower_90": 0.0443,
+        "upper_90": 0.2431
+      },
+      {
+        "step": 173,
+        "t": 1794597902,
+        "forecast_price": 0.1437,
+        "lower_90": 0.044,
+        "upper_90": 0.2433
+      },
+      {
+        "step": 174,
+        "t": 1794597962,
+        "forecast_price": 0.1437,
+        "lower_90": 0.0437,
+        "upper_90": 0.2436
+      },
+      {
+        "step": 175,
+        "t": 1794598022,
+        "forecast_price": 0.1436,
+        "lower_90": 0.0434,
+        "upper_90": 0.2438
+      },
+      {
+        "step": 176,
+        "t": 1794598082,
+        "forecast_price": 0.1436,
+        "lower_90": 0.0431,
+        "upper_90": 0.2441
+      },
+      {
+        "step": 177,
+        "t": 1794598142,
+        "forecast_price": 0.1436,
+        "lower_90": 0.0428,
+        "upper_90": 0.2443
+      },
+      {
+        "step": 178,
+        "t": 1794598202,
+        "forecast_price": 0.1436,
+        "lower_90": 0.0425,
+        "upper_90": 0.2446
+      },
+      {
+        "step": 179,
+        "t": 1794598262,
+        "forecast_price": 0.1435,
+        "lower_90": 0.0423,
+        "upper_90": 0.2448
+      },
+      {
+        "step": 180,
+        "t": 1794598322,
+        "forecast_price": 0.1435,
+        "lower_90": 0.042,
+        "upper_90": 0.2451
+      },
+      {
+        "step": 181,
+        "t": 1794598382,
+        "forecast_price": 0.1435,
+        "lower_90": 0.0417,
+        "upper_90": 0.2453
+      },
+      {
+        "step": 182,
+        "t": 1794598442,
+        "forecast_price": 0.1435,
+        "lower_90": 0.0414,
+        "upper_90": 0.2456
+      },
+      {
+        "step": 183,
+        "t": 1794598502,
+        "forecast_price": 0.1435,
+        "lower_90": 0.0411,
+        "upper_90": 0.2458
+      },
+      {
+        "step": 184,
+        "t": 1794598562,
+        "forecast_price": 0.1434,
+        "lower_90": 0.0408,
+        "upper_90": 0.2461
+      },
+      {
+        "step": 185,
+        "t": 1794598622,
+        "forecast_price": 0.1434,
+        "lower_90": 0.0405,
+        "upper_90": 0.2463
+      },
+      {
+        "step": 186,
+        "t": 1794598682,
+        "forecast_price": 0.1434,
+        "lower_90": 0.0402,
+        "upper_90": 0.2466
+      },
+      {
+        "step": 187,
+        "t": 1794598742,
+        "forecast_price": 0.1434,
+        "lower_90": 0.0399,
+        "upper_90": 0.2468
+      },
+      {
+        "step": 188,
+        "t": 1794598802,
+        "forecast_price": 0.1434,
+        "lower_90": 0.0397,
+        "upper_90": 0.247
+      },
+      {
+        "step": 189,
+        "t": 1794598862,
+        "forecast_price": 0.1433,
+        "lower_90": 0.0394,
+        "upper_90": 0.2473
+      },
+      {
+        "step": 190,
+        "t": 1794598922,
+        "forecast_price": 0.1433,
+        "lower_90": 0.0391,
+        "upper_90": 0.2475
+      },
+      {
+        "step": 191,
+        "t": 1794598982,
+        "forecast_price": 0.1433,
+        "lower_90": 0.0388,
+        "upper_90": 0.2478
+      },
+      {
+        "step": 192,
+        "t": 1794599042,
+        "forecast_price": 0.1433,
+        "lower_90": 0.0385,
+        "upper_90": 0.248
+      },
+      {
+        "step": 193,
+        "t": 1794599102,
+        "forecast_price": 0.1432,
+        "lower_90": 0.0383,
+        "upper_90": 0.2482
+      },
+      {
+        "step": 194,
+        "t": 1794599162,
+        "forecast_price": 0.1432,
+        "lower_90": 0.038,
+        "upper_90": 0.2485
+      },
+      {
+        "step": 195,
+        "t": 1794599222,
+        "forecast_price": 0.1432,
+        "lower_90": 0.0377,
+        "upper_90": 0.2487
+      },
+      {
+        "step": 196,
+        "t": 1794599282,
+        "forecast_price": 0.1432,
+        "lower_90": 0.0374,
+        "upper_90": 0.249
+      },
+      {
+        "step": 197,
+        "t": 1794599342,
+        "forecast_price": 0.1432,
+        "lower_90": 0.0371,
+        "upper_90": 0.2492
+      },
+      {
+        "step": 198,
+        "t": 1794599402,
+        "forecast_price": 0.1431,
+        "lower_90": 0.0369,
+        "upper_90": 0.2494
+      },
+      {
+        "step": 199,
+        "t": 1794599462,
+        "forecast_price": 0.1431,
+        "lower_90": 0.0366,
+        "upper_90": 0.2497
+      },
+      {
+        "step": 200,
+        "t": 1794599522,
+        "forecast_price": 0.1431,
+        "lower_90": 0.0363,
+        "upper_90": 0.2499
+      },
+      {
+        "step": 201,
+        "t": 1794599582,
+        "forecast_price": 0.1431,
+        "lower_90": 0.036,
+        "upper_90": 0.2501
+      },
+      {
+        "step": 202,
+        "t": 1794599642,
+        "forecast_price": 0.1431,
+        "lower_90": 0.0358,
+        "upper_90": 0.2504
+      },
+      {
+        "step": 203,
+        "t": 1794599702,
+        "forecast_price": 0.143,
+        "lower_90": 0.0355,
+        "upper_90": 0.2506
+      },
+      {
+        "step": 204,
+        "t": 1794599762,
+        "forecast_price": 0.143,
+        "lower_90": 0.0352,
+        "upper_90": 0.2508
+      },
+      {
+        "step": 205,
+        "t": 1794599822,
+        "forecast_price": 0.143,
+        "lower_90": 0.0349,
+        "upper_90": 0.2511
+      },
+      {
+        "step": 206,
+        "t": 1794599882,
+        "forecast_price": 0.143,
+        "lower_90": 0.0347,
+        "upper_90": 0.2513
+      },
+      {
+        "step": 207,
+        "t": 1794599942,
+        "forecast_price": 0.143,
+        "lower_90": 0.0344,
+        "upper_90": 0.2515
+      },
+      {
+        "step": 208,
+        "t": 1794600002,
+        "forecast_price": 0.1429,
+        "lower_90": 0.0341,
+        "upper_90": 0.2517
+      },
+      {
+        "step": 209,
+        "t": 1794600062,
+        "forecast_price": 0.1429,
+        "lower_90": 0.0339,
+        "upper_90": 0.252
+      },
+      {
+        "step": 210,
+        "t": 1794600122,
+        "forecast_price": 0.1429,
+        "lower_90": 0.0336,
+        "upper_90": 0.2522
+      },
+      {
+        "step": 211,
+        "t": 1794600182,
+        "forecast_price": 0.1429,
+        "lower_90": 0.0333,
+        "upper_90": 0.2524
+      },
+      {
+        "step": 212,
+        "t": 1794600242,
+        "forecast_price": 0.1429,
+        "lower_90": 0.0331,
+        "upper_90": 0.2527
+      },
+      {
+        "step": 213,
+        "t": 1794600302,
+        "forecast_price": 0.1428,
+        "lower_90": 0.0328,
+        "upper_90": 0.2529
+      },
+      {
+        "step": 214,
+        "t": 1794600362,
+        "forecast_price": 0.1428,
+        "lower_90": 0.0325,
+        "upper_90": 0.2531
+      },
+      {
+        "step": 215,
+        "t": 1794600422,
+        "forecast_price": 0.1428,
+        "lower_90": 0.0323,
+        "upper_90": 0.2533
+      },
+      {
+        "step": 216,
+        "t": 1794600482,
+        "forecast_price": 0.1428,
+        "lower_90": 0.032,
+        "upper_90": 0.2536
+      },
+      {
+        "step": 217,
+        "t": 1794600542,
+        "forecast_price": 0.1428,
+        "lower_90": 0.0317,
+        "upper_90": 0.2538
+      },
+      {
+        "step": 218,
+        "t": 1794600602,
+        "forecast_price": 0.1427,
+        "lower_90": 0.0315,
+        "upper_90": 0.254
+      },
+      {
+        "step": 219,
+        "t": 1794600662,
+        "forecast_price": 0.1427,
+        "lower_90": 0.0312,
+        "upper_90": 0.2542
+      },
+      {
+        "step": 220,
+        "t": 1794600722,
+        "forecast_price": 0.1427,
+        "lower_90": 0.031,
+        "upper_90": 0.2544
+      },
+      {
+        "step": 221,
+        "t": 1794600782,
+        "forecast_price": 0.1427,
+        "lower_90": 0.0307,
+        "upper_90": 0.2547
+      },
+      {
+        "step": 222,
+        "t": 1794600842,
+        "forecast_price": 0.1427,
+        "lower_90": 0.0304,
+        "upper_90": 0.2549
+      },
+      {
+        "step": 223,
+        "t": 1794600902,
+        "forecast_price": 0.1426,
+        "lower_90": 0.0302,
+        "upper_90": 0.2551
+      },
+      {
+        "step": 224,
+        "t": 1794600962,
+        "forecast_price": 0.1426,
+        "lower_90": 0.0299,
+        "upper_90": 0.2553
+      },
+      {
+        "step": 225,
+        "t": 1794601022,
+        "forecast_price": 0.1426,
+        "lower_90": 0.0297,
+        "upper_90": 0.2555
+      },
+      {
+        "step": 226,
+        "t": 1794601082,
+        "forecast_price": 0.1426,
+        "lower_90": 0.0294,
+        "upper_90": 0.2558
+      },
+      {
+        "step": 227,
+        "t": 1794601142,
+        "forecast_price": 0.1426,
+        "lower_90": 0.0291,
+        "upper_90": 0.256
+      },
+      {
+        "step": 228,
+        "t": 1794601202,
+        "forecast_price": 0.1425,
+        "lower_90": 0.0289,
+        "upper_90": 0.2562
+      },
+      {
+        "step": 229,
+        "t": 1794601262,
+        "forecast_price": 0.1425,
+        "lower_90": 0.0286,
+        "upper_90": 0.2564
+      },
+      {
+        "step": 230,
+        "t": 1794601322,
+        "forecast_price": 0.1425,
+        "lower_90": 0.0284,
+        "upper_90": 0.2566
+      },
+      {
+        "step": 231,
+        "t": 1794601382,
+        "forecast_price": 0.1425,
+        "lower_90": 0.0281,
+        "upper_90": 0.2568
+      },
+      {
+        "step": 232,
+        "t": 1794601442,
+        "forecast_price": 0.1425,
+        "lower_90": 0.0279,
+        "upper_90": 0.2571
+      },
+      {
+        "step": 233,
+        "t": 1794601502,
+        "forecast_price": 0.1424,
+        "lower_90": 0.0276,
+        "upper_90": 0.2573
+      },
+      {
+        "step": 234,
+        "t": 1794601562,
+        "forecast_price": 0.1424,
+        "lower_90": 0.0274,
+        "upper_90": 0.2575
+      },
+      {
+        "step": 235,
+        "t": 1794601622,
+        "forecast_price": 0.1424,
+        "lower_90": 0.0271,
+        "upper_90": 0.2577
+      },
+      {
+        "step": 236,
+        "t": 1794601682,
+        "forecast_price": 0.1424,
+        "lower_90": 0.0269,
+        "upper_90": 0.2579
+      },
+      {
+        "step": 237,
+        "t": 1794601742,
+        "forecast_price": 0.1424,
+        "lower_90": 0.0266,
+        "upper_90": 0.2581
+      },
+      {
+        "step": 238,
+        "t": 1794601802,
+        "forecast_price": 0.1424,
+        "lower_90": 0.0264,
+        "upper_90": 0.2583
+      },
+      {
+        "step": 239,
+        "t": 1794601862,
+        "forecast_price": 0.1423,
+        "lower_90": 0.0261,
+        "upper_90": 0.2585
+      },
+      {
+        "step": 240,
+        "t": 1794601922,
+        "forecast_price": 0.1423,
+        "lower_90": 0.0259,
+        "upper_90": 0.2588
+      }
+    ]
+  }
+}
